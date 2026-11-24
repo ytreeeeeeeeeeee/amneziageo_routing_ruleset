@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Character AI: Chat, Talk, Text",
+    "packageId": "ai.character.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ai.character.app&hl=ru"
+  },
+  {
+    "name": "Perplexity - Ask Anything",
+    "packageId": "ai.perplexity.app.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ai.perplexity.app.android&hl=ru"
+  },
+  {
+    "name": "Grok",
+    "packageId": "ai.x.grok",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ai.x.grok&hl=ru"
+  },
+  {
+    "name": "ReVanced YouTube Music",
+    "packageId": "app.revanced.android.apps.youtube.music",
+    "storeUrl": "https://apkpure.com/revanced-youtube-music/app.revanced.android.apps.youtube.music"
+  },
+  {
+    "name": "YouTube ReVanced",
+    "packageId": "app.revanced.android.youtube",
+    "storeUrl": "https://apkpure.com/youtube-revanced/app.revanced.android.youtube"
+  },
+  {
+    "name": "BBC: World News & Stories",
+    "packageId": "bbc.mobile.news.ww",
+    "storeUrl": "https://play.google.com/store/apps/details?id=bbc.mobile.news.ww&hl=ru"
+  },
+  {
+    "name": "Proton Mail почта",
+    "packageId": "ch.protonmail.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ch.protonmail.android&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ch.protonmail.android.calendar",
+    "storeUrl": null
+  },
+  {
+    "name": "Hinge Dating App: Date & Chat",
+    "packageId": "co.hinge.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=co.hinge.app&hl=ru"
+  },
+  {
+    "name": "Slack",
+    "packageId": "com.Slack",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.Slack&hl=ru"
+  },
+  {
+    "name": "Airbnb",
+    "packageId": "com.airbnb.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.airbnb.android&hl=ru"
+  },
+  {
+    "name": "Prime Video",
+    "packageId": "com.amazon.amazonvideo.livingroom",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.amazon.amazonvideo.livingroom&hl=ru"
+  },
+  {
+    "name": "Prime Video",
+    "packageId": "com.amazon.avod.thirdpartyclient",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.amazon.avod.thirdpartyclient&hl=ru"
+  },
+  {
+    "name": "Claude by Anthropic",
+    "packageId": "com.anthropic.claude",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.anthropic.claude&hl=ru"
+  },
+  {
+    "name": "TIDAL Music: HiFi sound",
+    "packageId": "com.aspiro.tidal",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.aspiro.tidal&hl=ru"
+  },
+  {
+    "name": "Jira Cloud by Atlassian",
+    "packageId": "com.atlassian.android.jira.core",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=ru"
+  },
+  {
+    "name": "Badoo — знакомства и чат",
+    "packageId": "com.badoo.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.badoo.mobile&hl=ru"
+  },
+  {
+    "name": "Booking.com бронь отелей",
+    "packageId": "com.booking",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.booking&hl=ru"
+  },
+  {
+    "name": "NovaGram",
+    "packageId": "com.brent.novagram",
+    "storeUrl": "https://appteka.store/app/9b6r325824"
+  },
+  {
+    "name": "Bumble — Знакомства и общение",
+    "packageId": "com.bumble.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.bumble.app&hl=ru"
+  },
+  {
+    "name": "Canva: ИИ дизайн и шаблоны",
+    "packageId": "com.canva.editor",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.canva.editor&hl=ru"
+  },
+  {
+    "name": "Nekogram Lite",
+    "packageId": "com.cool2645.nekolite",
+    "storeUrl": "https://apkpure.com/nekogram-lite/com.cool2645.nekolite"
+  },
+  {
+    "name": "Crunchyroll",
+    "packageId": "com.crunchyroll.crunchyroid",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.crunchyroll.crunchyroid&hl=ru"
+  },
+  {
+    "name": "DeviantArt",
+    "packageId": "com.deviantart.android.damobile",
+    "storeUrl": "https://apkpure.com/deviantart/com.deviantart.android.damobile"
+  },
+  {
+    "name": "Общайтесь и играйте с Discord",
+    "packageId": "com.discord",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.discord&hl=ru"
+  },
+  {
+    "name": "Disney+",
+    "packageId": "com.disney.disneyplus",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.disney.disneyplus&hl=ru"
+  },
+  {
+    "name": "eBay – Купить и Сэкономить",
+    "packageId": "com.ebay.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ebay.mobile&hl=ru"
+  },
+  {
+    "name": "Etsy — мир уникальных товаров",
+    "packageId": "com.etsy.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.etsy.android&hl=ru"
+  },
+  {
+    "name": "Expedia: Hotels, Flights, Cars",
+    "packageId": "com.expedia.bookings",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.expedia.bookings&hl=ru"
+  },
+  {
+    "name": "exteraGram",
+    "packageId": "com.exteragram.messenger",
+    "storeUrl": "https://apkpure.com/exteragram/com.exteragram.messenger"
+  },
+  {
+    "name": null,
+    "packageId": "com.exteragram.messenger.beta",
+    "storeUrl": null
+  },
+  {
+    "name": "Meta Ads Manager",
+    "packageId": "com.facebook.adsmanager",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.adsmanager&hl=ru"
+  },
+  {
+    "name": "Meta Spark Player",
+    "packageId": "com.facebook.arstudio.player",
+    "storeUrl": "https://phoneky.com/android/?id=d1d307521"
+  },
+  {
+    "name": "Portal from Facebook",
+    "packageId": "com.facebook.bishop",
+    "storeUrl": "https://portal-facebook.en.aptoide.com/?store_name=appupdater&app_id=68234659"
+  },
+  {
+    "name": "Facebook",
+    "packageId": "com.facebook.katana",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=ru"
+  },
+  {
+    "name": "Facebook Lite",
+    "packageId": "com.facebook.lite",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.lite&hl=ru"
+  },
+  {
+    "name": "Messenger Lite",
+    "packageId": "com.facebook.mlite",
+    "storeUrl": "https://apkpure.com/messenger-lite/com.facebook.mlite"
+  },
+  {
+    "name": "Messenger",
+    "packageId": "com.facebook.orca",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.orca&hl=ru"
+  },
+  {
+    "name": "Meta Business Suite",
+    "packageId": "com.facebook.pages.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.pages.app&hl=ru"
+  },
+  {
+    "name": "Meta AI",
+    "packageId": "com.facebook.stella",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.stella&hl=ru"
+  },
+  {
+    "name": "Workplace from Facebook",
+    "packageId": "com.facebook.work",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.facebook.work&hl=ru"
+  },
+  {
+    "name": "Workplace Chat from Meta",
+    "packageId": "com.facebook.workchat",
+    "storeUrl": "https://work-chat.en.uptodown.com/android"
+  },
+  {
+    "name": "FACEIT: CS2 Command Centre",
+    "packageId": "com.faceit.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.faceit.mobile&hl=ru"
+  },
+  {
+    "name": "Figma: view. comment. mirror.",
+    "packageId": "com.figma.mirror",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.figma.mirror&hl=ru"
+  },
+  {
+    "name": "Fiverr - Freelance Service",
+    "packageId": "com.fiverr.fiverr",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.fiverr.fiverr&hl=ru"
+  },
+  {
+    "name": "LibreTube",
+    "packageId": "com.github.libretube",
+    "storeUrl": "https://apkpure.com/libretube/com.github.libretube"
+  },
+  {
+    "name": "Google Gemini",
+    "packageId": "com.google.android.apps.bard",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.bard&hl=ru"
+  },
+  {
+    "name": "Gemini Notebook",
+    "packageId": "com.google.android.apps.labs.language.tailwind",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.labs.language.tailwind&hl=ru"
+  },
+  {
+    "name": "YouTube Детям",
+    "packageId": "com.google.android.apps.youtube.kids",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.kids&hl=ru"
+  },
+  {
+    "name": "YouTube Music",
+    "packageId": "com.google.android.apps.youtube.music",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.apps.youtube.music&hl=ru"
+  },
+  {
+    "name": "YouTube",
+    "packageId": "com.google.android.youtube",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=ru"
+  },
+  {
+    "name": "YouTube for Android TV",
+    "packageId": "com.google.android.youtube.tv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube.tv&hl=ru"
+  },
+  {
+    "name": "YouTube Music",
+    "packageId": "com.google.android.youtube.tvmusic",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.google.android.youtube.tvmusic&hl=ru"
+  },
+  {
+    "name": "Grindr - Gay Dating & Chat",
+    "packageId": "com.grindrapp.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.grindrapp.android&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.hotels.android",
+    "storeUrl": null
+  },
+  {
+    "name": "iMe: TG AI Мессенджер",
+    "packageId": "com.iMe.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.iMe.android&hl=ru"
+  },
+  {
+    "name": "DW - Breaking World News",
+    "packageId": "com.idmedia.android.newsportal",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.idmedia.android.newsportal&hl=ru"
+  },
+  {
+    "name": "Zara",
+    "packageId": "com.inditex.zara",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.inditex.zara&hl=ru"
+  },
+  {
+    "name": "Instagram",
+    "packageId": "com.instagram.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.instagram.android&hl=ru"
+  },
+  {
+    "name": "Threads",
+    "packageId": "com.instagram.barcelona",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.instagram.barcelona&hl=ru"
+  },
+  {
+    "name": "Instagram Lite",
+    "packageId": "com.instagram.lite",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.instagram.lite&hl=ru"
+  },
+  {
+    "name": "KakaoTalk : Мессенджер",
+    "packageId": "com.kakao.talk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kakao.talk&hl=ru"
+  },
+  {
+    "name": "LinkedIn",
+    "packageId": "com.linkedin.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.linkedin.android&hl=ru"
+  },
+  {
+    "name": "LinkedIn Learning",
+    "packageId": "com.linkedin.android.learning",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.linkedin.android.learning&hl=ru"
+  },
+  {
+    "name": "LinkedIn Sales Navigator",
+    "packageId": "com.linkedin.android.salesnavigator",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.linkedin.android.salesnavigator&hl=ru"
+  },
+  {
+    "name": "LinkedIn Recruiter",
+    "packageId": "com.linkedin.recruiter",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.linkedin.recruiter&hl=ru"
+  },
+  {
+    "name": "McDonald's",
+    "packageId": "com.mcdonalds.mobileapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.mcdonalds.mobileapp&hl=ru"
+  },
+  {
+    "name": "Medium: Read & Write Stories",
+    "packageId": "com.medium.reader",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.medium.reader&hl=ru"
+  },
+  {
+    "name": "Microsoft Bing Search",
+    "packageId": "com.microsoft.bing",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.microsoft.bing&hl=ru"
+  },
+  {
+    "name": "​​Microsoft Copilot",
+    "packageId": "com.microsoft.copilot",
+    "storeUrl": "https://apkpure.com/microsoft-copilot/com.microsoft.copilot"
+  },
+  {
+    "name": "Microsoft Designer",
+    "packageId": "com.microsoft.designer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.microsoft.designer&hl=ru"
+  },
+  {
+    "name": "Skrill — Платежи и переводы",
+    "packageId": "com.moneybookers.skrillpayments",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.moneybookers.skrillpayments&hl=ru"
+  },
+  {
+    "name": "Netflix",
+    "packageId": "com.netflix.mediaclient",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=ru"
+  },
+  {
+    "name": "Netflix",
+    "packageId": "com.netflix.ninja",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.netflix.ninja&hl=ru"
+  },
+  {
+    "name": "Pokémon GO",
+    "packageId": "com.nianticlabs.pokemongo",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo&hl=ru"
+  },
+  {
+    "name": "OkCupid Dating: Date Singles",
+    "packageId": "com.okcupid.okcupid",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.okcupid.okcupid&hl=ru"
+  },
+  {
+    "name": "ChatGPT",
+    "packageId": "com.openai.chatgpt",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.openai.chatgpt&hl=ru"
+  },
+  {
+    "name": "Patreon",
+    "packageId": "com.patreon.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.patreon.android&hl=ru"
+  },
+  {
+    "name": "Payoneer",
+    "packageId": "com.payoneer.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.payoneer.android&hl=ru"
+  },
+  {
+    "name": "PayPal",
+    "packageId": "com.paypal.android.p2pmobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile&hl=ru"
+  },
+  {
+    "name": "Poe - Fast AI Chat",
+    "packageId": "com.poe.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.poe.android&hl=ru"
+  },
+  {
+    "name": "Miro: your visual workspace",
+    "packageId": "com.realtimeboard",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.realtimeboard&hl=ru"
+  },
+  {
+    "name": "Remitly: Send Money & Transfer",
+    "packageId": "com.remitly.androidapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.remitly.androidapp&hl=ru"
+  },
+  {
+    "name": "Revolut",
+    "packageId": "com.revolut.revolut",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.revolut.revolut&hl=ru"
+  },
+  {
+    "name": "Онлайн-уроки Skillshare",
+    "packageId": "com.skillshare.Skillshare",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.skillshare.Skillshare&hl=ru"
+  },
+  {
+    "name": "Snapchat",
+    "packageId": "com.snapchat.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.snapchat.android&hl=ru"
+  },
+  {
+    "name": "SoundCloud – музыка и звук",
+    "packageId": "com.soundcloud.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=ru"
+  },
+  {
+    "name": "Spotify Lite",
+    "packageId": "com.spotify.lite",
+    "storeUrl": "https://apkpure.com/spotify-lite-app/com.spotify.lite"
+  },
+  {
+    "name": "Spotify: музыка и подкасты",
+    "packageId": "com.spotify.music",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.spotify.music&hl=ru"
+  },
+  {
+    "name": "Spotify: музыка и подкасты",
+    "packageId": "com.spotify.tv.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.spotify.tv.android&hl=ru"
+  },
+  {
+    "name": "TikTok",
+    "packageId": "com.ss.android.ugc.trill",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ss.android.ugc.trill&hl=ru"
+  },
+  {
+    "name": "Suno - ИИ Музыка и Песни",
+    "packageId": "com.suno.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.suno.android&hl=ru"
+  },
+  {
+    "name": "Boom Beach",
+    "packageId": "com.supercell.boombeach",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.boombeach&hl=ru"
+  },
+  {
+    "name": "Brawl Stars",
+    "packageId": "com.supercell.brawlstars",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.brawlstars&hl=ru"
+  },
+  {
+    "name": "Clash of Clans",
+    "packageId": "com.supercell.clashofclans",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashofclans&hl=ru"
+  },
+  {
+    "name": "Clash Royale",
+    "packageId": "com.supercell.clashroyale",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.clashroyale&hl=ru"
+  },
+  {
+    "name": "Hay Day",
+    "packageId": "com.supercell.hayday",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.supercell.hayday&hl=ru"
+  },
+  {
+    "name": "Tinder - знакомства и чат",
+    "packageId": "com.tinder",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.tinder&hl=ru"
+  },
+  {
+    "name": "Wise",
+    "packageId": "com.transferwise.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.transferwise.android&hl=ru"
+  },
+  {
+    "name": "Trello: организация всего",
+    "packageId": "com.trello",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.trello&hl=ru"
+  },
+  {
+    "name": "BiP - обмен смс, видеозвонками",
+    "packageId": "com.turkcell.bip",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.turkcell.bip&hl=ru"
+  },
+  {
+    "name": "X (Ранее Twitter)",
+    "packageId": "com.twitter.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.twitter.android&hl=ru"
+  },
+  {
+    "name": "Uber | Заказ поездок",
+    "packageId": "com.ubercab",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ubercab&hl=ru"
+  },
+  {
+    "name": "Uber Eats: доставка еды",
+    "packageId": "com.ubercab.eats",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ubercab.eats&hl=ru"
+  },
+  {
+    "name": "Udemy - онлайн-курсы",
+    "packageId": "com.udemy.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.udemy.android&hl=ru"
+  },
+  {
+    "name": "Upwork (Old)",
+    "packageId": "com.upwork.android.apps.client",
+    "storeUrl": "https://apkpure.com/upwork-for-clients/com.upwork.android.apps.client"
+  },
+  {
+    "name": "Upwork",
+    "packageId": "com.upwork.android.apps.main",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.upwork.android.apps.main&hl=ru"
+  },
+  {
+    "name": "Rakuten Viber Messenger",
+    "packageId": "com.viber.voip",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.viber.voip&hl=ru"
+  },
+  {
+    "name": "HBO Max: Stream TV & Movies",
+    "packageId": "com.wbd.stream",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wbd.stream&hl=ru"
+  },
+  {
+    "name": "WhatsApp Messenger",
+    "packageId": "com.whatsapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.whatsapp&hl=ru"
+  },
+  {
+    "name": "WhatsApp Business",
+    "packageId": "com.whatsapp.w4b",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.whatsapp.w4b&hl=ru"
+  },
+  {
+    "name": "X TV",
+    "packageId": "com.x.xtv",
+    "storeUrl": "https://apkpure.com/x-tv/com.x.xtv"
+  },
+  {
+    "name": "Xoom Money Transfer",
+    "packageId": "com.xoom.android.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.xoom.android.app&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.zello.client",
+    "storeUrl": null
+  },
+  {
+    "name": "TikTok",
+    "packageId": "com.zhiliaoapp.musically",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically&hl=ru"
+  },
+  {
+    "name": "TikTok Lite - Faster TikTok",
+    "packageId": "com.zhiliaoapp.musically.go",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically.go&hl=ru"
+  },
+  {
+    "name": "Max Music Player",
+    "packageId": "com.zionhuang.music",
+    "storeUrl": "https://apkpure.com/max-music-player/com.zionhuang.music"
+  },
+  {
+    "name": "Tuta Mail: Secure Email",
+    "packageId": "de.tutao.tutanota",
+    "storeUrl": "https://play.google.com/store/apps/details?id=de.tutao.tutanota&hl=ru"
+  },
+  {
+    "name": "DW",
+    "packageId": "dw.com.androidtv.live",
+    "storeUrl": "https://play.google.com/store/apps/details?id=dw.com.androidtv.live&hl=ru"
+  },
+  {
+    "name": "TurboTel Pro",
+    "packageId": "ellipi.messenger",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ellipi.messenger&hl=ru"
+  },
+  {
+    "name": "SkyTube",
+    "packageId": "free.rm.skytube.oss",
+    "storeUrl": "https://f-droid.org/packages/free.rm.skytube.oss/"
+  },
+  {
+    "name": "ElevenLabs: AI Voice Generator",
+    "packageId": "io.elevenlabs.coreapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=io.elevenlabs.coreapp&hl=ru"
+  },
+  {
+    "name": "ElevenReader: Read Books Aloud",
+    "packageId": "io.elevenlabs.readerapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=io.elevenlabs.readerapp&hl=ru"
+  },
+  {
+    "name": "Meduza",
+    "packageId": "io.meduza.android",
+    "storeUrl": "https://apkpure.com/meduza-%E2%80%94-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8-%D0%B4%D0%BD%D1%8F/io.meduza.android"
+  },
+  {
+    "name": "Meduza - новости",
+    "packageId": "io.meduza.meduza",
+    "storeUrl": "https://play.google.com/store/apps/details?id=io.meduza.meduza&hl=ru"
+  },
+  {
+    "name": "Graph Messenger",
+    "packageId": "ir.ilmili.telegraph",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ir.ilmili.telegraph&hl=ru"
+  },
+  {
+    "name": "Mercurygram",
+    "packageId": "it.belloworld.mercurygram",
+    "storeUrl": "https://f-droid.org/packages/it.belloworld.mercurygram/"
+  },
+  {
+    "name": "OctoGram",
+    "packageId": "it.octogram.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=it.octogram.android&hl=ru"
+  },
+  {
+    "name": "OwlGram",
+    "packageId": "it.owlgram.android",
+    "storeUrl": "https://apkpure.com/owlgram/it.owlgram.android"
+  },
+  {
+    "name": "LINE: звонки и сообщения",
+    "packageId": "jp.naver.line.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=jp.naver.line.android&hl=ru"
+  },
+  {
+    "name": "Облачное хранение Proton Drive",
+    "packageId": "me.proton.android.drive",
+    "storeUrl": "https://play.google.com/store/apps/details?id=me.proton.android.drive&hl=ru"
+  },
+  {
+    "name": "moeGramX",
+    "packageId": "moe.kirao.mgx",
+    "storeUrl": "https://apkpure.com/moegramx/moe.kirao.mgx"
+  },
+  {
+    "name": "Momogram",
+    "packageId": "momo.gram",
+    "storeUrl": "https://appteka.store/app/f45r293694"
+  },
+  {
+    "name": "Nekogram X",
+    "packageId": "nekox.messenger",
+    "storeUrl": "https://apkpure.com/nekogram-x-for-telegram/nekox.messenger"
+  },
+  {
+    "name": "Notion: AI Workspace",
+    "packageId": "notion.id",
+    "storeUrl": "https://play.google.com/store/apps/details?id=notion.id&hl=ru"
+  },
+  {
+    "name": "aka",
+    "packageId": "org.aka.messenger",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.aka.messenger&hl=ru"
+  },
+  {
+    "name": "Coursera: развивайте карьеру",
+    "packageId": "org.coursera.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.coursera.android&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "org.forkclient.messenger",
+    "storeUrl": null
+  },
+  {
+    "name": "Fork Client",
+    "packageId": "org.forkclient.messenger.beta",
+    "storeUrl": "https://apkpure.com/fork-client/org.forkclient.messenger.beta"
+  },
+  {
+    "name": "Forkgram Classic",
+    "packageId": "org.forkgram.classic",
+    "storeUrl": "https://f-droid.org/packages/org.forkgram.classic/"
+  },
+  {
+    "name": "Forkgram",
+    "packageId": "org.forkgram.messenger",
+    "storeUrl": "https://f-droid.org/packages/org.forkgram.messenger/"
+  },
+  {
+    "name": null,
+    "packageId": "org.nift4.catox",
+    "storeUrl": null
+  },
+  {
+    "name": "RFE/RL",
+    "packageId": "org.rferl.en",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.rferl.en&hl=ru"
+  },
+  {
+    "name": "NewPipe",
+    "packageId": "org.schabi.newpipe",
+    "storeUrl": "https://apkpure.com/newpipe/org.schabi.newpipe"
+  },
+  {
+    "name": "Неофициальный клиент для сайта 4pda.ru",
+    "packageId": "org.softeg.slartus.forpdaplus",
+    "storeUrl": "https://apkpure.com/%D0%BD%D0%B5%D0%BE%D1%84%D0%B8%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0-4pda-ru/org.softeg.slartus.forpdaplus"
+  },
+  {
+    "name": "BGram",
+    "packageId": "org.telegram.BifToGram",
+    "storeUrl": "https://apkpure.com/bgram/org.telegram.BifToGram"
+  },
+  {
+    "name": "Telegram",
+    "packageId": "org.telegram.messenger",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.telegram.messenger&hl=ru"
+  },
+  {
+    "name": "Telegram Beta",
+    "packageId": "org.telegram.messenger.beta",
+    "storeUrl": "https://apkpure.com/telegram-beta/org.telegram.messenger.beta"
+  },
+  {
+    "name": "Telegram",
+    "packageId": "org.telegram.messenger.web",
+    "storeUrl": "https://apkpure.com/telegram-messenger/org.telegram.messenger.web"
+  },
+  {
+    "name": "Plus Messenger",
+    "packageId": "org.telegram.plus",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.telegram.plus&hl=ru"
+  },
+  {
+    "name": "Signal — приватный мессенджер",
+    "packageId": "org.thoughtcrime.securesms",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms&hl=ru"
+  },
+  {
+    "name": "Telegram X",
+    "packageId": "org.thunderdog.challegram",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.thunderdog.challegram&hl=ru"
+  },
+  {
+    "name": "Speedtest от Ookla",
+    "packageId": "org.zwanoo.android.speedtest",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.zwanoo.android.speedtest&hl=ru"
+  },
+  {
+    "name": "Proton Pass: менеджер паролей",
+    "packageId": "proton.android.pass",
+    "storeUrl": "https://play.google.com/store/apps/details?id=proton.android.pass&hl=ru"
+  },
+  {
+    "name": "4PDA",
+    "packageId": "ru.fourpda.client",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.fourpda.client&hl=ru"
+  },
+  {
+    "name": "inDrive. Поездки по вашей цене",
+    "packageId": "sinet.startup.inDriver",
+    "storeUrl": "https://play.google.com/store/apps/details?id=sinet.startup.inDriver&hl=ru"
+  },
+  {
+    "name": "Nullgram",
+    "packageId": "top.qwq2333.nullgram",
+    "storeUrl": "https://play.google.com/store/apps/details?id=top.qwq2333.nullgram&hl=ru"
+  },
+  {
+    "name": "Twitch: прямые трансляции",
+    "packageId": "tv.twitch.android.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=ru"
+  },
+  {
+    "name": "Nekogram",
+    "packageId": "tw.nekomimi.nekogram",
+    "storeUrl": "https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram&hl=ru"
+  },
+  {
+    "name": "Catogram",
+    "packageId": "ua.itaysonlab.messenger",
+    "storeUrl": "https://apkpure.com/catogram/ua.itaysonlab.messenger"
+  },
+  {
+    "name": "Cherrygram",
+    "packageId": "uz.unnarsx.cherrygram",
+    "storeUrl": "https://play.google.com/store/apps/details?id=uz.unnarsx.cherrygram&hl=ru"
+  },
+  {
+    "name": "Bluesky",
+    "packageId": "xyz.blueskyweb.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=ru"
+  }
+]

@@ -1,0 +1,4137 @@
+[
+  {
+    "name": "ОБИ – товары для дома, стройма",
+    "packageId": "air.ru.obi.mobile",
+    "storeUrl": "https://apkpure.com/%D0%BE%D0%B1%D0%B8-%E2%80%93-%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%BE%D0%BC%D0%B0-%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BC%D0%B0/air.ru.obi.mobile"
+  },
+  {
+    "name": "SubsCrab: трекер подписок",
+    "packageId": "app.subscab.android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/app.subscab.android"
+  },
+  {
+    "name": "YCLIENTS для бизнеса",
+    "packageId": "apps.yclients1",
+    "storeUrl": "https://www.rustore.ru/catalog/app/apps.yclients1"
+  },
+  {
+    "name": "VTB Business Azerbaijan",
+    "packageId": "az.vtb.android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/az.vtb.android"
+  },
+  {
+    "name": "Phoenix Lite",
+    "packageId": "biz.dealnote.messenger",
+    "storeUrl": "https://apkpure.com/phoenix-lite-for-vk/biz.dealnote.messenger"
+  },
+  {
+    "name": "Phoenix for VK",
+    "packageId": "biz.dealnote.phoenix",
+    "storeUrl": "https://apkpure.com/phoenix-for-vk/biz.dealnote.phoenix"
+  },
+  {
+    "name": "WINLINE — ставки на спорт",
+    "packageId": "biz.growapp.winline",
+    "storeUrl": "https://www.rustore.ru/catalog/app/biz.growapp.winline"
+  },
+  {
+    "name": "HERO: обучение и карьера",
+    "packageId": "business.gid.hero",
+    "storeUrl": "https://www.rustore.ru/catalog/app/business.gid.hero"
+  },
+  {
+    "name": "UNIVERSE: старт карьеры",
+    "packageId": "business.gid.universe",
+    "storeUrl": "https://www.rustore.ru/catalog/app/business.gid.universe"
+  },
+  {
+    "name": "Тройка. Пополнение и проверка",
+    "packageId": "by.advasoft.android.troika.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/by.advasoft.android.troika.app"
+  },
+  {
+    "name": "УБРиР Мобильный банк",
+    "packageId": "cb.ibank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/cb.ibank"
+  },
+  {
+    "name": "ВУЗ-банк",
+    "packageId": "cb.ibank.vuz",
+    "storeUrl": "https://www.rustore.ru/catalog/app/cb.ibank.vuz"
+  },
+  {
+    "name": "АЗС Нефтьмагистраль",
+    "packageId": "centrida.neftmagistral",
+    "storeUrl": "https://www.rustore.ru/catalog/app/centrida.neftmagistral"
+  },
+  {
+    "name": "StrelkaChat",
+    "packageId": "chat.strelka",
+    "storeUrl": "https://www.rustore.ru/catalog/app/chat.strelka"
+  },
+  {
+    "name": "Чижик – доставка продуктов",
+    "packageId": "club.chizhik",
+    "storeUrl": "https://www.rustore.ru/catalog/app/club.chizhik"
+  },
+  {
+    "name": "Мой Фитнес",
+    "packageId": "club.skllzz.fitness",
+    "storeUrl": "https://www.rustore.ru/catalog/app/club.skllzz.fitness"
+  },
+  {
+    "name": "Магия Знаний: История России",
+    "packageId": "com.BOGG.ART.VKT",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.BOGG.ART.VKT"
+  },
+  {
+    "name": "Юла — сервис объявлений",
+    "packageId": "com.allgoritm.youla",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.allgoritm.youla"
+  },
+  {
+    "name": "Вкусно — и точка: еда, доставка, скидки и акции",
+    "packageId": "com.apegroup.mcdonaldsrussia",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.apegroup.mcdonaldsrussia"
+  },
+  {
+    "name": "Аптека Апрель",
+    "packageId": "com.apteka.sklad",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.apteka.sklad"
+  },
+  {
+    "name": "АСМО",
+    "packageId": "com.asmo.infometeos",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.asmo.infometeos"
+  },
+  {
+    "name": "Авито – путешествия, работа, услуги, авто",
+    "packageId": "com.avito.android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.avito.android"
+  },
+  {
+    "name": "Дом.ру Бизнес",
+    "packageId": "com.b2bdomru.domrubusiness",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.b2bdomru.domrubusiness"
+  },
+  {
+    "name": "Банк ДОМ.РФ",
+    "packageId": "com.bank.domrf.v2",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bank.domrf.v2"
+  },
+  {
+    "name": "Цифра банк",
+    "packageId": "com.bankffin.portfolio",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bankffin.portfolio"
+  },
+  {
+    "name": "Инго Банк",
+    "packageId": "com.banksoyuz.artsofte",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.banksoyuz.artsofte"
+  },
+  {
+    "name": "ФНС Аутентификатор",
+    "packageId": "com.bastion",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bastion"
+  },
+  {
+    "name": null,
+    "packageId": "com.bifit.atbbank",
+    "storeUrl": null
+  },
+  {
+    "name": "Дальневосточный банк",
+    "packageId": "com.bifit.dvbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.dvbank"
+  },
+  {
+    "name": null,
+    "packageId": "com.bifit.mobile.citizen.MCBank",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "com.bifit.mobile.citizen.belsocbank",
+    "storeUrl": null
+  },
+  {
+    "name": "Банк БКФ",
+    "packageId": "com.bifit.mobile.citizen.cfb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.cfb"
+  },
+  {
+    "name": "ИК Банк",
+    "packageId": "com.bifit.mobile.citizen.icbru",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.icbru"
+  },
+  {
+    "name": "ЮГ-Инвестбанк",
+    "packageId": "com.bifit.mobile.citizen.invb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.invb"
+  },
+  {
+    "name": "Кошелев Online",
+    "packageId": "com.bifit.mobile.citizen.kbnk",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.kbnk"
+  },
+  {
+    "name": "MB Bank",
+    "packageId": "com.bifit.mobile.citizen.mbb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.mbb"
+  },
+  {
+    "name": "Москоммерцбанк - Онлайн",
+    "packageId": "com.bifit.mobile.citizen.moskb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.moskb"
+  },
+  {
+    "name": "NK Bank Card Pay",
+    "packageId": "com.bifit.mobile.citizen.nkbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.nkbank"
+  },
+  {
+    "name": "Объединенный капитал Онлайн",
+    "packageId": "com.bifit.mobile.citizen.okbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.okbank"
+  },
+  {
+    "name": "ТЕНДЕР-БАНК",
+    "packageId": "com.bifit.mobile.citizen.tenderbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.bifit.mobile.citizen.tenderbank&hl=ru"
+  },
+  {
+    "name": "ТХБ Онлайн",
+    "packageId": "com.bifit.mobile.citizen.thbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.citizen.thbank"
+  },
+  {
+    "name": null,
+    "packageId": "com.bifit.mobile.citizen.zarech",
+    "storeUrl": null
+  },
+  {
+    "name": "ББР Онлайн",
+    "packageId": "com.bifit.mobile.private.bbr",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.mobile.private.bbr"
+  },
+  {
+    "name": "НРБанк",
+    "packageId": "com.bifit.nrb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.nrb"
+  },
+  {
+    "name": "ИШБАНК Онлайн",
+    "packageId": "com.bifit.pmobile.isbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.pmobile.isbank"
+  },
+  {
+    "name": "РНКБ 24/7",
+    "packageId": "com.bifit.rncbbeta",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bifit.rncbbeta"
+  },
+  {
+    "name": null,
+    "packageId": "com.bifit.vfbank",
+    "storeUrl": null
+  },
+  {
+    "name": "Цифровой монтажник (Центр)",
+    "packageId": "com.birzha_rt",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.birzha_rt"
+  },
+  {
+    "name": null,
+    "packageId": "com.bogg.art.vkt",
+    "storeUrl": null
+  },
+  {
+    "name": "СГБ-Мобайл 2.0",
+    "packageId": "com.bpc.crossplatform_trading.bpc_trading",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bpc.crossplatform_trading.bpc_trading"
+  },
+  {
+    "name": "Аверс ONLINE 2.0",
+    "packageId": "com.bssys.aversretail",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.bssys.aversretail&hl=ru"
+  },
+  {
+    "name": "ГУТА-БАНК",
+    "packageId": "com.bssys.gutaretail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bssys.gutaretail"
+  },
+  {
+    "name": "НОВИКОМ",
+    "packageId": "com.bssys.novikomretail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bssys.novikomretail"
+  },
+  {
+    "name": "Банк Дом.РФ",
+    "packageId": "com.bssys.roscapretail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bssys.roscapretail"
+  },
+  {
+    "name": "СЛБАНК Линк",
+    "packageId": "com.bssys.stroylesretail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bssys.stroylesretail"
+  },
+  {
+    "name": "Клюква Мобайл",
+    "packageId": "com.bssys.uralfdretail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bssys.uralfdretail"
+  },
+  {
+    "name": "ВБРР онлайн",
+    "packageId": "com.bssys.vbrrretail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.bssys.vbrrretail"
+  },
+  {
+    "name": "Делимобиль",
+    "packageId": "com.carshering",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.carshering"
+  },
+  {
+    "name": "Сетелем - Мой Банк",
+    "packageId": "com.cetelem.cetelem_android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.cetelem.cetelem_android"
+  },
+  {
+    "name": "Яндекс Чаевые: на карту по QR",
+    "packageId": "com.chaevieprosto.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.chaevieprosto.app"
+  },
+  {
+    "name": null,
+    "packageId": "com.citibank.mobile.ru",
+    "storeUrl": null
+  },
+  {
+    "name": "Ситимобил: такси и доставка",
+    "packageId": "com.citymobil",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.citymobil"
+  },
+  {
+    "name": "Мобикеш СБП",
+    "packageId": "com.compassplus.mobicash.customer",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.compassplus.mobicash.customer"
+  },
+  {
+    "name": "КуулКлевер. Доставка натуральных продуктов",
+    "packageId": "com.coolclever.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.coolclever.app"
+  },
+  {
+    "name": "КУБ-Мобайл",
+    "packageId": "com.credituralbank.CUBmobilenew",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.credituralbank.CUBmobilenew"
+  },
+  {
+    "name": "Мой Ростелеком",
+    "packageId": "com.dartit.RTcabinet",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.dartit.RTcabinet"
+  },
+  {
+    "name": "Мобильный агент",
+    "packageId": "com.dartit.mobileagent",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.dartit.mobileagent"
+  },
+  {
+    "name": null,
+    "packageId": "com.dartit.rtcabinet",
+    "storeUrl": null
+  },
+  {
+    "name": "Деливери: еда и продукты",
+    "packageId": "com.deliveryclub",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.deliveryclub"
+  },
+  {
+    "name": "Houself",
+    "packageId": "com.dexp01.reoka01.com",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.dexp01.reoka01.com"
+  },
+  {
+    "name": "Discover Moscow Lite",
+    "packageId": "com.discover.moscow.lite",
+    "storeUrl": "https://apkpure.com/discover-moscow-lite/com.discover.moscow.lite"
+  },
+  {
+    "name": "DNS Курьер",
+    "packageId": "com.dnsriteil.delivery",
+    "storeUrl": "https://apkpure.com/dns-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0/com.dnsriteil.delivery"
+  },
+  {
+    "name": "DNS Токен",
+    "packageId": "com.dnsriteil.dns_authenticator",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.dnsriteil.dns_authenticator"
+  },
+  {
+    "name": "СберЗдоровье — телемедицина",
+    "packageId": "com.docdoc.docdoc",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.docdoc.docdoc&hl=ru"
+  },
+  {
+    "name": "Антивирус Dr.Web Light",
+    "packageId": "com.drweb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.drweb&hl=ru"
+  },
+  {
+    "name": "Dr.Web Family Security",
+    "packageId": "com.drweb.familysecure",
+    "storeUrl": "https://apkpure.com/dr-web-family-security/com.drweb.familysecure"
+  },
+  {
+    "name": "Свои Плюсы Едадил — кешбэк",
+    "packageId": "com.edadeal.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.edadeal.android&hl=ru"
+  },
+  {
+    "name": "Энергобанк",
+    "packageId": "com.energobank.digital",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.energobank.digital"
+  },
+  {
+    "name": "МегаФон Драйв",
+    "packageId": "com.equeo.megafondraiv",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD-%D0%B4%D1%80%D0%B0%D0%B9%D0%B2/com.equeo.megafondraiv"
+  },
+  {
+    "name": "Мой Дом.ру",
+    "packageId": "com.ertelecom.agent",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ertelecom.agent&hl=ru"
+  },
+  {
+    "name": "Movix: сериалы, кино, ТВ",
+    "packageId": "com.ertelecom.domrutv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ertelecom.domrutv&hl=ru"
+  },
+  {
+    "name": "Movix - ТВ и фильмы онлайн",
+    "packageId": "com.ertelecom.domrutvstb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ertelecom.domrutvstb&hl=ru"
+  },
+  {
+    "name": "Умный Дом.ру",
+    "packageId": "com.ertelecom.smarthome",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ertelecom.smarthome&hl=ru"
+  },
+  {
+    "name": "Облачная АТС Дом.ру Бизнес",
+    "packageId": "com.ertelecom.vats",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ertelecom.vats&hl=ru"
+  },
+  {
+    "name": "Евразия",
+    "packageId": "com.evrasiar",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.evrasiar&hl=ru"
+  },
+  {
+    "name": "Флаувау: цветы и подарки",
+    "packageId": "com.flowwow",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.flowwow&hl=ru"
+  },
+  {
+    "name": "Gloria Jeans — магазин одежды",
+    "packageId": "com.gloriajeans.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gloriajeans.mobile&hl=ru"
+  },
+  {
+    "name": "Gmeteos",
+    "packageId": "com.gmeteos.infometeos",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gmeteos.infometeos&hl=ru"
+  },
+  {
+    "name": "АУСН ФНС России",
+    "packageId": "com.gnivts.ausn",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gnivts.ausn&hl=ru"
+  },
+  {
+    "name": "Мой Налог",
+    "packageId": "com.gnivts.selfemployed",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gnivts.selfemployed&hl=ru"
+  },
+  {
+    "name": "МТС - замени гудок на мелодию",
+    "packageId": "com.goodok.mts",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.goodok.mts&hl=ru"
+  },
+  {
+    "name": "АЗС «Газпромнефть»",
+    "packageId": "com.gpn.azs",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.gpn.azs"
+  },
+  {
+    "name": "М! Трансфер",
+    "packageId": "com.grotem.match",
+    "storeUrl": "https://apkpure.com/%D0%BC-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%B5%D1%80/com.grotem.match"
+  },
+  {
+    "name": "Триколор Второй экран",
+    "packageId": "com.gsgroup.secondscreen",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gsgroup.secondscreen&hl=ru"
+  },
+  {
+    "name": "Триколор Умный дом",
+    "packageId": "com.gsgroup.smarthome",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gsgroup.smarthome&hl=ru"
+  },
+  {
+    "name": "Триколор Кино и ТВ: Android TV",
+    "packageId": "com.gsgroup.tricoloronline",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gsgroup.tricoloronline&hl=ru"
+  },
+  {
+    "name": "Триколор Кино и ТВ онлайн",
+    "packageId": "com.gsgroup.tricoloronline.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.gsgroup.tricoloronline.mobile&hl=ru"
+  },
+  {
+    "name": "Хайс — банк для ИП",
+    "packageId": "com.hicebank.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.hicebank.android&hl=ru"
+  },
+  {
+    "name": "Чаевые+. На карту по QR-коду",
+    "packageId": "com.horosho.tips",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.horosho.tips&hl=ru"
+  },
+  {
+    "name": "ЛЕНТА – карта магазина",
+    "packageId": "com.icemobile.lenta.prod",
+    "storeUrl": "https://com-icemobile-lenta-prod.en.aptoide.com/?store_name=red-star&app_id=67247264"
+  },
+  {
+    "name": "Tinkoff",
+    "packageId": "com.idamob.tinkoff.android",
+    "storeUrl": "https://apkpure.com/tinkoff/com.idamob.tinkoff.android"
+  },
+  {
+    "name": "Локо Мобайл",
+    "packageId": "com.idamobile.android.LockoBank",
+    "storeUrl": "https://cb-locko-bank-cjsk.en.aptoide.com/?store_name=appupdater&app_id=65562119"
+  },
+  {
+    "name": "Кредит Европа Банк",
+    "packageId": "com.idamobile.android.crediteuropa",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.idamobile.android.crediteuropa&hl=ru"
+  },
+  {
+    "name": "Инбанк-online",
+    "packageId": "com.inbank.mobilebank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.inbank.mobilebank"
+  },
+  {
+    "name": "Детское радио",
+    "packageId": "com.indygomobi.detifm",
+    "storeUrl": "https://apkpure.com/%D0%B4%D0%B5%D1%82%D1%81%D0%BA%D0%BE%D0%B5-%D1%80%D0%B0%D0%B4%D0%B8%D0%BE/com.indygomobi.detifm"
+  },
+  {
+    "name": "Relax FM",
+    "packageId": "com.indygomobi.relaxfm",
+    "storeUrl": "https://apkpure.com/relax-fm/com.indygomobi.relaxfm"
+  },
+  {
+    "name": "Радио Зенит",
+    "packageId": "com.indygomobi.zenit",
+    "storeUrl": "https://apkpure.com/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D0%B7%D0%B5%D0%BD%D0%B8%D1%82/com.indygomobi.zenit"
+  },
+  {
+    "name": "DNS Драйвер",
+    "packageId": "com.info.smartphone.a1cmobilecomponent",
+    "storeUrl": "https://apkpure.com/dns-%D0%B4%D1%80%D0%B0%D0%B9%D0%B2%D0%B5%D1%80/com.info.smartphone.a1cmobilecomponent"
+  },
+  {
+    "name": "ATLAS Переводы со счёта",
+    "packageId": "com.intervale.sbp.atlas",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.intervale.sbp.atlas&hl=ru"
+  },
+  {
+    "name": "INVITRO — здоровье и анализы",
+    "packageId": "com.invitro.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.invitro.app&hl=ru"
+  },
+  {
+    "name": "Челиндбанк",
+    "packageId": "com.isimplelab.ibank.chelind",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.isimplelab.ibank.chelind"
+  },
+  {
+    "name": "Кубань Кредит Онлайн",
+    "packageId": "com.isimplelab.ibank.kubankredit",
+    "storeUrl": "https://cb-kuban-credit-llc.en.aptoide.com/?store_name=appupdater&app_id=69265989"
+  },
+  {
+    "name": "Солидарность Онлайн",
+    "packageId": "com.isimplelab.ibank.solidarnost",
+    "storeUrl": "https://bank-solidarnost.en.aptoide.com/?store_name=appupdater&app_id=65547197"
+  },
+  {
+    "name": "Тойота Банк",
+    "packageId": "com.isimplelab.ibank.toyota",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.isimplelab.ibank.toyota&hl=ru"
+  },
+  {
+    "name": "ГОРБАНК",
+    "packageId": "com.isimplelab.ionic.gorbank.prod",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.isimplelab.ionic.gorbank.prod"
+  },
+  {
+    "name": "банк Раунд онлайн",
+    "packageId": "com.isimplelab.ionic.round.prod",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.isimplelab.ionic.round.prod"
+  },
+  {
+    "name": "Углеметбанк",
+    "packageId": "com.isimplelab.isimpleceo.uglemet",
+    "storeUrl": "https://uglemetbank.en.aptoide.com/?store_name=appupdater&app_id=68213914"
+  },
+  {
+    "name": "МОТИВ.Pay",
+    "packageId": "com.isimplelab.isimplemobile.payjet",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.isimplelab.isimplemobile.payjet&hl=ru"
+  },
+  {
+    "name": "билайн тв",
+    "packageId": "com.iwedia.ui.beeline.atv",
+    "storeUrl": "https://bilajn-tv.en.aptoide.com/?store_name=appstvcommunity&app_id=70680375"
+  },
+  {
+    "name": "Журнал: медиа",
+    "packageId": "com.journal_tj",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.journal_tj&hl=ru"
+  },
+  {
+    "name": "Kaspersky Endpoint Security",
+    "packageId": "com.kaspersky.kes",
+    "storeUrl": "https://apkpure.com/kaspersky-endpoint-security/com.kaspersky.kes"
+  },
+  {
+    "name": "Kaspersky Password Manager",
+    "packageId": "com.kaspersky.passwordmanager",
+    "storeUrl": "https://apkpure.com/kaspersky-password-manager/com.kaspersky.passwordmanager"
+  },
+  {
+    "name": "Kaspersky PetKa: Поиск пропавших питомцев",
+    "packageId": "com.kaspersky.petka",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.kaspersky.petka"
+  },
+  {
+    "name": "Kaspersky SafeKids with GPS",
+    "packageId": "com.kaspersky.safekids",
+    "storeUrl": "https://apkpure.com/kaspersky-safekids-with-gps/com.kaspersky.safekids"
+  },
+  {
+    "name": "Anti-spam: Kaspersky Who Calls",
+    "packageId": "com.kaspersky.who_calls",
+    "storeUrl": "https://whocalls.en.aptoide.com/?store_name=appupdater&app_id=67410987"
+  },
+  {
+    "name": "Магнит Маркет",
+    "packageId": "com.kazanexpress.ke_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.kazanexpress.ke_app&hl=ru"
+  },
+  {
+    "name": "Keenetic",
+    "packageId": "com.keenetic.kn",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.keenetic.kn&hl=ru"
+  },
+  {
+    "name": "VPN & Antivirus by Kaspersky",
+    "packageId": "com.kms.free",
+    "storeUrl": "https://apkpure.com/kaspersky-security-vpn/com.kms.free"
+  },
+  {
+    "name": "Lamoda: мода, красота, дом",
+    "packageId": "com.lamoda.lite",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.lamoda.lite&hl=ru"
+  },
+  {
+    "name": "Лента Спутник",
+    "packageId": "com.lenta.employee",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.lenta.employee"
+  },
+  {
+    "name": "Pick&Go",
+    "packageId": "com.lenta.lentochka_service",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.lenta.lentochka_service"
+  },
+  {
+    "name": null,
+    "packageId": "com.leroymerlin.mobile",
+    "storeUrl": null
+  },
+  {
+    "name": "СДЭК: Доставка и Шопинг",
+    "packageId": "com.logistic.sdek",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.logistic.sdek&hl=ru"
+  },
+  {
+    "name": "SUBJOY",
+    "packageId": "com.loyaltyplant.partner.subway",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.loyaltyplant.partner.subway&hl=ru"
+  },
+  {
+    "name": "Магнит Курьер",
+    "packageId": "com.magnit.delivery.courier",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.magnit.delivery.courier&hl=ru"
+  },
+  {
+    "name": "Матч здесь!",
+    "packageId": "com.match.club",
+    "storeUrl": "https://apkpure.com/%D0%B2%D1%81%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%B0%D1%82%D1%87-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%86%D0%B8%D0%B8-%D0%BC%D0%B0%D1%82%D1%87%D0%B5%D0%B9/com.match.club"
+  },
+  {
+    "name": "Все на МАТЧ!",
+    "packageId": "com.matchtv.rustore",
+    "storeUrl": "https://vse-na-match.en.aptoide.com/?store_name=appstvcommunity&app_id=70238185"
+  },
+  {
+    "name": "maxim ru: такси, доставка",
+    "packageId": "com.maxim.internal",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.maxim.internal&hl=ru"
+  },
+  {
+    "name": "Радио Рекорд DFM Европа Наше",
+    "packageId": "com.maxxt.recordradio",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.maxxt.recordradio&hl=ru"
+  },
+  {
+    "name": "Почта, диск и календарь",
+    "packageId": "com.mcd.superapp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.mcd.superapp"
+  },
+  {
+    "name": "МегаФон Транкинг",
+    "packageId": "com.mcptt",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD-%D1%82%D1%80%D0%B0%D0%BD%D0%BA%D0%B8%D0%BD%D0%B3/com.mcptt"
+  },
+  {
+    "name": "МегаФон Контроль Кадров",
+    "packageId": "com.megafon.kk",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C-%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2/com.megafon.kk"
+  },
+  {
+    "name": "Радар",
+    "packageId": "com.megafon.maps",
+    "storeUrl": "https://apkpure.com/%D1%80%D0%B0%D0%B4%D0%B0%D1%80/com.megafon.maps"
+  },
+  {
+    "name": "МегаФон MCCA",
+    "packageId": "com.megafon.mcca.android.store",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD-mcca/com.megafon.mcca.android.store"
+  },
+  {
+    "name": "Родительский контроль",
+    "packageId": "com.megafon.rk",
+    "storeUrl": "https://apkpure.com/%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/com.megafon.rk"
+  },
+  {
+    "name": "МЕТКОМ-ОНЛАЙН",
+    "packageId": "com.metkombank.mobile",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.metkombank.mobile"
+  },
+  {
+    "name": "Датабанк Онлайн",
+    "packageId": "com.mifors.izhcombank",
+    "storeUrl": "https://apkpure.com/%D0%B4%D0%B0%D1%82%D0%B0%D0%B1%D0%B0%D0%BD%D0%BA-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/com.mifors.izhcombank"
+  },
+  {
+    "name": "Мои Деньги Online",
+    "packageId": "com.mmonline.mobile",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.mmonline.mobile"
+  },
+  {
+    "name": null,
+    "packageId": "com.mob.android",
+    "storeUrl": null
+  },
+  {
+    "name": "Пироговый Дворик",
+    "packageId": "com.mobium12580.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.mobium12580.app&hl=ru"
+  },
+  {
+    "name": "Финуслуги. Вклады, займы, инвестиции, кредиты",
+    "packageId": "com.moex.finuslugi",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.moex.finuslugi"
+  },
+  {
+    "name": "Московский Спорт",
+    "packageId": "com.moscowsport",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.moscowsport"
+  },
+  {
+    "name": "Защитник",
+    "packageId": "com.mts.who_calls",
+    "storeUrl": "https://apkpure.com/%D0%BC%D1%82%D1%81-%D0%BA%D1%82%D0%BE-%D0%B7%D0%B2%D0%BE%D0%BD%D0%B8%D1%82-%D0%B0%D0%BD%D1%82%D0%B8%D1%81%D0%BF%D0%B0%D0%BC/com.mts.who_calls"
+  },
+  {
+    "name": "МВидео Про",
+    "packageId": "com.mvideo.mvseller",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.mvideo.mvseller&hl=ru"
+  },
+  {
+    "name": "VK Play",
+    "packageId": "com.my.mygamesapp",
+    "storeUrl": "https://apkpure.com/vk-play/com.my.mygamesapp"
+  },
+  {
+    "name": "Национальная Лотерея",
+    "packageId": "com.national.lottery",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.national.lottery"
+  },
+  {
+    "name": "Navitel Navigator GPS & Maps",
+    "packageId": "com.navitel",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.navitel&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.navplatform.navigator.public",
+    "storeUrl": null
+  },
+  {
+    "name": "МойОфис Документы",
+    "packageId": "com.ncloudtech.cloudoffice",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ncloudtech.cloudoffice&hl=ru"
+  },
+  {
+    "name": "МойОфис МоиДокументы",
+    "packageId": "com.ncloudtech.cloudoffice.b2b",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ncloudtech.cloudoffice.b2b&hl=ru"
+  },
+  {
+    "name": "ВсеИнструменты.ру",
+    "packageId": "com.notissimus.allinstruments.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.notissimus.allinstruments.android&hl=ru"
+  },
+  {
+    "name": "Почта России",
+    "packageId": "com.octopod.russianpost.client.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.octopod.russianpost.client.android&hl=ru"
+  },
+  {
+    "name": "1С Большая Клавиатура",
+    "packageId": "com.onecwearable.keyboard.rustore",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.onecwearable.keyboard.rustore"
+  },
+  {
+    "name": "БМ-Банк (Открытие)",
+    "packageId": "com.openbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.openbank"
+  },
+  {
+    "name": null,
+    "packageId": "com.openwaygroup.ic.panda.poidem",
+    "storeUrl": null
+  },
+  {
+    "name": "Подорожник",
+    "packageId": "com.orgp.spbpodorozhnik",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.orgp.spbpodorozhnik&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.perm.kate",
+    "storeUrl": null
+  },
+  {
+    "name": "Kate Mobile для ВК",
+    "packageId": "com.perm.kate_new_6",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.perm.kate_new_6&hl=ru"
+  },
+  {
+    "name": "ГОРЗДРАВ - аптека с доставкой",
+    "packageId": "com.platfomni.gorzdrav",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.platfomni.gorzdrav&hl=ru"
+  },
+  {
+    "name": "Победа80",
+    "packageId": "com.pobeda.anniversary",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.pobeda.anniversary&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.pogoda.infometeos",
+    "storeUrl": null
+  },
+  {
+    "name": "Раменский деликатес",
+    "packageId": "com.premiumbonus.jamm.ramen",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.premiumbonus.jamm.ramen&hl=ru"
+  },
+  {
+    "name": "Приобанк Онлайн",
+    "packageId": "com.priobank.prio",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.priobank.prio"
+  },
+  {
+    "name": "ЕМИАС.ИНФО",
+    "packageId": "com.programmisty.emiasapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.programmisty.emiasapp&hl=ru"
+  },
+  {
+    "name": "Whoosh",
+    "packageId": "com.punicapp.whoosh",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.punicapp.whoosh&hl=ru"
+  },
+  {
+    "name": "Ренессанс страхование",
+    "packageId": "com.renins.auto",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.renins.auto&hl=ru"
+  },
+  {
+    "name": "SmartReserve",
+    "packageId": "com.reserveonline.tablet.sr.suffix",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.reserveonline.tablet.sr.suffix"
+  },
+  {
+    "name": "Ростелеком. Сервис печати",
+    "packageId": "com.rostelecom.printservice",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.rostelecom.printservice&hl=ru"
+  },
+  {
+    "name": "Яндекс Маршрутизация",
+    "packageId": "com.routeq.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.routeq.app&hl=ru"
+  },
+  {
+    "name": "Дикси: Клуб Друзей и доставка",
+    "packageId": "com.ru.dixy",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.ru.dixy&hl=ru"
+  },
+  {
+    "name": "РЖД События",
+    "packageId": "com.rzd.eventsrzd",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.rzd.eventsrzd&hl=ru"
+  },
+  {
+    "name": "Салют! Умные устройства",
+    "packageId": "com.salute.smarthome.prod",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.salute.smarthome.prod&hl=ru"
+  },
+  {
+    "name": "CберАвто: Купить, продать авто",
+    "packageId": "com.sberauto.mobile",
+    "storeUrl": "https://apkpure.com/c%D0%B1%D0%B5%D1%80%D0%B0%D0%B2%D1%82%D0%BE-%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D1%8C-%D0%B0%D0%B2%D1%82%D0%BE/com.sberauto.mobile"
+  },
+  {
+    "name": "СберПраво",
+    "packageId": "com.sberbank.sberpravo",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%B1%D0%B5%D1%80%D0%BF%D1%80%D0%B0%D0%B2%D0%BE/com.sberbank.sberpravo"
+  },
+  {
+    "name": "ГигаЧат",
+    "packageId": "com.sdkit.search.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.sdkit.search.app"
+  },
+  {
+    "name": null,
+    "packageId": "com.smp.android",
+    "storeUrl": null
+  },
+  {
+    "name": "СНБ Онлайн",
+    "packageId": "com.snb.online",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.snb.online&hl=ru"
+  },
+  {
+    "name": "попкорн.билайн",
+    "packageId": "com.spbtv.rosing",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.spbtv.rosing&hl=ru"
+  },
+  {
+    "name": "Свой Банк",
+    "packageId": "com.svoi.bank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.svoi.bank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.tatsotsbank.dbomobile",
+    "storeUrl": null
+  },
+  {
+    "name": "maxim — заказ такси, доставка",
+    "packageId": "com.taxsee.taxsee",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.taxsee.taxsee&hl=ru"
+  },
+  {
+    "name": "TDM",
+    "packageId": "com.tdm.messenger",
+    "storeUrl": "https://apkpure.com/tdm-messenger/com.tdm.messenger"
+  },
+  {
+    "name": "Теремок - Ключи от Теремка",
+    "packageId": "com.teremok.keys",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.teremok.keys&hl=ru"
+  },
+  {
+    "name": "Тимер Банк",
+    "packageId": "com.timerbank.retail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.timerbank.retail"
+  },
+  {
+    "name": "Тинькофф Журнал",
+    "packageId": "com.tjuraniaapp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.tjuraniaapp"
+  },
+  {
+    "name": "Точка Х",
+    "packageId": "com.tochka.bank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.tochka.bank"
+  },
+  {
+    "name": "Цeх85",
+    "packageId": "com.tseh85",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.tseh85&hl=ru"
+  },
+  {
+    "name": "Учебник: курсы про деньги",
+    "packageId": "com.uchebnik_tj",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.uchebnik_tj&hl=ru"
+  },
+  {
+    "name": "Учи.ру",
+    "packageId": "com.uchi.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.uchi.app&hl=ru"
+  },
+  {
+    "name": "Услуги РТ",
+    "packageId": "com.uip.gosuslugi2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.uip.gosuslugi2&hl=ru"
+  },
+  {
+    "name": "VK Music",
+    "packageId": "com.uma.musicvk",
+    "storeUrl": "https://apkpure.com/vk-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0/com.uma.musicvk"
+  },
+  {
+    "name": "VK Admin",
+    "packageId": "com.vk.admin",
+    "storeUrl": "https://apkpure.com/vk-admin-beta/com.vk.admin"
+  },
+  {
+    "name": "VK Calls",
+    "packageId": "com.vk.calls",
+    "storeUrl": "https://apkpure.com/vk-calls/com.vk.calls"
+  },
+  {
+    "name": "VK Clips",
+    "packageId": "com.vk.clips",
+    "storeUrl": "https://apkpure.com/vk-clips-short-videos/com.vk.clips"
+  },
+  {
+    "name": "VK Messenger",
+    "packageId": "com.vk.im",
+    "storeUrl": "https://apkpure.com/vk-messenger-chats-and-calls/com.vk.im"
+  },
+  {
+    "name": "VK Dating",
+    "packageId": "com.vk.love",
+    "storeUrl": "https://apkpure.com/vk-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%81%D1%82%D0%B2%D0%B0/com.vk.love"
+  },
+  {
+    "name": "VK Mail",
+    "packageId": "com.vk.mail",
+    "storeUrl": "https://apkpure.com/vk-mail-email-client/com.vk.mail"
+  },
+  {
+    "name": "VK Video",
+    "packageId": "com.vk.tv",
+    "storeUrl": "https://apkpure.com/vk-video-for-android-tv/com.vk.tv"
+  },
+  {
+    "name": "VK Video",
+    "packageId": "com.vk.vkvideo",
+    "storeUrl": "https://apkpure.com/vk-video-beta/com.vk.vkvideo"
+  },
+  {
+    "name": "VK",
+    "packageId": "com.vkontakte.android",
+    "storeUrl": "https://apkpure.com/vk-music-video-messenger-app/com.vkontakte.android"
+  },
+  {
+    "name": "ВкусВилл: Курьер",
+    "packageId": "com.vkusvill.courier",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.vkusvill.courier&hl=ru"
+  },
+  {
+    "name": "ВкусВилл: Работа и Подработка",
+    "packageId": "com.vkusvill.vacancy",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.vkusvill.vacancy&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.vtosters.lite",
+    "storeUrl": null
+  },
+  {
+    "name": "WB Point",
+    "packageId": "com.wbextdelivery",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wbextdelivery&hl=ru"
+  },
+  {
+    "name": "WB ПВЗ",
+    "packageId": "com.wbpoint.android.prod.release",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wbpoint.android.prod.release&hl=ru"
+  },
+  {
+    "name": "WB Stream",
+    "packageId": "com.wbstream_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wbstream_app&hl=ru"
+  },
+  {
+    "name": "Ваш ЗСД 2.0",
+    "packageId": "com.whsd.whsdapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.whsd.whsdapp&hl=ru"
+  },
+  {
+    "name": "WB на Связи",
+    "packageId": "com.wildberries.consultations",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wildberries.consultations&hl=ru"
+  },
+  {
+    "name": "Wildberries",
+    "packageId": "com.wildberries.ru",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wildberries.ru&hl=ru"
+  },
+  {
+    "name": "WB Key",
+    "packageId": "com.wildberries.wbkey",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.wildberries.wbkey"
+  },
+  {
+    "name": "MPoint",
+    "packageId": "com.wms_mm_point.mm_delivery_point",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.wms_mm_point.mm_delivery_point&hl=ru"
+  },
+  {
+    "name": "X5 Курьер",
+    "packageId": "com.x5.courierapp",
+    "storeUrl": "https://apkpure.com/x5-%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80/com.x5.courierapp"
+  },
+  {
+    "name": "X5 Сборщик",
+    "packageId": "com.x5.pickerapp.ff",
+    "storeUrl": "https://www.rustore.ru/catalog/app/com.x5.pickerapp.ff"
+  },
+  {
+    "name": "Алиса AI: Нейросеть Яндекса",
+    "packageId": "com.yandex.aliceapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.aliceapp&hl=ru"
+  },
+  {
+    "name": "Яндекс Пэй: QR, NFC и Сплит",
+    "packageId": "com.yandex.bank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.bank&hl=ru"
+  },
+  {
+    "name": "Яндекс Смена: поиск подработки",
+    "packageId": "com.yandex.bluecollars",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.bluecollars&hl=ru"
+  },
+  {
+    "name": "Яндекс Браузер — с Алисой AI",
+    "packageId": "com.yandex.browser",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.browser&hl=ru"
+  },
+  {
+    "name": "Яндекс Браузер для организаций",
+    "packageId": "com.yandex.browser.corp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.browser.corp&hl=ru"
+  },
+  {
+    "name": "Яндекс Браузер Лайт",
+    "packageId": "com.yandex.browser.lite",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.browser.lite&hl=ru"
+  },
+  {
+    "name": "Яндекс Браузер для ТВ",
+    "packageId": "com.yandex.browser.tv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.browser.tv&hl=ru"
+  },
+  {
+    "name": "Яндекс Календарь",
+    "packageId": "com.yandex.calendar.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.calendar.app&hl=ru"
+  },
+  {
+    "name": "Яндекс Вектор",
+    "packageId": "com.yandex.corp.tracking.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.corp.tracking.app&hl=ru"
+  },
+  {
+    "name": "Яндекс Интернетометр",
+    "packageId": "com.yandex.internetometer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.internetometer&hl=ru"
+  },
+  {
+    "name": "Дом с Алисой",
+    "packageId": "com.yandex.iot",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.iot&hl=ru"
+  },
+  {
+    "name": "Яндекс Лавка: заказ продуктов",
+    "packageId": "com.yandex.lavka",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.lavka&hl=ru"
+  },
+  {
+    "name": "Яндекс Драйв: Каршеринг",
+    "packageId": "com.yandex.mobile.drive",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.mobile.drive&hl=ru"
+  },
+  {
+    "name": "Яндекс Недвижимость. Квартиры",
+    "packageId": "com.yandex.mobile.realty",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.mobile.realty&hl=ru"
+  },
+  {
+    "name": "Плюс Сити",
+    "packageId": "com.yandex.plus.game.city",
+    "storeUrl": "https://apkpure.com/%D0%BF%D0%BB%D1%8E%D1%81-%D1%81%D0%B8%D1%82%D0%B8-%E2%80%94-%D1%81%D0%B8%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/com.yandex.plus.game.city"
+  },
+  {
+    "name": "Яндекс Ритм: Идеи для покупок",
+    "packageId": "com.yandex.rhythm",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.rhythm&hl=ru"
+  },
+  {
+    "name": "Яндекс — с Алисой AI",
+    "packageId": "com.yandex.searchapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.searchapp&hl=ru"
+  },
+  {
+    "name": "Шедеврум",
+    "packageId": "com.yandex.shedevrus",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.shedevrus&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "com.yandex.shedevrus2",
+    "storeUrl": null
+  },
+  {
+    "name": "Яндекс Задания",
+    "packageId": "com.yandex.tasks.androidapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yandex.tasks.androidapp&hl=ru"
+  },
+  {
+    "name": "Yandex Messenger for business",
+    "packageId": "com.yandex.yamb",
+    "storeUrl": "https://apkpure.com/yandex-messenger-for-business/com.yandex.yamb"
+  },
+  {
+    "name": "YPLACES — онлайн-запись",
+    "packageId": "com.yclients.yplaces",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.yclients.yplaces&hl=ru"
+  },
+  {
+    "name": "Я дилер",
+    "packageId": "com.zebrains.trkid",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zebrains.trkid&hl=ru"
+  },
+  {
+    "name": "Сказбука для детей от Яндекса",
+    "packageId": "com.zebrainy.skazbuka",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zebrainy.skazbuka&hl=ru"
+  },
+  {
+    "name": "Звук: музыка, подкасты, книги",
+    "packageId": "com.zvooq.openplay",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.zvooq.openplay&hl=ru"
+  },
+  {
+    "name": "Ренессанс Банк",
+    "packageId": "cz.bsc.rc",
+    "storeUrl": "https://play.google.com/store/apps/details?id=cz.bsc.rc&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "dev.ragnarok.fenrir",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "dev.ragnarok.fenrir_kate",
+    "storeUrl": null
+  },
+  {
+    "name": "Реестр ЗАГС",
+    "packageId": "es.hol.ing.zagsr",
+    "storeUrl": "https://play.google.com/store/apps/details?id=es.hol.ing.zagsr&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ftc.faktura.mfkbank",
+    "storeUrl": null
+  },
+  {
+    "name": "VK Play Облачный гейминг",
+    "packageId": "games.my.cloud",
+    "storeUrl": "https://apkpure.com/vk-play-cloud/games.my.cloud"
+  },
+  {
+    "name": "VK Play ТВ",
+    "packageId": "games.my.cloud.tv",
+    "storeUrl": "https://apkpure.com/vk-play-tv/games.my.cloud.tv"
+  },
+  {
+    "name": "Золотое Яблоко: скидки и акции",
+    "packageId": "goldapple.ru.goldapple.customers",
+    "storeUrl": "https://play.google.com/store/apps/details?id=goldapple.ru.goldapple.customers&hl=ru"
+  },
+  {
+    "name": "PREMIER",
+    "packageId": "gpm.tnt_premier",
+    "storeUrl": "https://apkpure.com/premier-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D1%88%D0%BE%D1%83/gpm.tnt_premier"
+  },
+  {
+    "name": "Свет Яндекс Фабрики",
+    "packageId": "home.pragma.com",
+    "storeUrl": "https://play.google.com/store/apps/details?id=home.pragma.com&hl=ru"
+  },
+  {
+    "name": "Tuvio",
+    "packageId": "home.tuvio.com",
+    "storeUrl": "https://play.google.com/store/apps/details?id=home.tuvio.com&hl=ru"
+  },
+  {
+    "name": "Dialog Enterprise",
+    "packageId": "im.dlg.dialogx",
+    "storeUrl": "https://play.google.com/store/apps/details?id=im.dlg.dialogx&hl=ru"
+  },
+  {
+    "name": "Dialog+",
+    "packageId": "im.dlg.enterprise",
+    "storeUrl": "https://play.google.com/store/apps/details?id=im.dlg.enterprise&hl=ru"
+  },
+  {
+    "name": "ЕМИАС.ПЕТЕРБУРГ",
+    "packageId": "info.emias.spb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=info.emias.spb&hl=ru"
+  },
+  {
+    "name": "Замени гудок: Привет от билайн",
+    "packageId": "intech.global.com.beeline",
+    "storeUrl": "https://play.google.com/store/apps/details?id=intech.global.com.beeline&hl=ru"
+  },
+  {
+    "name": "МЧС России",
+    "packageId": "io.citizens.security",
+    "storeUrl": "https://play.google.com/store/apps/details?id=io.citizens.security&hl=ru"
+  },
+  {
+    "name": "ByeDPI",
+    "packageId": "io.github.dovecoteescapee.byedpi",
+    "storeUrl": "https://apt.izzysoft.de/fdroid/index/apk/io.github.dovecoteescapee.byedpi"
+  },
+  {
+    "name": "Расписание и билеты ЦППК",
+    "packageId": "io.itforces.android.timetable",
+    "storeUrl": "https://play.google.com/store/apps/details?id=io.itforces.android.timetable&hl=ru"
+  },
+  {
+    "name": "MaxGate — Кросспостинг",
+    "packageId": "io.maxgate.android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/io.maxgate.android"
+  },
+  {
+    "name": "Домиленд+",
+    "packageId": "jamhome.ru.lktsj",
+    "storeUrl": "https://play.google.com/store/apps/details?id=jamhome.ru.lktsj&hl=ru"
+  },
+  {
+    "name": "Level Travel – туры и отели",
+    "packageId": "level.travel",
+    "storeUrl": "https://play.google.com/store/apps/details?id=level.travel&hl=ru"
+  },
+  {
+    "name": "VK Видео Live",
+    "packageId": "live.vkplay.app",
+    "storeUrl": "https://apkpure.com/vk-play-live-%D1%81%D1%82%D1%80%D0%B8%D0%BC%D1%8B/live.vkplay.app"
+  },
+  {
+    "name": "ПСБ",
+    "packageId": "logo.com.mbanking",
+    "storeUrl": "https://www.rustore.ru/catalog/app/logo.com.mbanking"
+  },
+  {
+    "name": "Membrana Junior - защита детей",
+    "packageId": "me.membrana.kids.parent.app",
+    "storeUrl": "https://apkpure.com/membrana-kids/me.membrana.kids.parent.app"
+  },
+  {
+    "name": "МегаФон Контроль Автопарка",
+    "packageId": "megafon.transport.mobile",
+    "storeUrl": "https://www.rustore.ru/catalog/app/megafon.transport.mobile"
+  },
+  {
+    "name": "Модульбанк",
+    "packageId": "modulbank.ru.app",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8C%D0%B1%D0%B0%D0%BD%D0%BA/modulbank.ru.app"
+  },
+  {
+    "name": "PREMIER",
+    "packageId": "one.premier.rustoretv",
+    "storeUrl": "https://one-premier-rustoretv.en.aptoide.com/?store_name=appstvcommunity&app_id=70485092"
+  },
+  {
+    "name": "Апельсин — сервис лояльности",
+    "packageId": "org.orange.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.orange.mobile&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "org.rtk.cleaning",
+    "storeUrl": null
+  },
+  {
+    "name": "Stepik: онлайн курсы",
+    "packageId": "org.stepic.droid",
+    "storeUrl": "https://play.google.com/store/apps/details?id=org.stepic.droid&hl=ru"
+  },
+  {
+    "name": "Мосбилет: Контролёр",
+    "packageId": "org.ts.mapp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/org.ts.mapp"
+  },
+  {
+    "name": "Отелло: бронирование отелей",
+    "packageId": "otello.dgis.ru",
+    "storeUrl": "https://play.google.com/store/apps/details?id=otello.dgis.ru&hl=ru"
+  },
+  {
+    "name": "Maradi",
+    "packageId": "pro.arora.mobile.maradi",
+    "storeUrl": "https://play.google.com/store/apps/details?id=pro.arora.mobile.maradi&hl=ru"
+  },
+  {
+    "name": "Милана пицца - Доставка пиццы",
+    "packageId": "pro.arora.mobile.pizza_milana",
+    "storeUrl": "https://play.google.com/store/apps/details?id=pro.arora.mobile.pizza_milana&hl=ru"
+  },
+  {
+    "name": "Гемотест Телемед",
+    "packageId": "pro.ibolit.iBolitPatient.gemotest",
+    "storeUrl": "https://apkpure.com/%D0%B3%D0%B5%D0%BC%D0%BE%D1%82%D0%B5%D1%81%D1%82-%D1%82%D0%B5%D0%BB%D0%B5%D0%BC%D0%B5%D0%B4/pro.ibolit.iBolitPatient.gemotest"
+  },
+  {
+    "name": null,
+    "packageId": "pro.rocketTech.rocket.rocketapp",
+    "storeUrl": null
+  },
+  {
+    "name": "СТУДИО",
+    "packageId": "pro.sber_zvuk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=pro.sber_zvuk&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "psb.market.app",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "re.sova.five",
+    "storeUrl": null
+  },
+  {
+    "name": "Мой ГАЗ",
+    "packageId": "ru.abrr.gas",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.abrr.gas&hl=ru"
+  },
+  {
+    "name": "Aeroflot",
+    "packageId": "ru.aeroflot",
+    "storeUrl": "https://apkpure.com/aeroflot-%E2%80%93-buy-air-tickets-onl/ru.aeroflot"
+  },
+  {
+    "name": "Единая карта петербуржца",
+    "packageId": "ru.aisa.android.ekpv2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.aisa.android.ekpv2&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.akbars.mobile",
+    "storeUrl": null
+  },
+  {
+    "name": "АЭБ Онлайн",
+    "packageId": "ru.albank.online.aebit",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.albank.online.aebit&hl=ru"
+  },
+  {
+    "name": "Альфа-Банк",
+    "packageId": "ru.alfabank.mobile.android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.alfabank.mobile.android"
+  },
+  {
+    "name": "Альфа-Бизнес",
+    "packageId": "ru.alfabank.oavdo.amc",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.alfabank.oavdo.amc"
+  },
+  {
+    "name": "Альфа-Инвестиции",
+    "packageId": "ru.alfadirect.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.alfadirect.app"
+  },
+  {
+    "name": "АльфаСтрахование Мобайл",
+    "packageId": "ru.alfastrah.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.alfastrah.app"
+  },
+  {
+    "name": "AliExpress - ваш маркетплейс",
+    "packageId": "ru.aliexpress.buyer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.aliexpress.buyer&hl=ru"
+  },
+  {
+    "name": "Госуслуги Москвы",
+    "packageId": "ru.altarix.mos.pgu",
+    "storeUrl": "https://altarix.en.aptoide.com/?store_name=nimizidass666&app_id=72161508"
+  },
+  {
+    "name": null,
+    "packageId": "ru.amina.moscow",
+    "storeUrl": null
+  },
+  {
+    "name": "ABR Direct",
+    "packageId": "ru.artsofte.russiafl",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.artsofte.russiafl"
+  },
+  {
+    "name": "Авто.ру: купить и продать авто",
+    "packageId": "ru.auto.ara",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.auto.ara&hl=ru"
+  },
+  {
+    "name": "Банк Авангард",
+    "packageId": "ru.avangard",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.avangard"
+  },
+  {
+    "name": "Авангард Бизнес",
+    "packageId": "ru.avangard.legal",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.avangard.legal"
+  },
+  {
+    "name": "Avangard Pay",
+    "packageId": "ru.avangard.sbp_client",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.avangard.sbp_client"
+  },
+  {
+    "name": "Авиасейлс — авиабилеты дешево",
+    "packageId": "ru.aviasales",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.aviasales&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.bank_hlynov.xbank",
+    "storeUrl": null
+  },
+  {
+    "name": "Банки.ру: Кредит, Займы Онлайн",
+    "packageId": "ru.banki.banki",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.banki.banki&hl=ru"
+  },
+  {
+    "name": "Уралсиб Онлайн",
+    "packageId": "ru.bankuralsib.mb.android",
+    "storeUrl": "https://oao-bank-uralsib.en.aptoide.com/?store_name=killer00085&app_id=67888055"
+  },
+  {
+    "name": "БКС Банк",
+    "packageId": "ru.bcs.bcsbank",
+    "storeUrl": "https://apkpure.com/%D0%B1%D0%BA%D1%81-%D0%B1%D0%B0%D0%BD%D0%BA/ru.bcs.bcsbank"
+  },
+  {
+    "name": "билайн книги и аудиокниги",
+    "packageId": "ru.beeline.beebookreader",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.beebookreader&hl=ru"
+  },
+  {
+    "name": "Облако билайн: память для фото",
+    "packageId": "ru.beeline.cloud",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.cloud&hl=ru"
+  },
+  {
+    "name": "Дилер онлайн",
+    "packageId": "ru.beeline.dol",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.dol&hl=ru"
+  },
+  {
+    "name": "Buzz",
+    "packageId": "ru.beeline.messengerx",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.messengerx&hl=ru"
+  },
+  {
+    "name": "Beeline Partner",
+    "packageId": "ru.beeline.mwpsapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.mwpsapp&hl=ru"
+  },
+  {
+    "name": "билайн про",
+    "packageId": "ru.beeline.pro",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.pro&hl=ru"
+  },
+  {
+    "name": "билайн",
+    "packageId": "ru.beeline.services",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beeline.services&hl=ru"
+  },
+  {
+    "name": "билайн тв",
+    "packageId": "ru.beeline.tve.android",
+    "storeUrl": "https://apkpure.com/%D0%B1%D0%B8%D0%BB%D0%B0%D0%B9%D0%BD-%D1%82%D0%B2-%D1%82%D0%B2-%D0%BA%D0%B8%D0%BD%D0%BE-%D0%B8-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B/ru.beeline.tve.android"
+  },
+  {
+    "name": "Каршеринг BelkaCar-аренда авто",
+    "packageId": "ru.belkacar.belkacar",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.belkacar.belkacar&hl=ru"
+  },
+  {
+    "name": "Яндекс Маркет: онлайн-магазин",
+    "packageId": "ru.beru.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.beru.android&hl=ru"
+  },
+  {
+    "name": "Фонбет",
+    "packageId": "ru.bkfon",
+    "storeUrl": "https://apkpure.com/fonbet/ru.bkfon"
+  },
+  {
+    "name": null,
+    "packageId": "ru.briginvest.sense",
+    "storeUrl": null
+  },
+  {
+    "name": "Бристоль – сеть магазинов",
+    "packageId": "ru.bristol.bristol_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.bristol.bristol_app&hl=ru"
+  },
+  {
+    "name": "БКС Мир инвестиций – брокер",
+    "packageId": "ru.broker.my",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.broker.my&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.bspb",
+    "storeUrl": null
+  },
+  {
+    "name": "БСПБ Бизнес",
+    "packageId": "ru.bspb.b2b",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.bspb.b2b"
+  },
+  {
+    "name": "БУРГЕР КИНГ - Доставка, купоны",
+    "packageId": "ru.burgerking",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.burgerking&hl=ru"
+  },
+  {
+    "name": "Кошелёк: карты, скидки, бонусы",
+    "packageId": "ru.cardsmobile.mw3",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.cardsmobile.mw3&hl=ru"
+  },
+  {
+    "name": "Видеоконтроль Дом.ру Бизнес",
+    "packageId": "ru.cctvb2b.dom.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.cctvb2b.dom.app&hl=ru"
+  },
+  {
+    "name": "СДЭК: Курьер",
+    "packageId": "ru.cdek.courier",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.cdek.courier&hl=ru"
+  },
+  {
+    "name": "Мобильный ЭК5",
+    "packageId": "ru.cdek.ek5",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.cdek.ek5&hl=ru"
+  },
+  {
+    "name": "Центр-инвест Бизнес",
+    "packageId": "ru.centrinvest.mobilebank.mbk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.centrinvest.mobilebank.mbk&hl=ru"
+  },
+  {
+    "name": "Мобильный банк Центр-инвест",
+    "packageId": "ru.centrinvest.mobilebanking2018",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.centrinvest.mobilebanking2018&hl=ru"
+  },
+  {
+    "name": "InvestPay",
+    "packageId": "ru.chelyabinvestbank.investpay",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.chelyabinvestbank.investpay&hl=ru"
+  },
+  {
+    "name": "Читай-город",
+    "packageId": "ru.chitaigorod.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.chitaigorod.mobile&hl=ru"
+  },
+  {
+    "name": "Циан. Недвижимость, квартиры",
+    "packageId": "ru.cian.main",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.cian.main&hl=ru"
+  },
+  {
+    "name": "Ситилинк техника и электроника",
+    "packageId": "ru.citilink",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.citilink&hl=ru"
+  },
+  {
+    "name": "Compass",
+    "packageId": "ru.compass.tag",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.compass.tag"
+  },
+  {
+    "name": "Локальный модуль «Честный ЗНАК»",
+    "packageId": "ru.crpt.localmodule",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.crpt.localmodule"
+  },
+  {
+    "name": "ЧЗ.Бизнес",
+    "packageId": "ru.crptech.b2bmark",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.crptech.b2bmark&hl=ru"
+  },
+  {
+    "name": "Честный ЗНАК.Контроль",
+    "packageId": "ru.crptech.foiv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.crptech.foiv&hl=ru"
+  },
+  {
+    "name": "Честный ЗНАК – Проверь товар",
+    "packageId": "ru.crptech.mark",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.crptech.mark&hl=ru"
+  },
+  {
+    "name": "Фарма.Просто",
+    "packageId": "ru.crptech.pharma_scanner",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.crptech.pharma_scanner&hl=ru"
+  },
+  {
+    "name": "Telega: мессенджер и сообщения",
+    "packageId": "ru.dahl.messenger",
+    "storeUrl": "https://apkpure.com/dahl-%E2%80%94-messenger/ru.dahl.messenger"
+  },
+  {
+    "name": "Транспорт Подмосковья",
+    "packageId": "ru.datapax.mosobl",
+    "storeUrl": "https://apkpure.com/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BF%D0%BE%D0%B4%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%8C%D1%8F/ru.datapax.mosobl"
+  },
+  {
+    "name": "Детский магазин «Детский мир»",
+    "packageId": "ru.detmir.dmbonus",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.detmir.dmbonus&hl=ru"
+  },
+  {
+    "name": "Совкомбанк Бизнес",
+    "packageId": "ru.diftechsvc",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.diftechsvc"
+  },
+  {
+    "name": "DIKIDI Online",
+    "packageId": "ru.dikidi",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.dikidi&hl=ru"
+  },
+  {
+    "name": "Команда Москвы",
+    "packageId": "ru.dit.smartstaff",
+    "storeUrl": "https://apkpure.com/%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D1%8B/ru.dit.smartstaff"
+  },
+  {
+    "name": "Дневник.ру",
+    "packageId": "ru.dnevnik.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.dnevnik.app&hl=ru"
+  },
+  {
+    "name": "DNS SHOP",
+    "packageId": "ru.dns.shop.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.dns.shop.android&hl=ru"
+  },
+  {
+    "name": "Додо Пицца — доставка еды",
+    "packageId": "ru.dodopizza.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.dodopizza.app&hl=ru"
+  },
+  {
+    "name": "Домклик. Ипотека, недвижимость",
+    "packageId": "ru.domclick.mortgage",
+    "storeUrl": "https://apkpure.com/%D0%B4%D0%BE%D0%BC%D0%BA%D0%BB%D0%B8%D0%BA-%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%BA%D0%B0-%D0%BD%D0%B5%D0%B4%D0%B2%D0%B8%D0%B6%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C/ru.domclick.mortgage"
+  },
+  {
+    "name": "МосОблЕИРЦ Онлайн",
+    "packageId": "ru.domopult.mosobleirc.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.domopult.mosobleirc.android&hl=ru"
+  },
+  {
+    "name": "Виртуальная клиника",
+    "packageId": "ru.drclinics.app.sovcom",
+    "storeUrl": "https://apkpure.com/%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0/ru.drclinics.app.sovcom"
+  },
+  {
+    "name": "2ГИС: карты, навигатор, друзья",
+    "packageId": "ru.dublgis.dgismobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile&hl=ru"
+  },
+  {
+    "name": "2ГИС beta",
+    "packageId": "ru.dublgis.dgismobile4preview",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.dublgis.dgismobile4preview&hl=ru"
+  },
+  {
+    "name": "EA Курьер",
+    "packageId": "ru.eapteka.courier",
+    "storeUrl": "https://apkpure.com/ea-%D0%BA%D1%83%D1%80%D1%8C%D0%B5%D1%80/ru.eapteka.courier"
+  },
+  {
+    "name": "ЭЛПЛАТ ОНЛАЙН",
+    "packageId": "ru.elplat.elplat2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.elplat.elplat2&hl=ru"
+  },
+  {
+    "name": "Контур.Банк для физлиц",
+    "packageId": "ru.emb.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.emb.android&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.faktura.avtograd.person",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.faktura.etbank.person",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.faktura.gaztransbank.person",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.faktura.jtbank.person",
+    "storeUrl": null
+  },
+  {
+    "name": "Госуслуги Карта болельщика",
+    "packageId": "ru.fanid",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.fanid&hl=ru"
+  },
+  {
+    "name": "Семейный доктор - FDOCTOR.ru",
+    "packageId": "ru.fdoctor.fdocmob",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.fdoctor.fdocmob&hl=ru"
+  },
+  {
+    "name": "М.Видео: онлайн-маркет",
+    "packageId": "ru.filit.mvideo.b2c",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.filit.mvideo.b2c&hl=ru"
+  },
+  {
+    "name": "FinamBank: банк для инвесторов",
+    "packageId": "ru.finambank.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.finambank.app&hl=ru"
+  },
+  {
+    "name": "ЦБ Онлайн",
+    "packageId": "ru.finassist",
+    "storeUrl": "https://czb-onlajn.en.aptoide.com/?store_name=dudarevstore&app_id=67165497"
+  },
+  {
+    "name": "Проверка чеков ФНС России",
+    "packageId": "ru.fns.billchecker",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.fns.billchecker&hl=ru"
+  },
+  {
+    "name": "Проверка чека ФНС России",
+    "packageId": "ru.fns.billchecker.mobile.android",
+    "storeUrl": "https://apkpure.com/%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0-%D1%87%D0%B5%D0%BA%D0%B0-%D1%84%D0%BD%D1%81-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B8/ru.fns.billchecker.mobile.android"
+  },
+  {
+    "name": "Налоги ФЛ",
+    "packageId": "ru.fns.lkfl",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.fns.lkfl&hl=ru"
+  },
+  {
+    "name": "Яндекс Еда: доставка еды",
+    "packageId": "ru.foodfox.client",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.foodfox.client&hl=ru"
+  },
+  {
+    "name": "Яндекс Еда Вендор",
+    "packageId": "ru.foodfox.vendor",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.foodfox.vendor&hl=ru"
+  },
+  {
+    "name": "Абсолют Mobile",
+    "packageId": "ru.ftc.faktura.absolutbank",
+    "storeUrl": "https://ftc-faktura-absolutbank.en.aptoide.com/?store_name=appupdater&app_id=58127874"
+  },
+  {
+    "name": "АПК Банк Онлайн",
+    "packageId": "ru.ftc.faktura.agropromkredit",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.agropromkredit&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.agroros",
+    "storeUrl": null
+  },
+  {
+    "name": "Акцепт-онлайн",
+    "packageId": "ru.ftc.faktura.akcept",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.akcept"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.akibank",
+    "storeUrl": null
+  },
+  {
+    "name": "Алеф Online",
+    "packageId": "ru.ftc.faktura.alefbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.alefbank&hl=ru"
+  },
+  {
+    "name": "а) банк онлайн",
+    "packageId": "ru.ftc.faktura.alexbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.alexbank"
+  },
+  {
+    "name": "РЕАЛИСТ БАНК",
+    "packageId": "ru.ftc.faktura.baikalinvestbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.baikalinvestbank&hl=ru"
+  },
+  {
+    "name": "Банк Саратов",
+    "packageId": "ru.ftc.faktura.banksaratov",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.banksaratov&hl=ru"
+  },
+  {
+    "name": "БЖФ",
+    "packageId": "ru.ftc.faktura.bgfbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.bgfbank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.derzhava",
+    "storeUrl": null
+  },
+  {
+    "name": "Экспобанк",
+    "packageId": "ru.ftc.faktura.expobank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.expobank"
+  },
+  {
+    "name": "Первый Инвестиционный Банк",
+    "packageId": "ru.ftc.faktura.finbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.finbank&hl=ru"
+  },
+  {
+    "name": "АКБ Форштадт ФЛ",
+    "packageId": "ru.ftc.faktura.forshtadt",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.forshtadt&hl=ru"
+  },
+  {
+    "name": "ГТБ Онлайн",
+    "packageId": "ru.ftc.faktura.gaztransbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.gaztransbank&hl=ru"
+  },
+  {
+    "name": "mia.bancaintesa",
+    "packageId": "ru.ftc.faktura.intesabank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.intesabank&hl=ru"
+  },
+  {
+    "name": "ИТУРУП-ОНЛАЙН 2.0",
+    "packageId": "ru.ftc.faktura.iturup",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.iturup"
+  },
+  {
+    "name": "КББ-ОНЛАЙН",
+    "packageId": "ru.ftc.faktura.kbb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.kbb&hl=ru"
+  },
+  {
+    "name": "ХМБ –онлайн",
+    "packageId": "ru.ftc.faktura.kbhmb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.kbhmb&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.kremlevskiy",
+    "storeUrl": null
+  },
+  {
+    "name": "Ланта-Онлайн",
+    "packageId": "ru.ftc.faktura.lanta",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.lanta"
+  },
+  {
+    "name": "МОРСКОЙ БАНК ОНЛАЙН",
+    "packageId": "ru.ftc.faktura.maritimebank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.maritimebank"
+  },
+  {
+    "name": "МОСКОМБАНК, мобильный банк",
+    "packageId": "ru.ftc.faktura.moscombank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.moscombank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.multibank",
+    "storeUrl": null
+  },
+  {
+    "name": "Нацинвестпромбанк",
+    "packageId": "ru.ftc.faktura.nipbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.nipbank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.nokss",
+    "storeUrl": null
+  },
+  {
+    "name": "Новобанк мобайл",
+    "packageId": "ru.ftc.faktura.novobank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.novobank&hl=ru"
+  },
+  {
+    "name": "НС Онлайн",
+    "packageId": "ru.ftc.faktura.ns",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.ns"
+  },
+  {
+    "name": "Национальный Стандарт",
+    "packageId": "ru.ftc.faktura.nsbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.nsbank"
+  },
+  {
+    "name": "Банк Левобережный BL-Online",
+    "packageId": "ru.ftc.faktura.nskbl",
+    "storeUrl": "https://bl-online-ru.en.aptoide.com/?store_name=killer00085&app_id=67888144"
+  },
+  {
+    "name": "БАНК ОРЕНБУРГ",
+    "packageId": "ru.ftc.faktura.orbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.orbank&hl=ru"
+  },
+  {
+    "name": "Примсоц Л@йн",
+    "packageId": "ru.ftc.faktura.primsoc",
+    "storeUrl": "https://galaxystore.samsung.com/detail/ru.ftc.faktura.primsoc"
+  },
+  {
+    "name": "ПСКБ онлайн. Личный кабинет",
+    "packageId": "ru.ftc.faktura.pskb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.pskb"
+  },
+  {
+    "name": "Банк \"Развитие-Столица\" онлайн",
+    "packageId": "ru.ftc.faktura.razvitiestolica",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.razvitiestolica&hl=ru"
+  },
+  {
+    "name": "РЕСО Банк",
+    "packageId": "ru.ftc.faktura.resokreditbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.resokreditbank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.rostfinance",
+    "storeUrl": null
+  },
+  {
+    "name": "СДМ-Online",
+    "packageId": "ru.ftc.faktura.sdm",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.sdm"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.siab",
+    "storeUrl": null
+  },
+  {
+    "name": "SolidPAY",
+    "packageId": "ru.ftc.faktura.solidbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.solidbank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.tavrich",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.tkbbank",
+    "storeUrl": null
+  },
+  {
+    "name": "Енисейский объединенный банк",
+    "packageId": "ru.ftc.faktura.united",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ftc.faktura.united"
+  },
+  {
+    "name": "Венец-Мобайл",
+    "packageId": "ru.ftc.faktura.venetsbank",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.venetsbank&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.vesta",
+    "storeUrl": null
+  },
+  {
+    "name": "Владбизнесбанк",
+    "packageId": "ru.ftc.faktura.vlbb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ftc.faktura.vlbb&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ftc.faktura.zemskybank",
+    "storeUrl": null
+  },
+  {
+    "name": "Транспортная карта",
+    "packageId": "ru.ftc.tc",
+    "storeUrl": "https://apkpure.com/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D1%82%D0%B0/ru.ftc.tc"
+  },
+  {
+    "name": "Газпромбанк",
+    "packageId": "ru.gazprombank.android.mobilebank.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.gazprombank.android.mobilebank.app"
+  },
+  {
+    "name": "ГПБ Брокер",
+    "packageId": "ru.gazprombank.broker",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.gazprombank.broker"
+  },
+  {
+    "name": "Газпромбанк Бизнес",
+    "packageId": "ru.gazprombank.mobile.gpbbusiness",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.gazprombank.mobile.gpbbusiness"
+  },
+  {
+    "name": null,
+    "packageId": "ru.gazprompay.android",
+    "storeUrl": null
+  },
+  {
+    "name": "ГЭБ Онлайн",
+    "packageId": "ru.gebank.ib",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.gebank.ib"
+  },
+  {
+    "name": "ЕАПТЕКА — онлайн аптека",
+    "packageId": "ru.getpharma.eapteka",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.getpharma.eapteka&hl=ru"
+  },
+  {
+    "name": "Штрафы ГИБДД: проверка с фото",
+    "packageId": "ru.gibdd_pay.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gibdd_pay.app&hl=ru"
+  },
+  {
+    "name": "ГИД",
+    "packageId": "ru.gid.app",
+    "storeUrl": "https://apkpure.com/%D0%B3%D0%B8%D0%B4/ru.gid.app"
+  },
+  {
+    "name": "ИВЕНТУМ",
+    "packageId": "ru.gid.eventsapp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.gid.eventsapp"
+  },
+  {
+    "name": "ГИД Мост",
+    "packageId": "ru.gid.most",
+    "storeUrl": "https://apkpure.com/%D0%B3%D0%B8%D0%B4-%D0%BC%D0%BE%D1%81%D1%82/ru.gid.most"
+  },
+  {
+    "name": "Личный кабинет предпринимателя",
+    "packageId": "ru.gnivc.lkip",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gnivc.lkip&hl=ru"
+  },
+  {
+    "name": "СберМегаМаркет",
+    "packageId": "ru.goods.marketplace",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%B5%D0%B3%D0%B0%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82/ru.goods.marketplace"
+  },
+  {
+    "name": "Госуслуги Авто",
+    "packageId": "ru.gosuslugi.auto",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.auto&hl=ru"
+  },
+  {
+    "name": "Госуслуги Культура",
+    "packageId": "ru.gosuslugi.culture",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.culture&hl=ru"
+  },
+  {
+    "name": "Госключ",
+    "packageId": "ru.gosuslugi.goskey",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.goskey&hl=ru"
+  },
+  {
+    "name": "ruID",
+    "packageId": "ru.gosuslugi.migrant",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.migrant&hl=ru"
+  },
+  {
+    "name": "Госуслуги Решаем вместе",
+    "packageId": "ru.gosuslugi.pos",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.pos&hl=ru"
+  },
+  {
+    "name": "ПОС Отвечаем",
+    "packageId": "ru.gosuslugi.pos.executor",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.pos.executor&hl=ru"
+  },
+  {
+    "name": "Госуслуги Моя школа",
+    "packageId": "ru.gosuslugi.school",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.school&hl=ru"
+  },
+  {
+    "name": "Госуслуги Волонтёр",
+    "packageId": "ru.gosuslugi.volunteer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.gosuslugi.volunteer&hl=ru"
+  },
+  {
+    "name": "ГПБ Мобайл",
+    "packageId": "ru.gpbmobile.lk",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.gpbmobile.lk"
+  },
+  {
+    "name": "Хеликс: медицинские анализы",
+    "packageId": "ru.helix",
+    "storeUrl": "https://apkpure.com/%D1%85%D0%B5%D0%BB%D0%B8%D0%BA%D1%81-%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B5-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D1%8B/ru.helix"
+  },
+  {
+    "name": "Хеликс: анализы и здоровье",
+    "packageId": "ru.helix.express",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.helix.express&hl=ru"
+  },
+  {
+    "name": "hh: поиск работы",
+    "packageId": "ru.hh.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.hh.android&hl=ru"
+  },
+  {
+    "name": "hh бизнес: поиск сотрудников",
+    "packageId": "ru.hh.employer.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.hh.employer.android&hl=ru"
+  },
+  {
+    "name": "Хоум Банк — карты, кредит, СБП",
+    "packageId": "ru.homecredit.mycredit",
+    "storeUrl": "https://homecredit-mycredit.en.aptoide.com/?store_name=killer00085&app_id=67887752"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ideast.championat",
+    "storeUrl": null
+  },
+  {
+    "name": "Юмор FM",
+    "packageId": "ru.ideast.humor",
+    "storeUrl": "https://apkpure.com/%D1%8E%D0%BC%D0%BE%D1%80-fm/ru.ideast.humor"
+  },
+  {
+    "name": "Radio ENERGY Russia (NRJ)",
+    "packageId": "ru.ideast.nrj",
+    "storeUrl": "https://apkpure.com/radio-energy-russia-nrj/ru.ideast.nrj"
+  },
+  {
+    "name": "Радио Romantika",
+    "packageId": "ru.ideast.romantika",
+    "storeUrl": "https://apkpure.com/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-romantika/ru.ideast.romantika"
+  },
+  {
+    "name": "Online Radio 101.ru",
+    "packageId": "ru.ideast.ru101.rustore",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ideast.ru101.rustore"
+  },
+  {
+    "name": "Мой Триколор",
+    "packageId": "ru.iflex.android.a3colortv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.iflex.android.a3colortv&hl=ru"
+  },
+  {
+    "name": "БыстроБанк Онлайн",
+    "packageId": "ru.ilb.bbmobile",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ilb.bbmobile"
+  },
+  {
+    "name": "Москва-Путину",
+    "packageId": "ru.imteleport.plp2",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D0%BF%D1%83%D1%82%D0%B8%D0%BD%D1%83/ru.imteleport.plp2"
+  },
+  {
+    "name": "Купер・доставка еды и продуктов",
+    "packageId": "ru.instamart",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82-%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2/ru.instamart"
+  },
+  {
+    "name": "Свои Инвестиции",
+    "packageId": "ru.intech.lki",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.intech.lki&hl=ru"
+  },
+  {
+    "name": "ИПБ-Онлайн",
+    "packageId": "ru.ipb.ubsmobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ipb.ubsmobile&hl=ru"
+  },
+  {
+    "name": "КТБ",
+    "packageId": "ru.isfront.android.kt",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.isfront.android.kt"
+  },
+  {
+    "name": "Иви: сериалы, фильмы и ТВ",
+    "packageId": "ru.ivi.client",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ivi.client&hl=ru"
+  },
+  {
+    "name": "kari: обувь и аксессуары",
+    "packageId": "ru.kari.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.kari.android&hl=ru"
+  },
+  {
+    "name": "Rostic's: Доставка и заказ еды",
+    "packageId": "ru.kfc.kfc_delivery",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.kfc.kfc_delivery&hl=ru"
+  },
+  {
+    "name": "Кинопоиск－фильмы，сериалы，спорт",
+    "packageId": "ru.kinopoisk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.kinopoisk&hl=ru"
+  },
+  {
+    "name": "Кинопоиск",
+    "packageId": "ru.kinopoisk.tv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.kinopoisk.tv&hl=ru"
+  },
+  {
+    "name": "Крокус-Банк",
+    "packageId": "ru.krk.ubsmobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.krk.ubsmobile&hl=ru"
+  },
+  {
+    "name": "Лента Онлайн — Заказ продуктов",
+    "packageId": "ru.lenta.lentochka",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.lenta.lentochka"
+  },
+  {
+    "name": "Леонардо: магазин хобби онлайн",
+    "packageId": "ru.leonardo.leonardoshop",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.leonardo.leonardoshop&hl=ru"
+  },
+  {
+    "name": "LMWork",
+    "packageId": "ru.leroymerlin.employee",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.leroymerlin.employee&hl=ru"
+  },
+  {
+    "name": "Лемана ПРО: товары для дома",
+    "packageId": "ru.leroymerlin.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.leroymerlin.mobile&hl=ru"
+  },
+  {
+    "name": "Почта Банк",
+    "packageId": "ru.letobank.Prometheus",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.letobank.Prometheus"
+  },
+  {
+    "name": null,
+    "packageId": "ru.letobank.prometheus",
+    "storeUrl": null
+  },
+  {
+    "name": "МТС Деньги",
+    "packageId": "ru.lewis.dbo",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.lewis.dbo&hl=ru"
+  },
+  {
+    "name": "AlfaCASH",
+    "packageId": "ru.lifepay.pos.alfapos",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.lifepay.pos.alfapos"
+  },
+  {
+    "name": "ВТБ Касса",
+    "packageId": "ru.lifepay.pos.vtb",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.lifepay.pos.vtb"
+  },
+  {
+    "name": "Литрес: Книги и аудиокниги",
+    "packageId": "ru.litres.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.litres.android&hl=ru"
+  },
+  {
+    "name": "Читай — Книги онлайн, читалка",
+    "packageId": "ru.litres.android.readfree",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.litres.android.readfree&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.litres.androidtv",
+    "storeUrl": null
+  },
+  {
+    "name": "Livelib.ru – рекомендации книг",
+    "packageId": "ru.livelib.client",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.livelib.client&hl=ru"
+  },
+  {
+    "name": "M2: сделки с недвижимостью",
+    "packageId": "ru.m2.squaremeter",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.m2.squaremeter"
+  },
+  {
+    "name": "AlfaPOS",
+    "packageId": "ru.m4bank.softpos.alfaru",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.m4bank.softpos.alfaru"
+  },
+  {
+    "name": "РСХБ-SoftPOS",
+    "packageId": "ru.m4bank.softpos.rshb",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.m4bank.softpos.rshb&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.m4bank.softpos.vtbpos",
+    "storeUrl": null
+  },
+  {
+    "name": "Твой Магнит",
+    "packageId": "ru.magnit.hrtest.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.magnit.hrtest.android&hl=ru"
+  },
+  {
+    "name": "Messenger Magnit",
+    "packageId": "ru.magnit.mesmag",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.magnit.mesmag"
+  },
+  {
+    "name": "Tag",
+    "packageId": "ru.magnit.tag",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.magnit.tag&hl=ru"
+  },
+  {
+    "name": "Магнит Перевозки",
+    "packageId": "ru.magnit.tms.armhde",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.magnit.tms.armhde&hl=ru"
+  },
+  {
+    "name": "Магнит для ресторанов",
+    "packageId": "ru.magnit.vendorapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.magnit.vendorapp&hl=ru"
+  },
+  {
+    "name": "VK WorkSpace",
+    "packageId": "ru.mail.biz.avocado",
+    "storeUrl": "https://apkpure.com/vk-teams-business-messenger/ru.mail.biz.avocado"
+  },
+  {
+    "name": "Cloud: Video, photo storage",
+    "packageId": "ru.mail.cloud",
+    "storeUrl": "https://apkpure.com/cloud-video-photo-storage/ru.mail.cloud"
+  },
+  {
+    "name": "Horoscopes – Daily Zodiac Horo",
+    "packageId": "ru.mail.horo.android",
+    "storeUrl": "https://apkpure.com/horoscopes-%E2%80%93-daily-zodiac-horo/ru.mail.horo.android"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mail.intranet",
+    "storeUrl": null
+  },
+  {
+    "name": "Mail",
+    "packageId": "ru.mail.mailapp",
+    "storeUrl": "https://apkpure.com/mail-ru-email-app/ru.mail.mailapp"
+  },
+  {
+    "name": "My World. Movies. Games",
+    "packageId": "ru.mail.my",
+    "storeUrl": "https://apkpure.com/my-world-movies-games/ru.mail.my"
+  },
+  {
+    "name": "Маруся",
+    "packageId": "ru.mail.search.electroscope",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%B0%D1%80%D1%83%D1%81%D1%8F-%E2%80%94-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D0%BD%D0%B8%D0%BA/ru.mail.search.electroscope"
+  },
+  {
+    "name": "Максидом - для дома и ремонта",
+    "packageId": "ru.maxidom.ecomm",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.maxidom.ecomm&hl=ru"
+  },
+  {
+    "name": "МС Банк Рус",
+    "packageId": "ru.mcbankrus.MCBankRus",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mcbankrus.MCBankRus&hl=ru"
+  },
+  {
+    "name": "МегаФон",
+    "packageId": "ru.megafon.mlk",
+    "storeUrl": "https://megafon.en.aptoide.com/?store_name=catappult&app_id=61571931"
+  },
+  {
+    "name": "МегаФон Видеонаблюдение",
+    "packageId": "ru.megafon.vn.client",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.megafon.vn.client"
+  },
+  {
+    "name": "eMotion",
+    "packageId": "ru.megalabs.multifon",
+    "storeUrl": "https://apkpure.com/emotion-voip-%D0%B7%D0%B2%D0%BE%D0%BD%D0%BA%D0%B8/ru.megalabs.multifon"
+  },
+  {
+    "name": "Мегамаркет: доставка товаров",
+    "packageId": "ru.megamarket.marketplace",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.megamarket.marketplace&hl=ru"
+  },
+  {
+    "name": "Заявки",
+    "packageId": "ru.megapolis.rms.servicedesk",
+    "storeUrl": "https://apkpure.com/%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8/ru.megapolis.rms.servicedesk"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mercaux.app",
+    "storeUrl": null
+  },
+  {
+    "name": "Дневник МЭШ",
+    "packageId": "ru.mes.dnevnik",
+    "storeUrl": "https://apkpure.com/%D0%B4%D0%BD%D0%B5%D0%B2%D0%BD%D0%B8%D0%BA-%D0%BC%D1%8D%D1%88/ru.mes.dnevnik"
+  },
+  {
+    "name": "Спутник МЭШ",
+    "packageId": "ru.mes.sputnik",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mes.sputnik"
+  },
+  {
+    "name": "МГФОМС",
+    "packageId": "ru.mgfoms.pandora",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mgfoms.pandora&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mkb.mobile",
+    "storeUrl": null
+  },
+  {
+    "name": "Монетка - доставка продуктов",
+    "packageId": "ru.mntk.dostavka.prod",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mntk.dostavka.prod&hl=ru"
+  },
+  {
+    "name": "Okko: кино, сериалы, спорт, ТВ",
+    "packageId": "ru.more.play",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.more.play&hl=ru"
+  },
+  {
+    "name": "Учёт занятий",
+    "packageId": "ru.mos.MskLongevity",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.MskLongevity"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mos.aiso.m",
+    "storeUrl": null
+  },
+  {
+    "name": "Амина",
+    "packageId": "ru.mos.amina.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.amina.app"
+  },
+  {
+    "name": "Калейдоскоп+",
+    "packageId": "ru.mos.analytics.app.prod",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.analytics.app.prod"
+  },
+  {
+    "name": "Моя Москва — приложение mos.ru",
+    "packageId": "ru.mos.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.app"
+  },
+  {
+    "name": "ЕРЗ. Мои задания",
+    "packageId": "ru.mos.cms.erzapp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.cms.erzapp"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mos.cms.lkyo",
+    "storeUrl": null
+  },
+  {
+    "name": "dCloud",
+    "packageId": "ru.mos.dcloud.client",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.dcloud.client"
+  },
+  {
+    "name": "Электронный дом Москва",
+    "packageId": "ru.mos.ed",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.ed"
+  },
+  {
+    "name": "Город Заданий",
+    "packageId": "ru.mos.gz",
+    "storeUrl": "https://apkpure.com/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B9/ru.mos.gz"
+  },
+  {
+    "name": "Помощник Москвы",
+    "packageId": "ru.mos.helper",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mos.helper&hl=ru"
+  },
+  {
+    "name": "Мой id",
+    "packageId": "ru.mos.myid",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D0%B9-id/ru.mos.myid"
+  },
+  {
+    "name": "Мобильный КПТС",
+    "packageId": "ru.mos.ossigbuilder",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BF%D1%82%D1%81/ru.mos.ossigbuilder"
+  },
+  {
+    "name": "Наш город",
+    "packageId": "ru.mos.ourcity",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.ourcity"
+  },
+  {
+    "name": "Моспитомец",
+    "packageId": "ru.mos.pet",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mos.pet"
+  },
+  {
+    "name": "Активный гражданин",
+    "packageId": "ru.mos.polls",
+    "storeUrl": "https://polls.en.aptoide.com/?store_name=appupdater&app_id=65113479"
+  },
+  {
+    "name": "Discover Moscow",
+    "packageId": "ru.mos.um",
+    "storeUrl": "https://apkpure.com/discover-moscow/ru.mos.um"
+  },
+  {
+    "name": "Zaryadye",
+    "packageId": "ru.mos.zaryadye",
+    "storeUrl": "https://apkpure.com/zaryadye/ru.mos.zaryadye"
+  },
+  {
+    "name": "Московский транспорт",
+    "packageId": "ru.mosgorpass",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mosgorpass&hl=ru"
+  },
+  {
+    "name": "Метро Москвы – карта и схема",
+    "packageId": "ru.mosmetro.metro",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mosmetro.metro&hl=ru"
+  },
+  {
+    "name": "Мособлгаз",
+    "packageId": "ru.mosoblgaz",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D1%81%D0%BE%D0%B1%D0%BB%D0%B3%D0%B0%D0%B7/ru.mosoblgaz"
+  },
+  {
+    "name": "Парковки России",
+    "packageId": "ru.mosparking.appnew",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mosparking.appnew&hl=ru"
+  },
+  {
+    "name": "Портал ЕАСУЗ",
+    "packageId": "ru.mosreg.easuz.portal",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mosreg.easuz.portal&hl=ru"
+  },
+  {
+    "name": "ЕКЖиП",
+    "packageId": "ru.mosreg.ekjp",
+    "storeUrl": "https://apkpure.com/%D0%B4%D0%BE%D0%B1%D1%80%D0%BE%D0%B4%D0%B5%D0%BB/ru.mosreg.ekjp"
+  },
+  {
+    "name": "Проверки Подмосковья",
+    "packageId": "ru.mosreg.mingos.mdp.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mosreg.mingos.mdp.app"
+  },
+  {
+    "name": "112 МО",
+    "packageId": "ru.mosreg.mo112",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mosreg.mo112&hl=ru"
+  },
+  {
+    "name": "Добродел",
+    "packageId": "ru.mosreg.uslugi.mobile.beta",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mosreg.uslugi.mobile.beta&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mts.bank",
+    "storeUrl": null
+  },
+  {
+    "name": "КИОН Строки: книги и аудио",
+    "packageId": "ru.mts.books.droid",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.books.droid&hl=ru"
+  },
+  {
+    "name": "МТС Live: афиша развлечений",
+    "packageId": "ru.mts.live.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.live.app&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mts.money",
+    "storeUrl": null
+  },
+  {
+    "name": "МТС Код",
+    "packageId": "ru.mts.mtscode",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.mtscode&hl=ru"
+  },
+  {
+    "name": "КИОН – фильмы, сериалы и тв",
+    "packageId": "ru.mts.mtstv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.mtstv&hl=ru"
+  },
+  {
+    "name": "КИОН Музыка: песни, подкасты",
+    "packageId": "ru.mts.music.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.music.android&hl=ru"
+  },
+  {
+    "name": "Мой МТС",
+    "packageId": "ru.mts.mymts",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.mymts&hl=ru"
+  },
+  {
+    "name": "МТС PAY",
+    "packageId": "ru.mts.pay",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.mts.pay"
+  },
+  {
+    "name": "Вторая память - облако от МТС",
+    "packageId": "ru.mts.twomem",
+    "storeUrl": "https://apkpure.com/%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D1%8F-%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C-%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE-%D0%BE%D1%82-%D0%BC%D1%82%D1%81/ru.mts.twomem"
+  },
+  {
+    "name": "VDome",
+    "packageId": "ru.mts.vdome.resident",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mts.vdome.resident&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.mvideo.service",
+    "storeUrl": null
+  },
+  {
+    "name": "Эльдорадо: интернет магазин",
+    "packageId": "ru.mvm.eldo",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mvm.eldo&hl=ru"
+  },
+  {
+    "name": "Qplus — электронный кошелёк",
+    "packageId": "ru.mw",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mw&hl=ru"
+  },
+  {
+    "name": "MyBook — книги и аудиокниги",
+    "packageId": "ru.mybook",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.mybook&hl=ru"
+  },
+  {
+    "name": "Мой SPAR — продукты и доставка",
+    "packageId": "ru.myspar",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.myspar&hl=ru"
+  },
+  {
+    "name": "Рабочее Место Руководителя",
+    "packageId": "ru.nalog.rmr.client",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.nalog.rmr.client&hl=ru"
+  },
+  {
+    "name": "НаПоправку - врачи онлайн 24/7",
+    "packageId": "ru.napopravku",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.napopravku&hl=ru"
+  },
+  {
+    "name": "НБД-Банк",
+    "packageId": "ru.nbd.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.nbd.android&hl=ru"
+  },
+  {
+    "name": "Mailion",
+    "packageId": "ru.ncloudtech.mec",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ncloudtech.mec&hl=ru"
+  },
+  {
+    "name": "МойСквадус – командная работа",
+    "packageId": "ru.ncloudtech.squadus",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ncloudtech.squadus&hl=ru"
+  },
+  {
+    "name": "Wifire",
+    "packageId": "ru.netbynet.app.personal_cabinet",
+    "storeUrl": "https://apkpure.com/wifire-%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82/ru.netbynet.app.personal_cabinet"
+  },
+  {
+    "name": "Netcraze",
+    "packageId": "ru.netcraze.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.netcraze.app&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.netris.videocity",
+    "storeUrl": null
+  },
+  {
+    "name": "МВМ-эксплуатация",
+    "packageId": "ru.newamelia.mvideo",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.newamelia.mvideo&hl=ru"
+  },
+  {
+    "name": "Привет! – акции СБП и «Мир»",
+    "packageId": "ru.nspk.mir.loyalty",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.nspk.mir.loyalty"
+  },
+  {
+    "name": "Mir Pay",
+    "packageId": "ru.nspk.mirpay",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.nspk.mirpay"
+  },
+  {
+    "name": "СБПэй",
+    "packageId": "ru.nspk.sbpay",
+    "storeUrl": "https://nspk-sbpay.en.aptoide.com/?store_name=fullappsgermany&app_id=74470100"
+  },
+  {
+    "name": "НТВ",
+    "packageId": "ru.ntv.client",
+    "storeUrl": "https://apkpure.com/%D0%BD%D1%82%D0%B2-%E2%80%94-%D1%82%D0%B2-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D0%B8-%D1%88%D0%BE%D1%83-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/ru.ntv.client"
+  },
+  {
+    "name": "НТВ",
+    "packageId": "ru.ntv.client.tv",
+    "storeUrl": "https://apkpure.com/%D0%BD%D1%82%D0%B2-%D0%BD%D0%B0-androidtv-%D1%82%D0%B2-%D0%B8-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D0%B8/ru.ntv.client.tv"
+  },
+  {
+    "name": "Сегодня",
+    "packageId": "ru.ntv.today",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%B5%D0%B3%D0%BE%D0%B4%D0%BD%D1%8F/ru.ntv.today"
+  },
+  {
+    "name": "Личный кабинет НТВ-ПЛЮС",
+    "packageId": "ru.ntvplus.service",
+    "storeUrl": "https://apkpure.com/%D0%BB%D0%B8%D1%87%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%B1%D0%B8%D0%BD%D0%B5%D1%82-%D0%BD%D1%82%D0%B2-%D0%BF%D0%BB%D1%8E%D1%81/ru.ntvplus.service"
+  },
+  {
+    "name": "OK",
+    "packageId": "ru.ok.android",
+    "storeUrl": "https://apkpure.com/ok-social-network-2-app/ru.ok.android"
+  },
+  {
+    "name": "OK Dating",
+    "packageId": "ru.ok.dating",
+    "storeUrl": "https://apkpure.com/ok-dating/ru.ok.dating"
+  },
+  {
+    "name": "Профразвитие госслужащих",
+    "packageId": "ru.okbmei.gosservice",
+    "storeUrl": "https://apkpure.com/%D0%BF%D1%80%D0%BE%D1%84%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D1%82%D0%B8%D0%B5-%D0%B3%D0%BE%D1%81%D1%81%D0%BB%D1%83%D0%B6%D0%B0%D1%89%D0%B8%D1%85/ru.okbmei.gosservice"
+  },
+  {
+    "name": "МАКС: общение, звонки, сервисы",
+    "packageId": "ru.oneme.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.oneme.app"
+  },
+  {
+    "name": "Ростелеком Москва",
+    "packageId": "ru.onlime.my.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.onlime.my.app&hl=ru"
+  },
+  {
+    "name": "Открытый контроль",
+    "packageId": "ru.open.gisokmp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.open.gisokmp"
+  },
+  {
+    "name": "Островок – Отели и Гостиницы",
+    "packageId": "ru.ostrovok.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ostrovok.android&hl=ru"
+  },
+  {
+    "name": "ОТП Банк Онлайн",
+    "packageId": "ru.otpbank.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.otpbank.mobile&hl=ru"
+  },
+  {
+    "name": "OZON: товары, одежда, билеты",
+    "packageId": "ru.ozon.app.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.app.android&hl=ru"
+  },
+  {
+    "name": "Chatzone",
+    "packageId": "ru.ozon.chatzone",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.chatzone&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ozon.fintech.apvz",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.ozon.fintech.finance",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.ozon.fintech.sme",
+    "storeUrl": null
+  },
+  {
+    "name": "Ozon Курьер Экспресс",
+    "packageId": "ru.ozon.flex",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.flex&hl=ru"
+  },
+  {
+    "name": "Ozon fresh",
+    "packageId": "ru.ozon.fresh",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.fresh&hl=ru"
+  },
+  {
+    "name": "Ozon Job",
+    "packageId": "ru.ozon.hire",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.hire&hl=ru"
+  },
+  {
+    "name": "Вози Ozon",
+    "packageId": "ru.ozon.magistral",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.magistral&hl=ru"
+  },
+  {
+    "name": "Courier Fresh",
+    "packageId": "ru.ozon.maple_app",
+    "storeUrl": "https://apkpure.com/courier-fresh/ru.ozon.maple_app"
+  },
+  {
+    "name": "Пункт Ozon",
+    "packageId": "ru.ozon.ozon_pvz",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.ozon_pvz&hl=ru"
+  },
+  {
+    "name": "Ozon Profit",
+    "packageId": "ru.ozon.profit",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.profit&hl=ru"
+  },
+  {
+    "name": "Ozon Селект брендовые товары",
+    "packageId": "ru.ozon.select",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.select&hl=ru"
+  },
+  {
+    "name": "Ozon Seller: для продавцов",
+    "packageId": "ru.ozon.seller_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ozon.seller_app&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ozon.tv",
+    "storeUrl": null
+  },
+  {
+    "name": "PARI",
+    "packageId": "ru.paribet",
+    "storeUrl": "https://apkpure.com/pari/ru.paribet"
+  },
+  {
+    "name": "Перекресток доставка продуктов",
+    "packageId": "ru.perekrestok.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.perekrestok.app&hl=ru"
+  },
+  {
+    "name": "АЗС Роснефть",
+    "packageId": "ru.pichesky.rosneft",
+    "storeUrl": "https://rosneft.en.aptoide.com/?store_name=appupdater&app_id=75747331"
+  },
+  {
+    "name": "Пикабу — юмор, истории, мемы",
+    "packageId": "ru.pikabu.android",
+    "storeUrl": "https://apkpure.com/%D0%BF%D0%B8%D0%BA%D0%B0%D0%B1%D1%83-%E2%80%94-%D1%8E%D0%BC%D0%BE%D1%80-%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8-%D0%BC%D0%B5%D0%BC%D1%8B/ru.pikabu.android"
+  },
+  {
+    "name": "Cofix Club",
+    "packageId": "ru.plazius.cofix",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.plazius.cofix&hl=ru"
+  },
+  {
+    "name": "Яндекс Книги",
+    "packageId": "ru.plus.bookmate",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.plus.bookmate&hl=ru"
+  },
+  {
+    "name": "Авторадио",
+    "packageId": "ru.profmedia.avtoradio",
+    "storeUrl": "https://apkpure.com/%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D0%B0%D0%B4%D0%B8%D0%BE/ru.profmedia.avtoradio"
+  },
+  {
+    "name": "Like FM",
+    "packageId": "ru.profmedia.likefm",
+    "storeUrl": "https://apkpure.com/like-fm/ru.profmedia.likefm"
+  },
+  {
+    "name": "ПСБ Инвестиции",
+    "packageId": "ru.psbank.invest",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.psbank.invest"
+  },
+  {
+    "name": null,
+    "packageId": "ru.psbank.msb.dev.psb_appstore",
+    "storeUrl": null
+  },
+  {
+    "name": "Пятёрочка: доставка продуктов",
+    "packageId": "ru.pyaterochka.app.browser",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.pyaterochka.app.browser&hl=ru"
+  },
+  {
+    "name": "Работа.ру: поиск работы рядом",
+    "packageId": "ru.rabota.app2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rabota.app2&hl=ru"
+  },
+  {
+    "name": "Райффайзен Онлайн Банк Россия",
+    "packageId": "ru.raiffeisennews",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.raiffeisennews&hl=ru"
+  },
+  {
+    "name": "Рамблер/гороскопы",
+    "packageId": "ru.rambler.horoscopes.twa",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rambler.horoscopes.twa"
+  },
+  {
+    "name": "Рамблер/почта",
+    "packageId": "ru.rambler.mail",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rambler.mail"
+  },
+  {
+    "name": "О'КЕЙ Гипермаркеты и доставка",
+    "packageId": "ru.reksoft.okey",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.reksoft.okey&hl=ru"
+  },
+  {
+    "name": "РОСГОССТРАХ",
+    "packageId": "ru.rgs.lk",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rgs.lk"
+  },
+  {
+    "name": "Yappy: видео, клипы, тренды",
+    "packageId": "ru.ritmmedia.yappy",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ritmmedia.yappy&hl=ru"
+  },
+  {
+    "name": "Рольф: продажа и покупка авто",
+    "packageId": "ru.rolf.rolf",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rolf.rolf&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.rosbank.android",
+    "storeUrl": null
+  },
+  {
+    "name": "РОСБАНК Онлайн",
+    "packageId": "ru.rosbank.android.beta",
+    "storeUrl": "https://rosbank-android-beta.en.aptoide.com/?store_name=03rus&app_id=69132064"
+  },
+  {
+    "name": "РосДорБанк",
+    "packageId": "ru.rosdorbank.physical",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rosdorbank.physical"
+  },
+  {
+    "name": "Росреестр",
+    "packageId": "ru.rosreestr.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rosreestr.mobile&hl=ru"
+  },
+  {
+    "name": "Госуслуги",
+    "packageId": "ru.rostel",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rostel&hl=ru"
+  },
+  {
+    "name": "IdeaRT",
+    "packageId": "ru.rostelecom.ideas",
+    "storeUrl": "https://apkpure.com/ideart/ru.rostelecom.ideas"
+  },
+  {
+    "name": "Ростелеком ВАТС",
+    "packageId": "ru.rostelecom.vatsmobilelk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rostelecom.vatsmobilelk&hl=ru"
+  },
+  {
+    "name": "Банк Русский Стандарт",
+    "packageId": "ru.rsb.mobbank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rsb.mobbank"
+  },
+  {
+    "name": "Мобильный банк, Россельхозбанк",
+    "packageId": "ru.rshb.dbo",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.dbo&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.rshb.dboul",
+    "storeUrl": null
+  },
+  {
+    "name": "Офис сотрудника РСХБ",
+    "packageId": "ru.rshb.digitalCoworkerOffice",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.digitalCoworkerOffice&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.rshb.digitalcoworkeroffice",
+    "storeUrl": null
+  },
+  {
+    "name": "РСХБ QR",
+    "packageId": "ru.rshb.ips_qr",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.ips_qr&hl=ru"
+  },
+  {
+    "name": "Свой бизнес от Россельхозбанка",
+    "packageId": "ru.rshb.privatebusiness",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.privatebusiness&hl=ru"
+  },
+  {
+    "name": "СвоеРодное: доставка продуктов",
+    "packageId": "ru.rshb.svoe_rodnoe",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.svoe_rodnoe&hl=ru"
+  },
+  {
+    "name": "Своё Жильё",
+    "packageId": "ru.rshb.svoedom_android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.svoedom_android&hl=ru"
+  },
+  {
+    "name": "Свое: Кабинет Продавца",
+    "packageId": "ru.rshb.svojfermer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rshb.svojfermer&hl=ru"
+  },
+  {
+    "name": "Ростелеком Ключ",
+    "packageId": "ru.rt.key",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.key&hl=ru"
+  },
+  {
+    "name": "RT Life",
+    "packageId": "ru.rt.life",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.life&hl=ru"
+  },
+  {
+    "name": "Мастер Ключ",
+    "packageId": "ru.rt.masterkey",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.masterkey&hl=ru"
+  },
+  {
+    "name": "Мобильный монтажник",
+    "packageId": "ru.rt.mb_installer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.mb_installer&hl=ru"
+  },
+  {
+    "name": "Ростелеком Бизнес",
+    "packageId": "ru.rt.mobileoffice",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.mobileoffice&hl=ru"
+  },
+  {
+    "name": "SUIT Mobile",
+    "packageId": "ru.rt.ritm",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.ritm&hl=ru"
+  },
+  {
+    "name": "Видеонаблюдение и Умный дом",
+    "packageId": "ru.rt.smarthome",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.smarthome&hl=ru"
+  },
+  {
+    "name": "Wink — Кино, Фильмы и Сериалы",
+    "packageId": "ru.rt.video.app.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.video.app.mobile&hl=ru"
+  },
+  {
+    "name": "Бизнес.ТВ",
+    "packageId": "ru.rt.video.app.mobile.b2b",
+    "storeUrl": "https://apkpure.com/%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D1%82%D0%B2/ru.rt.video.app.mobile.b2b"
+  },
+  {
+    "name": "Wink - ТВ и кино для AndroidTV",
+    "packageId": "ru.rt.video.app.tv",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.video.app.tv&hl=ru"
+  },
+  {
+    "name": "Видеонаблюдение Ростелеком",
+    "packageId": "ru.rt.videocomfort",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.videocomfort&hl=ru"
+  },
+  {
+    "name": "Дело.Трек",
+    "packageId": "ru.rt.wfm",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rt.wfm&hl=ru"
+  },
+  {
+    "name": "Как дела?",
+    "packageId": "ru.rtdc.kakdela",
+    "storeUrl": "https://apkpure.com/%D0%BA%D0%B0%D0%BA-%D0%B4%D0%B5%D0%BB%D0%B0/ru.rtdc.kakdela"
+  },
+  {
+    "name": "Госуслуги Биометрия",
+    "packageId": "ru.rtlabs.mobile.ebs.gosuslugi.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rtlabs.mobile.ebs.gosuslugi.android&hl=ru"
+  },
+  {
+    "name": "РУБ-Онлайн",
+    "packageId": "ru.rubank.ubsmobile",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rubank.ubsmobile"
+  },
+  {
+    "name": null,
+    "packageId": "ru.rusnarbank.correqts.retail",
+    "storeUrl": null
+  },
+  {
+    "name": "Avtodor",
+    "packageId": "ru.russianhighways.mobile",
+    "storeUrl": "https://apkpure.com/avtodor/ru.russianhighways.mobile"
+  },
+  {
+    "name": "Почта Чат",
+    "packageId": "ru.russianpost.pechkin",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.russianpost.pechkin&hl=ru"
+  },
+  {
+    "name": "RUTUBE Детям — мультики, видео",
+    "packageId": "ru.rutube.RutubeKids",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rutube.RutubeKids"
+  },
+  {
+    "name": "RUTUBE",
+    "packageId": "ru.rutube.app",
+    "storeUrl": "https://apkpure.com/rutube-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%88%D0%BE%D1%83-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%86%D0%B8%D0%B8/ru.rutube.app"
+  },
+  {
+    "name": "RUTUBE",
+    "packageId": "ru.rutube.app.tv",
+    "storeUrl": "https://rutube-app.en.aptoide.com/?store_name=appstvcommunity&app_id=70194717"
+  },
+  {
+    "name": "Студия RUTUBE",
+    "packageId": "ru.rutube.studio",
+    "storeUrl": "https://apkpure.com/%D1%81%D1%82%D1%83%D0%B4%D0%B8%D1%8F-rutube-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%BE%D0%B3%D0%B5%D1%80%D0%BE%D0%B2/ru.rutube.studio"
+  },
+  {
+    "name": "РЖД Груз 2.0",
+    "packageId": "ru.rzd.cargolk",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rzd.cargolk"
+  },
+  {
+    "name": "РЖД Чемпионат",
+    "packageId": "ru.rzd.newsdo.skills",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.rzd.newsdo.skills"
+  },
+  {
+    "name": "РЖД Пассажирам билеты на поезд",
+    "packageId": "ru.rzd.pass",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.rzd.pass&hl=ru"
+  },
+  {
+    "name": "Салют, Jazz",
+    "packageId": "ru.salute.b2b.prod",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.salute.b2b.prod&hl=ru"
+  },
+  {
+    "name": "Самокат: еда и продукты на дом",
+    "packageId": "ru.sbcs.store",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.sbcs.store&hl=ru"
+  },
+  {
+    "name": "CS Radar - экспедирование грузов",
+    "packageId": "ru.sber.csradar",
+    "storeUrl": "https://apkpure.com/cs-radar-%D1%8D%D0%BA%D1%81%D0%BF%D0%B5%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B3%D1%80%D1%83%D0%B7%D0%BE%D0%B2/ru.sber.csradar"
+  },
+  {
+    "name": "СберМобайл",
+    "packageId": "ru.sber.telecom",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%BE%D0%B1%D0%B0%D0%B9%D0%BB/ru.sber.telecom"
+  },
+  {
+    "name": "СберИнвестиции",
+    "packageId": "ru.sberbank.investor",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.sberbank.investor"
+  },
+  {
+    "name": null,
+    "packageId": "ru.sberbank.onlineencashment",
+    "storeUrl": null
+  },
+  {
+    "name": "СберKids",
+    "packageId": "ru.sberbank.sberkids",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%B1%D0%B5%D1%80kids/ru.sberbank.sberkids"
+  },
+  {
+    "name": "Моя Подпись ПРО",
+    "packageId": "ru.sberbank.sbersign",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D1%8F-%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D1%8C-%D0%BF%D1%80%D0%BE/ru.sberbank.sbersign"
+  },
+  {
+    "name": "СберСпасибо",
+    "packageId": "ru.sberbank.spasibo",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.sberbank.spasibo"
+  },
+  {
+    "name": "Сбербанк Бизнес Онлайн",
+    "packageId": "ru.sberbank_sbbol",
+    "storeUrl": "https://sberbank-sbbol.en.aptoide.com/?store_name=split-store&app_id=52420234"
+  },
+  {
+    "name": "СберБанк",
+    "packageId": "ru.sberbankmobile",
+    "storeUrl": "https://apkpure.com/sberbank-of-russia/ru.sberbankmobile"
+  },
+  {
+    "name": "СберСтрахование",
+    "packageId": "ru.sberins.insureapp.android",
+    "storeUrl": "https://sberstraxovanie.en.aptoide.com/?store_name=killer00085&app_id=69474827"
+  },
+  {
+    "name": "Мегамаркет Продавцы",
+    "packageId": "ru.sbermegamarket.pro",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.sbermegamarket.pro"
+  },
+  {
+    "name": null,
+    "packageId": "ru.sbi.android",
+    "storeUrl": null
+  },
+  {
+    "name": "АЗС ЛУКОЙЛ",
+    "packageId": "ru.serebryakovas.lukoilmobileapp",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.serebryakovas.lukoilmobileapp"
+  },
+  {
+    "name": null,
+    "packageId": "ru.setka",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.sferum.android",
+    "storeUrl": null
+  },
+  {
+    "name": "Госуслуги Дом",
+    "packageId": "ru.sigma.gisgkh",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.sigma.gisgkh&hl=ru"
+  },
+  {
+    "name": "Сима-ленд: интернет-магазин",
+    "packageId": "ru.sima_land.spb.market",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.sima_land.spb.market&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.simpls.brs2.mobbank",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.skbbank.ib",
+    "storeUrl": null
+  },
+  {
+    "name": "СМ-Клиника",
+    "packageId": "ru.smclinic.app.lk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.smclinic.app.lk&hl=ru"
+  },
+  {
+    "name": "Доставка супер: продукты и еда",
+    "packageId": "ru.smmd.superdelivery",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.smmd.superdelivery&hl=ru"
+  },
+  {
+    "name": "SNGB",
+    "packageId": "ru.sngb.dbo.client.android",
+    "storeUrl": "https://apkpure.com/sngb-online/ru.sngb.dbo.client.android"
+  },
+  {
+    "name": null,
+    "packageId": "ru.sogaz.app",
+    "storeUrl": null
+  },
+  {
+    "name": "Совкомбанк Здоровье",
+    "packageId": "ru.sovcombank.dms",
+    "storeUrl": "https://apkpure.com/%D1%81%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA-%D0%B7%D0%B4%D0%BE%D1%80%D0%BE%D0%B2%D1%8C%D0%B5/ru.sovcombank.dms"
+  },
+  {
+    "name": "Совкомбанк Инвестиции. Акции, биржа, доллар, евро",
+    "packageId": "ru.sovcombank.investor",
+    "storeUrl": "https://sovcombank-investor.en.aptoide.com/?store_name=killer00085&app_id=67908773"
+  },
+  {
+    "name": "Халва – Совкомбанк",
+    "packageId": "ru.sovcomcard.halva.v1",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.sovcomcard.halva.v1"
+  },
+  {
+    "name": "Школяр Электронный дневник СПб",
+    "packageId": "ru.spb.dnevnik",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.spb.dnevnik&hl=ru"
+  },
+  {
+    "name": "Петербургское образование.ЭД",
+    "packageId": "ru.spb.iac.dnevnikspb_new",
+    "storeUrl": "https://apkpure.com/%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3%D1%81%D0%BA%D0%BE%D0%B5-%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D1%8D%D0%B4/ru.spb.iac.dnevnikspb_new"
+  },
+  {
+    "name": "Парковки Санкт-Петербурга",
+    "packageId": "ru.spb.parking",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.spb.parking&hl=ru"
+  },
+  {
+    "name": "Спортмастер: интернет-магазин",
+    "packageId": "ru.sportmaster.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.sportmaster.app&hl=ru"
+  },
+  {
+    "name": "START: онлайн-кинотеатр",
+    "packageId": "ru.start.androidmobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.start.androidmobile&hl=ru"
+  },
+  {
+    "name": "Stoloto",
+    "packageId": "ru.stoloto.mobile",
+    "storeUrl": "https://stoloto.en.aptoide.com/?store_name=catappult&app_id=47740398"
+  },
+  {
+    "name": "SUNLIGHT: Ювелирный магазин",
+    "packageId": "ru.sunlight.sunlight",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.sunlight.sunlight&hl=ru"
+  },
+  {
+    "name": "МТ",
+    "packageId": "ru.systtech.megafon.mobile",
+    "storeUrl": "https://apkpure.com/%D0%BC%D1%82/ru.systtech.megafon.mobile"
+  },
+  {
+    "name": "WFM: Штатное расписание",
+    "packageId": "ru.t2.wfmapp.prod",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.t2.wfmapp.prod&hl=ru"
+  },
+  {
+    "name": "Магнит: акции и доставка",
+    "packageId": "ru.tander.magnit",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tander.magnit&hl=ru"
+  },
+  {
+    "name": "Mobile Scout",
+    "packageId": "ru.tander.mobile_scout_flutter",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.tander.mobile_scout_flutter"
+  },
+  {
+    "name": "АЗС Татнефть",
+    "packageId": "ru.tatneft.gasstations",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tatneft.gasstations&hl=ru"
+  },
+  {
+    "name": "Таксовичкоф — Заказ такси",
+    "packageId": "ru.taxovichkof.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.taxovichkof.android&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.tbank.myt",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.tbank.online",
+    "storeUrl": null
+  },
+  {
+    "name": "Цифровой ключ",
+    "packageId": "ru.technokad.digitalkey",
+    "storeUrl": "https://apkpure.com/%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BA%D0%BB%D1%8E%D1%87/ru.technokad.digitalkey"
+  },
+  {
+    "name": "WTT",
+    "packageId": "ru.tele2.app.wtt",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tele2.app.wtt&hl=ru"
+  },
+  {
+    "name": "AppSeller t2",
+    "packageId": "ru.tele2.appseller",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tele2.appseller&hl=ru"
+  },
+  {
+    "name": "CYBERHERO PRO - киберспорт",
+    "packageId": "ru.tele2.cyberhero.pro",
+    "storeUrl": "https://apkpure.com/cyberhero-pro-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%81%D0%BF%D0%BE%D1%80%D1%82/ru.tele2.cyberhero.pro"
+  },
+  {
+    "name": "t2. Новый уровень",
+    "packageId": "ru.tele2.mytele2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tele2.mytele2&hl=ru"
+  },
+  {
+    "name": "На связи",
+    "packageId": "ru.tele2.nasvyzi",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tele2.nasvyzi&hl=ru"
+  },
+  {
+    "name": "SMS-фильтр",
+    "packageId": "ru.tele2.sms.blocker",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tele2.sms.blocker&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.teremok.keys",
+    "storeUrl": null
+  },
+  {
+    "name": "Фоксфорд Учебник: Онлайн школа, ЕГЭ и ОГЭ",
+    "packageId": "ru.textbook.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.textbook.app"
+  },
+  {
+    "name": "Мой Мосэнергосбыт",
+    "packageId": "ru.tii.lkcomu",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tii.lkcomu&hl=ru"
+  },
+  {
+    "name": "Долями - оплата частями онлайн",
+    "packageId": "ru.tinkoff.bnpl",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tinkoff.bnpl&hl=ru"
+  },
+  {
+    "name": "Академия инвестиций Тинькофф",
+    "packageId": "ru.tinkoff.invest.course",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.tinkoff.invest.course"
+  },
+  {
+    "name": "T-Investments",
+    "packageId": "ru.tinkoff.investing",
+    "storeUrl": "https://galaxystore.samsung.com/detail/ru.tinkoff.investing"
+  },
+  {
+    "name": "Solyarka",
+    "packageId": "ru.tinkoff.lifestyle.fuel.sme",
+    "storeUrl": "https://galaxystore.samsung.com/detail/ru.tinkoff.lifestyle.fuel.sme"
+  },
+  {
+    "name": "Мобильный Офис",
+    "packageId": "ru.tinkoff.magent",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.tinkoff.magent"
+  },
+  {
+    "name": "Тинькофф Мобайл: eSIM, связь",
+    "packageId": "ru.tinkoff.mvno",
+    "storeUrl": "https://mobile-tinkoff-bank.en.aptoide.com/?store_name=raitxevil&app_id=74992001"
+  },
+  {
+    "name": "Pay to phone",
+    "packageId": "ru.tinkoff.posterminal",
+    "storeUrl": "https://apkpure.com/pay-to-phone/ru.tinkoff.posterminal"
+  },
+  {
+    "name": "T-Business",
+    "packageId": "ru.tinkoff.sme",
+    "storeUrl": "https://galaxystore.samsung.com/detail/ru.tinkoff.sme"
+  },
+  {
+    "name": "TNT MUSIC",
+    "packageId": "ru.tntmusic.tv",
+    "storeUrl": "https://apkpure.com/tnt-music/ru.tntmusic.tv"
+  },
+  {
+    "name": "ТОКИО-CITY — заказ еды онлайн",
+    "packageId": "ru.tokyocity.tokyocity",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tokyocity.tokyocity&hl=ru"
+  },
+  {
+    "name": "Моя Тройка",
+    "packageId": "ru.troika.regional",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.troika.regional&hl=ru"
+  },
+  {
+    "name": "Расписание электричек Туту",
+    "packageId": "ru.tutu.etrains",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tutu.etrains&hl=ru"
+  },
+  {
+    "name": "Жд билеты, отели, авиабилеты",
+    "packageId": "ru.tutu.tutu_emp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.tutu.tutu_emp&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.ucb.android",
+    "storeUrl": null
+  },
+  {
+    "name": "Личный кабинет ЕРЦ Уралэнергосбыт",
+    "packageId": "ru.ues.users_personal_account",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.ues.users_personal_account"
+  },
+  {
+    "name": "Уфанет",
+    "packageId": "ru.ufanet.myufanet",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.ufanet.myufanet&hl=ru"
+  },
+  {
+    "name": "ЮниКредит Банк",
+    "packageId": "ru.unicredit.android",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.unicredit.android&hl=ru"
+  },
+  {
+    "name": "УРАЛПРОМБАНК 2.0",
+    "packageId": "ru.uralprombank.mobilebanknew.googleplay",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.uralprombank.mobilebanknew.googleplay&hl=ru"
+  },
+  {
+    "name": "Юрент: аренда самокатов",
+    "packageId": "ru.urentbike.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.urentbike.app&hl=ru"
+  },
+  {
+    "name": "Московский велопрокат Велобайк",
+    "packageId": "ru.usetech.velobike.v2",
+    "storeUrl": "https://apkpure.com/%D0%BC%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B5%D0%BB%D0%BE%D0%BF%D1%80%D0%BE%D0%BA%D0%B0%D1%82-%D0%B2%D0%B5%D0%BB%D0%BE%D0%B1%D0%B0%D0%B9%D0%BA/ru.usetech.velobike.v2"
+  },
+  {
+    "name": "Ютека. Все аптеки города",
+    "packageId": "ru.uteka.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.uteka.app&hl=ru"
+  },
+  {
+    "name": "Utkonos",
+    "packageId": "ru.utk.dostavka",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.utk.dostavka&hl=ru"
+  },
+  {
+    "name": "VK HR Tek",
+    "packageId": "ru.vk.hrtek",
+    "storeUrl": "https://apkpure.com/vk-hr-tek-%D0%BA%D0%B0%D0%B4%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D1%8B/ru.vk.hrtek"
+  },
+  {
+    "name": null,
+    "packageId": "ru.vk.store",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.vk.video",
+    "storeUrl": null
+  },
+  {
+    "name": null,
+    "packageId": "ru.vkmusic.audio",
+    "storeUrl": null
+  },
+  {
+    "name": "Comedy Radio",
+    "packageId": "ru.vkpm.comedy",
+    "storeUrl": "https://apkpure.com/comedy-radio/ru.vkpm.comedy"
+  },
+  {
+    "name": "ВкусВилл: доставка продуктов",
+    "packageId": "ru.vkusvill",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.vkusvill&hl=ru"
+  },
+  {
+    "name": "Яндекс Аптеки: заказ лекарств",
+    "packageId": "ru.vseapteki",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.vseapteki&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.vtb.corporate.android.main_application",
+    "storeUrl": null
+  },
+  {
+    "name": "ВТБ Мои Инвестиции",
+    "packageId": "ru.vtb.invest",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.vtb.invest"
+  },
+  {
+    "name": "ВТБ Бизнес Lite",
+    "packageId": "ru.vtb.smb",
+    "storeUrl": "https://vtb-smb.en.aptoide.com/?store_name=killer00085&app_id=67887892"
+  },
+  {
+    "name": "ВТБ Онлайн",
+    "packageId": "ru.vtb24.mobilebanking.android",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.vtb24.mobilebanking.android"
+  },
+  {
+    "name": "ВТБ Мобайл",
+    "packageId": "ru.vtbmobile.app",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.vtbmobile.app"
+  },
+  {
+    "name": "Норвик Банк",
+    "packageId": "ru.vtkbank.android",
+    "storeUrl": "https://apkpure.com/%D0%BD%D0%BE%D1%80%D0%B2%D0%B8%D0%BA-%D0%B1%D0%B0%D0%BD%D0%BA/ru.vtkbank.android"
+  },
+  {
+    "name": "WB Курьер",
+    "packageId": "ru.wb.courier",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wb.courier&hl=ru"
+  },
+  {
+    "name": "WB Go",
+    "packageId": "ru.wb.go",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wb.go&hl=ru"
+  },
+  {
+    "name": "Wibes: короткие видео и клипы",
+    "packageId": "ru.wb.guru",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wb.guru&hl=ru"
+  },
+  {
+    "name": "BandChat",
+    "packageId": "ru.wb.wband",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wb.wband&hl=ru"
+  },
+  {
+    "name": "WB Банк",
+    "packageId": "ru.wildberries.bank",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.wildberries.bank"
+  },
+  {
+    "name": "WB Книги",
+    "packageId": "ru.wildberries.books",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wildberries.books&hl=ru"
+  },
+  {
+    "name": "WB Manager",
+    "packageId": "ru.wildberries.manager",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wildberries.manager&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.wildberries.razz",
+    "storeUrl": null
+  },
+  {
+    "name": "WB Job",
+    "packageId": "ru.wildberries.team",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wildberries.team&hl=ru"
+  },
+  {
+    "name": "myteam",
+    "packageId": "ru.wildberries.team2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.wildberries.team2&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.wildberries.wbpayclient",
+    "storeUrl": null
+  },
+  {
+    "name": "Винлаб — алкогольные напитки",
+    "packageId": "ru.winelab",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.winelab&hl=ru"
+  },
+  {
+    "name": "Wink: Музыка и Подкасты Онлайн",
+    "packageId": "ru.wink.music",
+    "storeUrl": "https://apkpure.com/wink-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8-%D0%B8-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/ru.wink.music"
+  },
+  {
+    "name": "Wink Музыка",
+    "packageId": "ru.wink.music.tv",
+    "storeUrl": "https://wink-muzyka.en.aptoide.com/?store_name=appstvcommunity&app_id=69132794"
+  },
+  {
+    "name": "Food.ru: пошаговые рецепты",
+    "packageId": "ru.x5.foodru.rs",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.x5.foodru.rs"
+  },
+  {
+    "name": "Х5 Ключ",
+    "packageId": "ru.x5.key",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.key&hl=ru"
+  },
+  {
+    "name": "X5 Логистика",
+    "packageId": "ru.x5.mfpnew",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.mfpnew&hl=ru"
+  },
+  {
+    "name": "UNA",
+    "packageId": "ru.x5.mrm_android.personalDevice",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.mrm_android.personalDevice&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.x5.mrm_android.personaldevice",
+    "storeUrl": null
+  },
+  {
+    "name": "5 POST",
+    "packageId": "ru.x5.omni",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.omni&hl=ru"
+  },
+  {
+    "name": "Аура",
+    "packageId": "ru.x5.opermax.aura",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.opermax.aura&hl=ru"
+  },
+  {
+    "name": "X5 Rooms",
+    "packageId": "ru.x5.rooms",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.rooms&hl=ru"
+  },
+  {
+    "name": "Слата X5 Клуб",
+    "packageId": "ru.x5.wl.slata",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.wl.slata&hl=ru"
+  },
+  {
+    "name": "WRS",
+    "packageId": "ru.x5.wrs2",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.wrs2&hl=ru"
+  },
+  {
+    "name": "X5 Jobs: найти вакансии рядом",
+    "packageId": "ru.x5.x5job",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.x5.x5job&hl=ru"
+  },
+  {
+    "name": "Яндекс Клавиатура с Алисой",
+    "packageId": "ru.yandex.androidkeyboard",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.androidkeyboard&hl=ru"
+  },
+  {
+    "name": "Yandex Cloud",
+    "packageId": "ru.yandex.cloud",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.cloud&hl=ru"
+  },
+  {
+    "name": "Яндекс Трекер",
+    "packageId": "ru.yandex.cloud.tracker",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.cloud.tracker&hl=ru"
+  },
+  {
+    "name": "Яндекс Директ для бизнеса",
+    "packageId": "ru.yandex.direct",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.direct&hl=ru"
+  },
+  {
+    "name": "Яндекс Диск - Облако для фото",
+    "packageId": "ru.yandex.disk",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.disk&hl=ru"
+  },
+  {
+    "name": "Рисовайка для детей от Яндекса",
+    "packageId": "ru.yandex.drawie",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.drawie&hl=ru"
+  },
+  {
+    "name": "Яндекс Игры",
+    "packageId": "ru.yandex.games",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.games&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.yandex.games.tv",
+    "storeUrl": null
+  },
+  {
+    "name": "Яндекс ID – аутентификатор 2FA",
+    "packageId": "ru.yandex.key",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.key&hl=ru"
+  },
+  {
+    "name": "Яндекс Почта",
+    "packageId": "ru.yandex.mail",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.mail&hl=ru"
+  },
+  {
+    "name": "Яндекс Маркет для продавцов",
+    "packageId": "ru.yandex.market.partner",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.market.partner&hl=ru"
+  },
+  {
+    "name": "Маркет ПВЗ",
+    "packageId": "ru.yandex.market.pickuppointpro",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.market.pickuppointpro&hl=ru"
+  },
+  {
+    "name": "Яндекс Метро",
+    "packageId": "ru.yandex.metro",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.metro&hl=ru"
+  },
+  {
+    "name": "Яндекс Афиша — билеты",
+    "packageId": "ru.yandex.mobile.afisha",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.mobile.afisha&hl=ru"
+  },
+  {
+    "name": "Яндекс Авиабилеты",
+    "packageId": "ru.yandex.mobile.avia",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.mobile.avia&hl=ru"
+  },
+  {
+    "name": "Яндекс Радио — все станции",
+    "packageId": "ru.yandex.mobile.fmradio",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.mobile.fmradio&hl=ru"
+  },
+  {
+    "name": "Яндекс Заправки: АЗС на карте",
+    "packageId": "ru.yandex.mobile.gasstations",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.mobile.gasstations&hl=ru"
+  },
+  {
+    "name": "Яндекс Музыка, Книги, Подкасты",
+    "packageId": "ru.yandex.music",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.music&hl=ru"
+  },
+  {
+    "name": "Яндекс Практикум: онлайн курсы",
+    "packageId": "ru.yandex.practicum.flutter_practicum",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.practicum.flutter_practicum&hl=ru"
+  },
+  {
+    "name": "Яндекс Электрички и ЖД билеты",
+    "packageId": "ru.yandex.rasp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.rasp&hl=ru"
+  },
+  {
+    "name": "Читайник — чтение для детей",
+    "packageId": "ru.yandex.readie",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.readie&hl=ru"
+  },
+  {
+    "name": "Робот-доставщик",
+    "packageId": "ru.yandex.rovertoy.app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.rovertoy.app&hl=ru"
+  },
+  {
+    "name": "Яндекс Старт",
+    "packageId": "ru.yandex.searchplugin",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.searchplugin&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ru.yandex.smartreserve.aon",
+    "storeUrl": null
+  },
+  {
+    "name": "Яндекс Разговор: речь в текст",
+    "packageId": "ru.yandex.subtitles",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.subtitles&hl=ru"
+  },
+  {
+    "name": "Яндекс Go: Такси Еда Доставка",
+    "packageId": "ru.yandex.taxi",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.taxi&hl=ru"
+  },
+  {
+    "name": "Яндекс Про: водители и курьеры",
+    "packageId": "ru.yandex.taximeter",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.taximeter&hl=ru"
+  },
+  {
+    "name": "Яндекс Телемост: Звонки и Чаты",
+    "packageId": "ru.yandex.telemost",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.telemost&hl=ru"
+  },
+  {
+    "name": "Яндекс Переводчик",
+    "packageId": "ru.yandex.translate",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.translate&hl=ru"
+  },
+  {
+    "name": "Я.Путешествия: Отели, ЖД, Авиа",
+    "packageId": "ru.yandex.travel",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.travel&hl=ru"
+  },
+  {
+    "name": "Я.Путешествия: Экстранет",
+    "packageId": "ru.yandex.travel.extranet",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.travel.extranet&hl=ru"
+  },
+  {
+    "name": "Fasten Russia: Заказ такси",
+    "packageId": "ru.yandex.uber",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.uber&hl=ru"
+  },
+  {
+    "name": "Яндекс Погода - Карта осадков",
+    "packageId": "ru.yandex.weatherplugin",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin&hl=ru"
+  },
+  {
+    "name": "Яндекс Карты и Навигатор",
+    "packageId": "ru.yandex.yandexmaps",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.yandexmaps&hl=ru"
+  },
+  {
+    "name": "Яндекс Навигатор",
+    "packageId": "ru.yandex.yandexnavi",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex.yandexnavi&hl=ru"
+  },
+  {
+    "name": "Я Team",
+    "packageId": "ru.yandex_team.calendar_app",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yandex_team.calendar_app&hl=ru"
+  },
+  {
+    "name": "ЮBusiness",
+    "packageId": "ru.yoo.business",
+    "storeUrl": "https://apkpure.com/%D1%8Ebusiness/ru.yoo.business"
+  },
+  {
+    "name": "ЮKassa — для бизнеса",
+    "packageId": "ru.yoo.kassa",
+    "storeUrl": "https://www.rustore.ru/catalog/app/ru.yoo.kassa"
+  },
+  {
+    "name": "YooMoney — wallet, cashback",
+    "packageId": "ru.yoo.money",
+    "storeUrl": "https://yoomoney.en.aptoide.com/?store_name=vzlom&app_id=71001140"
+  },
+  {
+    "name": null,
+    "packageId": "ru.yoo.sdk.kassa.payments.example.release",
+    "storeUrl": null
+  },
+  {
+    "name": "Mobile operator for Android",
+    "packageId": "ru.yota.android",
+    "storeUrl": "https://apkpure.com/mobile-operator-for-android/ru.yota.android"
+  },
+  {
+    "name": "Ёжка: планировщик задач",
+    "packageId": "ru.yozhka",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.yozhka&hl=ru"
+  },
+  {
+    "name": "Дзен",
+    "packageId": "ru.zen.android",
+    "storeUrl": "https://apkpure.com/%D0%B4%D0%B7%D0%B5%D0%BD-%E2%80%94-%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE-%D1%80%D0%BE%D0%BB%D0%B8%D0%BA%D0%B8-%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8/ru.zen.android"
+  },
+  {
+    "name": null,
+    "packageId": "ru.zenit.android",
+    "storeUrl": null
+  },
+  {
+    "name": "Tochka",
+    "packageId": "ru.zhuck.webapp",
+    "storeUrl": "https://galaxystore.samsung.com/detail/ru.zhuck.webapp"
+  },
+  {
+    "name": "585 Золотой ювелирный магазин",
+    "packageId": "ru.zolotoy585.customer",
+    "storeUrl": "https://play.google.com/store/apps/details?id=ru.zolotoy585.customer&hl=ru"
+  },
+  {
+    "name": null,
+    "packageId": "ruagro.start.tech",
+    "storeUrl": null
+  },
+  {
+    "name": "Sodruzhestvo",
+    "packageId": "sodruzhestvo.android.app",
+    "storeUrl": "https://apkpure.com/sodruzhestvo/sodruzhestvo.android.app"
+  },
+  {
+    "name": "АТБ банк",
+    "packageId": "su.atb.mobileapp",
+    "storeUrl": "https://play.google.com/store/apps/details?id=su.atb.mobileapp&hl=ru"
+  },
+  {
+    "name": "Paymaster - расходы и доходы",
+    "packageId": "su.azure.paymaster",
+    "storeUrl": "https://play.google.com/store/apps/details?id=su.azure.paymaster&hl=ru"
+  },
+  {
+    "name": "МП. Инспектор",
+    "packageId": "team.rtds.checkcontrol",
+    "storeUrl": "https://play.google.com/store/apps/details?id=team.rtds.checkcontrol&hl=ru"
+  },
+  {
+    "name": "ЕМИАС.Курьер",
+    "packageId": "tech.clink.emias.emiasqrcode",
+    "storeUrl": "https://play.google.com/store/apps/details?id=tech.clink.emias.emiasqrcode&hl=ru"
+  },
+  {
+    "name": "t2 КАТС",
+    "packageId": "tele2.vats",
+    "storeUrl": "https://play.google.com/store/apps/details?id=tele2.vats&hl=ru"
+  },
+  {
+    "name": "Ozon Travel: отели, ЖД и авиа",
+    "packageId": "travel.ozon.mobile",
+    "storeUrl": "https://play.google.com/store/apps/details?id=travel.ozon.mobile&hl=ru"
+  },
+  {
+    "name": "Smotreshka: online TV and more",
+    "packageId": "tv.lfstrm.smotreshka",
+    "storeUrl": "https://apkpure.com/smotreshka-online-tv-and-more/tv.lfstrm.smotreshka"
+  },
+  {
+    "name": "НТВ-ПЛЮС",
+    "packageId": "tv.ntvplus.app",
+    "storeUrl": "https://apkpure.com/%D0%BD%D1%82%D0%B2-%D0%BF%D0%BB%D1%8E%D1%81-%D1%82%D0%B2-%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB-%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%D1%8B-%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B-%D1%81%D0%BF%D0%BE%D1%80%D1%82-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/tv.ntvplus.app"
+  },
+  {
+    "name": null,
+    "packageId": "tv.ntvplus.app.tv",
+    "storeUrl": null
+  },
+  {
+    "name": "Okko - фильмы, сериалы и спорт",
+    "packageId": "tv.okko.androidtv",
+    "storeUrl": "https://okko-androidtv.en.aptoide.com/?store_name=appstvcommunity&app_id=70544477"
+  },
+  {
+    "name": "Триколор Видеонаблюдение",
+    "packageId": "tv.tricolor.video",
+    "storeUrl": "https://play.google.com/store/apps/details?id=tv.tricolor.video&hl=ru"
+  },
+  {
+    "name": "VK X - Музыка ВК",
+    "packageId": "ua.itaysonlab.vkx",
+    "storeUrl": "https://apkpure.com/vk-x-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0-%D0%B2%D0%BA/ua.itaysonlab.vkx"
+  },
+  {
+    "name": "WB Partners",
+    "packageId": "wb.partners",
+    "storeUrl": "https://play.google.com/store/apps/details?id=wb.partners&hl=ru"
+  },
+  {
+    "name": "WB Банк Бизнес",
+    "packageId": "wildberries.business",
+    "storeUrl": "https://www.rustore.ru/catalog/app/wildberries.business"
+  },
+  {
+    "name": "METRO: заказ продуктов на дом",
+    "packageId": "www.metro.com",
+    "storeUrl": "https://play.google.com/store/apps/details?id=www.metro.com&hl=ru"
+  },
+  {
+    "name": "Ситидрайв: каршеринг и аренда",
+    "packageId": "youdrive.today",
+    "storeUrl": "https://play.google.com/store/apps/details?id=youdrive.today&hl=ru"
+  }
+]

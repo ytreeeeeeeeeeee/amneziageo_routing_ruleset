@@ -1,0 +1,812 @@
+[
+  {
+    "name": "Autodesk 3ds Max",
+    "executable": "3dsmax.exe",
+    "rule": "app:name=3dsmax.exe",
+    "sourceUrl": "https://www.autodesk.com/products/3ds-max/overview"
+  },
+  {
+    "name": "64Gram",
+    "executable": "64Gram.exe",
+    "rule": "app:name=64Gram.exe",
+    "sourceUrl": "https://github.com/TDesktop-x64/tdesktop/releases"
+  },
+  {
+    "name": "AutoCAD",
+    "executable": "acad.exe",
+    "rule": "app:name=acad.exe",
+    "sourceUrl": "https://www.autodesk.com/products/autocad/overview"
+  },
+  {
+    "name": "Adobe Acrobat",
+    "executable": "Acrobat.exe",
+    "rule": "app:name=Acrobat.exe",
+    "sourceUrl": "https://www.adobe.com/acrobat.html"
+  },
+  {
+    "name": "Adobe Acrobat Reader",
+    "executable": "AcroRd32.exe",
+    "rule": "app:name=AcroRd32.exe",
+    "sourceUrl": "https://get.adobe.com/reader/"
+  },
+  {
+    "name": "Adobe Audition",
+    "executable": "Adobe Audition.exe",
+    "rule": "app:name=Adobe Audition.exe",
+    "sourceUrl": "https://www.adobe.com/products/audition.html"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "executable": "Adobe Desktop Service.exe",
+    "rule": "app:name=Adobe Desktop Service.exe",
+    "sourceUrl": "https://www.adobe.com/creativecloud/desktop-app.html"
+  },
+  {
+    "name": "Adobe Media Encoder",
+    "executable": "Adobe Media Encoder.exe",
+    "rule": "app:name=Adobe Media Encoder.exe",
+    "sourceUrl": "https://www.adobe.com/products/media-encoder.html"
+  },
+  {
+    "name": "Adobe Premiere Pro",
+    "executable": "Adobe Premiere Pro.exe",
+    "rule": "app:name=Adobe Premiere Pro.exe",
+    "sourceUrl": "https://www.adobe.com/products/premiere.html"
+  },
+  {
+    "name": "Adobe Substance 3D Designer",
+    "executable": "Adobe Substance 3D Designer.exe",
+    "rule": "app:name=Adobe Substance 3D Designer.exe",
+    "sourceUrl": "https://www.adobe.com/products/substance3d/apps/designer.html"
+  },
+  {
+    "name": "Adobe Substance 3D Painter",
+    "executable": "Adobe Substance 3D Painter.exe",
+    "rule": "app:name=Adobe Substance 3D Painter.exe",
+    "sourceUrl": "https://www.adobe.com/products/substance3d/apps/painter.html"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "executable": "AdobeIPCBroker.exe",
+    "rule": "app:name=AdobeIPCBroker.exe",
+    "sourceUrl": "https://www.adobe.com/creativecloud/desktop-app.html"
+  },
+  {
+    "name": "Autodesk Access",
+    "executable": "AdskAccessServiceHost.exe",
+    "rule": "app:name=AdskAccessServiceHost.exe",
+    "sourceUrl": "https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/How-to-remove-the-AdskAccessServiceHost-ODIS-Core-background-service-on-Windows.html"
+  },
+  {
+    "name": "Adobe After Effects",
+    "executable": "AfterFX.exe",
+    "rule": "app:name=AfterFX.exe",
+    "sourceUrl": "https://www.adobe.com/products/aftereffects.html"
+  },
+  {
+    "name": "Amazon Music",
+    "executable": "Amazon Music.exe",
+    "rule": "app:name=Amazon Music.exe",
+    "sourceUrl": "https://www.amazon.com/musicapps"
+  },
+  {
+    "name": "AnyDesk",
+    "executable": "AnyDesk.exe",
+    "rule": "app:name=AnyDesk.exe",
+    "sourceUrl": "https://anydesk.com/en/downloads/windows"
+  },
+  {
+    "name": "ArmCord",
+    "executable": "ArmCord.exe",
+    "rule": "app:name=ArmCord.exe",
+    "sourceUrl": "https://github.com/Legcord/Legcord"
+  },
+  {
+    "name": "Autodesk Access",
+    "executable": "Autodesk Access.exe",
+    "rule": "app:name=Autodesk Access.exe",
+    "sourceUrl": "https://www.autodesk.com/products/autodesk-access/overview"
+  },
+  {
+    "name": "AyuGram Desktop",
+    "executable": "Ayugram.exe",
+    "rule": "app:name=Ayugram.exe",
+    "sourceUrl": "https://github.com/AyuGram/AyuGramDesktop"
+  },
+  {
+    "name": "Battle.net",
+    "executable": "Battle.net Helper.exe",
+    "rule": "app:name=Battle.net Helper.exe",
+    "sourceUrl": "https://download.battle.net/en-us/desktop"
+  },
+  {
+    "name": "Battle.net",
+    "executable": "Battle.net.exe",
+    "rule": "app:name=Battle.net.exe",
+    "sourceUrl": "https://download.battle.net/en-us/desktop"
+  },
+  {
+    "name": "Battle.net",
+    "executable": "BlizzardBrowser.exe",
+    "rule": "app:name=BlizzardBrowser.exe",
+    "sourceUrl": "https://download.battle.net/en-us/desktop"
+  },
+  {
+    "name": "Box Drive",
+    "executable": "Box.exe",
+    "rule": "app:name=Box.exe",
+    "sourceUrl": "https://www.box.com/resources/downloads"
+  },
+  {
+    "name": "Adobe Bridge",
+    "executable": "Bridge.exe",
+    "rule": "app:name=Bridge.exe",
+    "sourceUrl": "https://www.adobe.com/products/bridge.html"
+  },
+  {
+    "name": "Canva",
+    "executable": "Canva.exe",
+    "rule": "app:name=Canva.exe",
+    "sourceUrl": "https://www.canva.com/download/windows/"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "executable": "CCXProcess.exe",
+    "rule": "app:name=CCXProcess.exe",
+    "sourceUrl": "https://www.adobe.com/creativecloud/desktop-app.html"
+  },
+  {
+    "name": "ChatGPT",
+    "executable": "ChatGPT.exe",
+    "rule": "app:name=ChatGPT.exe",
+    "sourceUrl": "https://openai.com/chatgpt/desktop/"
+  },
+  {
+    "name": "Webex",
+    "executable": "CiscoCollabHost.exe",
+    "rule": "app:name=CiscoCollabHost.exe",
+    "sourceUrl": "https://help.webex.com/en-us/article/dluqwo/Executable-files-used-by-Webex-App-on-Windows"
+  },
+  {
+    "name": "Claude",
+    "executable": "Claude.exe",
+    "rule": "app:name=Claude.exe",
+    "sourceUrl": "https://claude.com/download"
+  },
+  {
+    "name": "CLion",
+    "executable": "clion64.exe",
+    "rule": "app:name=clion64.exe",
+    "sourceUrl": "https://www.jetbrains.com/clion/"
+  },
+  {
+    "name": "Visual Studio Code Insiders",
+    "executable": "Code - Insiders.exe",
+    "rule": "app:name=Code - Insiders.exe",
+    "sourceUrl": "https://code.visualstudio.com/insiders/"
+  },
+  {
+    "name": "Visual Studio Code",
+    "executable": "Code.exe",
+    "rule": "app:name=Code.exe",
+    "sourceUrl": "https://code.visualstudio.com/"
+  },
+  {
+    "name": "OpenAI Codex",
+    "executable": "Codex.exe",
+    "rule": "app:name=Codex.exe",
+    "sourceUrl": "https://github.com/openai/codex"
+  },
+  {
+    "name": "Docker Desktop",
+    "executable": "com.docker.backend.exe",
+    "rule": "app:name=com.docker.backend.exe",
+    "sourceUrl": "https://docs.docker.com/desktop/features/networking/"
+  },
+  {
+    "name": "Microsoft Copilot",
+    "executable": "Copilot.exe",
+    "rule": "app:name=Copilot.exe",
+    "sourceUrl": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "executable": "CoreSync.exe",
+    "rule": "app:name=CoreSync.exe",
+    "sourceUrl": "https://www.adobe.com/creativecloud/desktop-app.html"
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "executable": "Creative Cloud.exe",
+    "rule": "app:name=Creative Cloud.exe",
+    "sourceUrl": "https://www.adobe.com/creativecloud/desktop-app.html"
+  },
+  {
+    "name": "Cursor",
+    "executable": "Cursor.exe",
+    "rule": "app:name=Cursor.exe",
+    "sourceUrl": "https://cursor.com/download"
+  },
+  {
+    "name": "DataGrip",
+    "executable": "datagrip64.exe",
+    "rule": "app:name=datagrip64.exe",
+    "sourceUrl": "https://www.jetbrains.com/datagrip/"
+  },
+  {
+    "name": "DeepL for Windows",
+    "executable": "DeepL.exe",
+    "rule": "app:name=DeepL.exe",
+    "sourceUrl": "https://www.deepl.com/en/windows-app"
+  },
+  {
+    "name": "DeepL for Windows",
+    "executable": "DeepL.Windows.Autostart.exe",
+    "rule": "app:name=DeepL.Windows.Autostart.exe",
+    "sourceUrl": "https://www.deepl.com/en/windows-app"
+  },
+  {
+    "name": "DeepL for Windows",
+    "executable": "DeepL.Windows.exe",
+    "rule": "app:name=DeepL.Windows.exe",
+    "sourceUrl": "https://www.deepl.com/en/windows-app"
+  },
+  {
+    "name": "Deezer",
+    "executable": "Deezer.exe",
+    "rule": "app:name=Deezer.exe",
+    "sourceUrl": "https://www.deezer.com/explore/en-us/devices/"
+  },
+  {
+    "name": "Discord",
+    "executable": "Discord.exe",
+    "rule": "app:name=Discord.exe",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord Canary",
+    "executable": "DiscordCanary.exe",
+    "rule": "app:name=DiscordCanary.exe",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord Public Test Build",
+    "executable": "DiscordPTB.exe",
+    "rule": "app:name=DiscordPTB.exe",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Docker Desktop",
+    "executable": "Docker Desktop.exe",
+    "rule": "app:name=Docker Desktop.exe",
+    "sourceUrl": "https://docs.docker.com/desktop/features/networking/"
+  },
+  {
+    "name": "Dropbox",
+    "executable": "Dropbox.exe",
+    "rule": "app:name=Dropbox.exe",
+    "sourceUrl": "https://www.dropbox.com/desktop"
+  },
+  {
+    "name": "EA app",
+    "executable": "EABackgroundService.exe",
+    "rule": "app:name=EABackgroundService.exe",
+    "sourceUrl": "https://www.ea.com/ea-app"
+  },
+  {
+    "name": "EA app",
+    "executable": "EADesktop.exe",
+    "rule": "app:name=EADesktop.exe",
+    "sourceUrl": "https://www.ea.com/ea-app"
+  },
+  {
+    "name": "EA app",
+    "executable": "EALauncher.exe",
+    "rule": "app:name=EALauncher.exe",
+    "sourceUrl": "https://www.ea.com/ea-app"
+  },
+  {
+    "name": "Epic Games Launcher",
+    "executable": "EpicGamesLauncher.exe",
+    "rule": "app:name=EpicGamesLauncher.exe",
+    "sourceUrl": "https://store.epicgames.com/en-US/download"
+  },
+  {
+    "name": "Epic Games Launcher",
+    "executable": "EpicWebHelper.exe",
+    "rule": "app:name=EpicWebHelper.exe",
+    "sourceUrl": "https://store.epicgames.com/en-US/download"
+  },
+  {
+    "name": "Equibop",
+    "executable": "Equibop.exe",
+    "rule": "app:name=Equibop.exe",
+    "sourceUrl": "https://github.com/Equicord/Equibop/releases"
+  },
+  {
+    "name": "Evernote",
+    "executable": "Evernote.exe",
+    "rule": "app:name=Evernote.exe",
+    "sourceUrl": "https://evernote.com/download"
+  },
+  {
+    "name": "FACEIT Client",
+    "executable": "FACEIT.exe",
+    "rule": "app:name=FACEIT.exe",
+    "sourceUrl": "https://www.faceit.com/en/client"
+  },
+  {
+    "name": "Figma",
+    "executable": "Figma.exe",
+    "rule": "app:name=Figma.exe",
+    "sourceUrl": "https://www.figma.com/downloads/"
+  },
+  {
+    "name": "Figma",
+    "executable": "FigmaAgent.exe",
+    "rule": "app:name=FigmaAgent.exe",
+    "sourceUrl": "https://www.figma.com/downloads/"
+  },
+  {
+    "name": "JetBrains Fleet",
+    "executable": "fleet.exe",
+    "rule": "app:name=fleet.exe",
+    "sourceUrl": "https://blog.jetbrains.com/fleet/"
+  },
+  {
+    "name": "FreeTube",
+    "executable": "FreeTube.exe",
+    "rule": "app:name=FreeTube.exe",
+    "sourceUrl": "https://freetubeapp.io/"
+  },
+  {
+    "name": "Autodesk Fusion",
+    "executable": "Fusion360.exe",
+    "rule": "app:name=Fusion360.exe",
+    "sourceUrl": "https://www.autodesk.com/products/fusion-360/overview"
+  },
+  {
+    "name": "GOG GALAXY",
+    "executable": "GalaxyClient.exe",
+    "rule": "app:name=GalaxyClient.exe",
+    "sourceUrl": "https://www.gog.com/galaxy"
+  },
+  {
+    "name": "GOG GALAXY",
+    "executable": "GalaxyClientService.exe",
+    "rule": "app:name=GalaxyClientService.exe",
+    "sourceUrl": "https://www.gog.com/galaxy"
+  },
+  {
+    "name": "GOG GALAXY",
+    "executable": "GalaxyCommunication.exe",
+    "rule": "app:name=GalaxyCommunication.exe",
+    "sourceUrl": "https://www.gog.com/galaxy"
+  },
+  {
+    "name": "GitHub Desktop",
+    "executable": "GitHubDesktop.exe",
+    "rule": "app:name=GitHubDesktop.exe",
+    "sourceUrl": "https://desktop.github.com/"
+  },
+  {
+    "name": "GoLand",
+    "executable": "goland64.exe",
+    "rule": "app:name=goland64.exe",
+    "sourceUrl": "https://www.jetbrains.com/go/"
+  },
+  {
+    "name": "Grammarly for Windows",
+    "executable": "Grammarly.Desktop.exe",
+    "rule": "app:name=Grammarly.Desktop.exe",
+    "sourceUrl": "https://www.grammarly.com/desktop/windows"
+  },
+  {
+    "name": "Grammarly for Windows",
+    "executable": "Grammarly.exe",
+    "rule": "app:name=Grammarly.exe",
+    "sourceUrl": "https://www.grammarly.com/desktop/windows"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "executable": "idea64.exe",
+    "rule": "app:name=idea64.exe",
+    "sourceUrl": "https://www.jetbrains.com/idea/"
+  },
+  {
+    "name": "Adobe Illustrator",
+    "executable": "Illustrator.exe",
+    "rule": "app:name=Illustrator.exe",
+    "sourceUrl": "https://www.adobe.com/products/illustrator.html"
+  },
+  {
+    "name": "Adobe InDesign",
+    "executable": "InDesign.exe",
+    "rule": "app:name=InDesign.exe",
+    "sourceUrl": "https://www.adobe.com/products/indesign.html"
+  },
+  {
+    "name": "JetBrains Toolbox App",
+    "executable": "jetbrains-toolbox.exe",
+    "rule": "app:name=jetbrains-toolbox.exe",
+    "sourceUrl": "https://www.jetbrains.com/toolbox-app/"
+  },
+  {
+    "name": "Kotatogram Desktop",
+    "executable": "Kotatogram.exe",
+    "rule": "app:name=Kotatogram.exe",
+    "sourceUrl": "https://github.com/kotatogram/kotatogram-desktop/releases"
+  },
+  {
+    "name": "Legcord",
+    "executable": "Legcord.exe",
+    "rule": "app:name=Legcord.exe",
+    "sourceUrl": "https://github.com/Legcord/Legcord"
+  },
+  {
+    "name": "Adobe Lightroom",
+    "executable": "Lightroom.exe",
+    "rule": "app:name=Lightroom.exe",
+    "sourceUrl": "https://www.adobe.com/products/photoshop-lightroom.html"
+  },
+  {
+    "name": "Adobe Lightroom Classic",
+    "executable": "LightroomClassic.exe",
+    "rule": "app:name=LightroomClassic.exe",
+    "sourceUrl": "https://www.adobe.com/products/photoshop-lightroom-classic.html"
+  },
+  {
+    "name": "Autodesk Maya",
+    "executable": "maya.exe",
+    "rule": "app:name=maya.exe",
+    "sourceUrl": "https://www.autodesk.com/products/maya/overview"
+  },
+  {
+    "name": "Minecraft Launcher",
+    "executable": "MinecraftLauncher.exe",
+    "rule": "app:name=MinecraftLauncher.exe",
+    "sourceUrl": "https://www.minecraft.net/en-us/download"
+  },
+  {
+    "name": "Miro",
+    "executable": "Miro.exe",
+    "rule": "app:name=Miro.exe",
+    "sourceUrl": "https://miro.com/apps/"
+  },
+  {
+    "name": "Microsoft Teams",
+    "executable": "ms-teams.exe",
+    "rule": "app:name=ms-teams.exe",
+    "sourceUrl": "https://learn.microsoft.com/en-us/troubleshoot/microsoftteams/teams-administration/include-exclude-teams-from-antivirus-dlp"
+  },
+  {
+    "name": "Notion",
+    "executable": "Notion.exe",
+    "rule": "app:name=Notion.exe",
+    "sourceUrl": "https://www.notion.com/desktop"
+  },
+  {
+    "name": "Origin",
+    "executable": "Origin.exe",
+    "rule": "app:name=Origin.exe",
+    "sourceUrl": "https://www.ea.com/ea-app"
+  },
+  {
+    "name": "Origin",
+    "executable": "OriginWebHelperService.exe",
+    "rule": "app:name=OriginWebHelperService.exe",
+    "sourceUrl": "https://www.ea.com/ea-app"
+  },
+  {
+    "name": "Parsec",
+    "executable": "parsecd.exe",
+    "rule": "app:name=parsecd.exe",
+    "sourceUrl": "https://parsec.app/downloads"
+  },
+  {
+    "name": "Adobe Photoshop",
+    "executable": "Photoshop.exe",
+    "rule": "app:name=Photoshop.exe",
+    "sourceUrl": "https://www.adobe.com/products/photoshop.html"
+  },
+  {
+    "name": "PhpStorm",
+    "executable": "phpstorm64.exe",
+    "rule": "app:name=phpstorm64.exe",
+    "sourceUrl": "https://www.jetbrains.com/phpstorm/"
+  },
+  {
+    "name": "Proton Drive",
+    "executable": "Proton Drive.exe",
+    "rule": "app:name=Proton Drive.exe",
+    "sourceUrl": "https://proton.me/drive/download"
+  },
+  {
+    "name": "Proton Mail",
+    "executable": "Proton Mail.exe",
+    "rule": "app:name=Proton Mail.exe",
+    "sourceUrl": "https://proton.me/mail/download"
+  },
+  {
+    "name": "Proton Pass",
+    "executable": "Proton Pass.exe",
+    "rule": "app:name=Proton Pass.exe",
+    "sourceUrl": "https://proton.me/pass/download"
+  },
+  {
+    "name": "PyCharm",
+    "executable": "pycharm64.exe",
+    "rule": "app:name=pycharm64.exe",
+    "sourceUrl": "https://www.jetbrains.com/pycharm/"
+  },
+  {
+    "name": "Qobuz",
+    "executable": "Qobuz.exe",
+    "rule": "app:name=Qobuz.exe",
+    "sourceUrl": "https://www.qobuz.com/us-en/applications"
+  },
+  {
+    "name": "Autodesk Revit",
+    "executable": "Revit.exe",
+    "rule": "app:name=Revit.exe",
+    "sourceUrl": "https://www.autodesk.com/products/revit/overview"
+  },
+  {
+    "name": "JetBrains Rider",
+    "executable": "rider64.exe",
+    "rule": "app:name=rider64.exe",
+    "sourceUrl": "https://www.jetbrains.com/rider/"
+  },
+  {
+    "name": "Riot Client",
+    "executable": "RiotClientServices.exe",
+    "rule": "app:name=RiotClientServices.exe",
+    "sourceUrl": "https://support.riotgames.com/en-us/riot/security/configure-your-firewall/"
+  },
+  {
+    "name": "Riot Client",
+    "executable": "RiotClientUx.exe",
+    "rule": "app:name=RiotClientUx.exe",
+    "sourceUrl": "https://support.riotgames.com/en-us/riot/security/configure-your-firewall/"
+  },
+  {
+    "name": "Riot Client",
+    "executable": "RiotClientUxRender.exe",
+    "rule": "app:name=RiotClientUxRender.exe",
+    "sourceUrl": "https://support.riotgames.com/en-us/riot/security/configure-your-firewall/"
+  },
+  {
+    "name": "Ripcord",
+    "executable": "Ripcord.exe",
+    "rule": "app:name=Ripcord.exe",
+    "sourceUrl": "https://cancel.fm/ripcord/"
+  },
+  {
+    "name": "Roblox Player",
+    "executable": "RobloxPlayerBeta.exe",
+    "rule": "app:name=RobloxPlayerBeta.exe",
+    "sourceUrl": "https://www.roblox.com/download"
+  },
+  {
+    "name": "Roblox Studio",
+    "executable": "RobloxStudioBeta.exe",
+    "rule": "app:name=RobloxStudioBeta.exe",
+    "sourceUrl": "https://create.roblox.com/docs/studio/setup"
+  },
+  {
+    "name": "Rockstar Games Launcher",
+    "executable": "RockstarService.exe",
+    "rule": "app:name=RockstarService.exe",
+    "sourceUrl": "https://support.rockstargames.com/articles/4extB4aITvMKdDEZzsFAwE/rockstar-games-launcher-download"
+  },
+  {
+    "name": "Rockstar Games Launcher",
+    "executable": "RockstarSteamHelper.exe",
+    "rule": "app:name=RockstarSteamHelper.exe",
+    "sourceUrl": "https://support.rockstargames.com/articles/4extB4aITvMKdDEZzsFAwE/rockstar-games-launcher-download"
+  },
+  {
+    "name": "RubyMine",
+    "executable": "rubymine64.exe",
+    "rule": "app:name=rubymine64.exe",
+    "sourceUrl": "https://www.jetbrains.com/ruby/"
+  },
+  {
+    "name": "RustRover",
+    "executable": "rustrover64.exe",
+    "rule": "app:name=rustrover64.exe",
+    "sourceUrl": "https://www.jetbrains.com/rust/"
+  },
+  {
+    "name": "Session",
+    "executable": "Session.exe",
+    "rule": "app:name=Session.exe",
+    "sourceUrl": "https://getsession.org/download"
+  },
+  {
+    "name": "Signal",
+    "executable": "Signal.exe",
+    "rule": "app:name=Signal.exe",
+    "sourceUrl": "https://signal.org/download/"
+  },
+  {
+    "name": "SimpleX Chat",
+    "executable": "SimpleX Chat.exe",
+    "rule": "app:name=SimpleX Chat.exe",
+    "sourceUrl": "https://simplex.chat/downloads/"
+  },
+  {
+    "name": "Slack",
+    "executable": "Slack.exe",
+    "rule": "app:name=Slack.exe",
+    "sourceUrl": "https://slack.com/downloads/windows"
+  },
+  {
+    "name": "Rockstar Games Launcher",
+    "executable": "SocialClubHelper.exe",
+    "rule": "app:name=SocialClubHelper.exe",
+    "sourceUrl": "https://support.rockstargames.com/articles/4extB4aITvMKdDEZzsFAwE/rockstar-games-launcher-download"
+  },
+  {
+    "name": "Speedtest by Ookla",
+    "executable": "Speedtest.exe",
+    "rule": "app:name=Speedtest.exe",
+    "sourceUrl": "https://www.speedtest.net/apps/windows"
+  },
+  {
+    "name": "Spotify",
+    "executable": "Spotify.exe",
+    "rule": "app:name=Spotify.exe",
+    "sourceUrl": "https://www.spotify.com/download/windows/"
+  },
+  {
+    "name": "Android Studio",
+    "executable": "studio64.exe",
+    "rule": "app:name=studio64.exe",
+    "sourceUrl": "https://developer.android.com/studio"
+  },
+  {
+    "name": "Microsoft Teams",
+    "executable": "Teams.exe",
+    "rule": "app:name=Teams.exe",
+    "sourceUrl": "https://learn.microsoft.com/en-us/troubleshoot/microsoftteams/teams-administration/include-exclude-teams-from-antivirus-dlp"
+  },
+  {
+    "name": "TeamViewer",
+    "executable": "TeamViewer.exe",
+    "rule": "app:name=TeamViewer.exe",
+    "sourceUrl": "https://www.teamviewer.com/en/download/windows/"
+  },
+  {
+    "name": "TeamViewer",
+    "executable": "TeamViewer_Service.exe",
+    "rule": "app:name=TeamViewer_Service.exe",
+    "sourceUrl": "https://www.teamviewer.com/en/download/windows/"
+  },
+  {
+    "name": "Telegram Desktop",
+    "executable": "Telegram.exe",
+    "rule": "app:name=Telegram.exe",
+    "sourceUrl": "https://desktop.telegram.org/"
+  },
+  {
+    "name": "TIDAL",
+    "executable": "TIDAL.exe",
+    "rule": "app:name=TIDAL.exe",
+    "sourceUrl": "https://tidal.com/download"
+  },
+  {
+    "name": "Trello",
+    "executable": "Trello.exe",
+    "rule": "app:name=Trello.exe",
+    "sourceUrl": "https://trello.com/platforms"
+  },
+  {
+    "name": "Tuta Desktop",
+    "executable": "Tuta Desktop.exe",
+    "rule": "app:name=Tuta Desktop.exe",
+    "sourceUrl": "https://tuta.com/support/howto"
+  },
+  {
+    "name": "Ubisoft Connect",
+    "executable": "UbisoftConnect.exe",
+    "rule": "app:name=UbisoftConnect.exe",
+    "sourceUrl": "https://www.ubisoft.com/en-us/ubisoft-connect"
+  },
+  {
+    "name": "Unigram",
+    "executable": "Unigram.exe",
+    "rule": "app:name=Unigram.exe",
+    "sourceUrl": "https://github.com/UnigramDev/Unigram"
+  },
+  {
+    "name": "Unity Hub",
+    "executable": "Unity Hub.exe",
+    "rule": "app:name=Unity Hub.exe",
+    "sourceUrl": "https://unity.com/download"
+  },
+  {
+    "name": "Unity Editor",
+    "executable": "Unity.exe",
+    "rule": "app:name=Unity.exe",
+    "sourceUrl": "https://unity.com/products/unity-engine"
+  },
+  {
+    "name": "Ubisoft Connect",
+    "executable": "upc.exe",
+    "rule": "app:name=upc.exe",
+    "sourceUrl": "https://www.ubisoft.com/en-us/ubisoft-connect"
+  },
+  {
+    "name": "Ubisoft Connect",
+    "executable": "UplayService.exe",
+    "rule": "app:name=UplayService.exe",
+    "sourceUrl": "https://www.ubisoft.com/en-us/ubisoft-connect"
+  },
+  {
+    "name": "Ubisoft Connect",
+    "executable": "UplayWebCore.exe",
+    "rule": "app:name=UplayWebCore.exe",
+    "sourceUrl": "https://www.ubisoft.com/en-us/ubisoft-connect"
+  },
+  {
+    "name": "Vesktop",
+    "executable": "Vesktop.exe",
+    "rule": "app:name=Vesktop.exe",
+    "sourceUrl": "https://github.com/Vencord/Vesktop"
+  },
+  {
+    "name": "Rakuten Viber",
+    "executable": "Viber.exe",
+    "rule": "app:name=Viber.exe",
+    "sourceUrl": "https://www.viber.com/en/download/"
+  },
+  {
+    "name": "WebCord",
+    "executable": "WebCord.exe",
+    "rule": "app:name=WebCord.exe",
+    "sourceUrl": "https://github.com/SpacingBat3/WebCord"
+  },
+  {
+    "name": "Webex",
+    "executable": "Webex.exe",
+    "rule": "app:name=Webex.exe",
+    "sourceUrl": "https://help.webex.com/en-us/article/dluqwo/Executable-files-used-by-Webex-App-on-Windows"
+  },
+  {
+    "name": "WebStorm",
+    "executable": "webstorm64.exe",
+    "rule": "app:name=webstorm64.exe",
+    "sourceUrl": "https://www.jetbrains.com/webstorm/"
+  },
+  {
+    "name": "WhatsApp",
+    "executable": "WhatsApp.exe",
+    "rule": "app:name=WhatsApp.exe",
+    "sourceUrl": "https://www.whatsapp.com/download"
+  },
+  {
+    "name": "Windsurf",
+    "executable": "Windsurf.exe",
+    "rule": "app:name=Windsurf.exe",
+    "sourceUrl": "https://windsurf.com/download"
+  },
+  {
+    "name": "YouTube Music",
+    "executable": "YouTube Music.exe",
+    "rule": "app:name=YouTube Music.exe",
+    "sourceUrl": "https://github.com/pear-devs/pear-desktop"
+  },
+  {
+    "name": "YouTube Music for Desktop",
+    "executable": "YTMDesktop.exe",
+    "rule": "app:name=YTMDesktop.exe",
+    "sourceUrl": "https://github.com/Venipa/ytmdesktop2/blob/master/apps/ytmdesktop2/electron-builder.yml"
+  },
+  {
+    "name": "Zoom Workplace",
+    "executable": "Zoom.exe",
+    "rule": "app:name=Zoom.exe",
+    "sourceUrl": "https://zoom.us/download"
+  }
+]

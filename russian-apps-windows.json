@@ -1,0 +1,242 @@
+[
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cestart.exe",
+    "rule": "app:name=1cestart.exe",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cv8.exe",
+    "rule": "app:name=1cv8.exe",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cv8c.exe",
+    "rule": "app:name=1cv8c.exe",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cv8s.exe",
+    "rule": "app:name=1cv8s.exe",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "2ГИС",
+    "executable": "2GIS.exe",
+    "rule": "app:name=2GIS.exe",
+    "sourceUrl": "https://info.2gis.ru/download"
+  },
+  {
+    "name": "2ГИС",
+    "executable": "2GISUpdater.exe",
+    "rule": "app:name=2GISUpdater.exe",
+    "sourceUrl": "https://info.2gis.ru/download"
+  },
+  {
+    "name": "Антивирус Касперского",
+    "executable": "avp.exe",
+    "rule": "app:name=avp.exe",
+    "sourceUrl": "https://www.kaspersky.ru/home-security"
+  },
+  {
+    "name": "Антивирус Касперского",
+    "executable": "avpui.exe",
+    "rule": "app:name=avpui.exe",
+    "sourceUrl": "https://www.kaspersky.ru/home-security"
+  },
+  {
+    "name": "Битрикс24",
+    "executable": "Bitrix24.exe",
+    "rule": "app:name=Bitrix24.exe",
+    "sourceUrl": "https://www.bitrix24.ru/apps/"
+  },
+  {
+    "name": "CScalp",
+    "executable": "cscalp.exe",
+    "rule": "app:name=cscalp.exe",
+    "sourceUrl": "https://cscalp.net/bystryj-start"
+  },
+  {
+    "name": "Диск-О:",
+    "executable": "DiskO.exe",
+    "rule": "app:name=DiskO.exe",
+    "sourceUrl": "https://disk-o.cloud/ru/faq/app-win/"
+  },
+  {
+    "name": "Dr.Web",
+    "executable": "drweb32w.exe",
+    "rule": "app:name=drweb32w.exe",
+    "sourceUrl": "https://products.drweb.ru/"
+  },
+  {
+    "name": "Плагин Госуслуг",
+    "executable": "IFCPlugin.exe",
+    "rule": "app:name=IFCPlugin.exe",
+    "sourceUrl": "https://cdn.dom.gosuslugi.ru/webhelp/topics/login/foreign_company/t_configure_computer-reg.html"
+  },
+  {
+    "name": "Kaspersky Password Manager",
+    "executable": "KasperskyPasswordManager.exe",
+    "rule": "app:name=KasperskyPasswordManager.exe",
+    "sourceUrl": "https://www.kaspersky.ru/password-manager"
+  },
+  {
+    "name": "Контур.Плагин",
+    "executable": "Kontur.Plugin.exe",
+    "rule": "app:name=Kontur.Plugin.exe",
+    "sourceUrl": "https://support.kontur.ru/ca/38800-ustanovka_kontur_plagin"
+  },
+  {
+    "name": "Контур.Толк",
+    "executable": "kontur.talk.exe",
+    "rule": "app:name=kontur.talk.exe",
+    "sourceUrl": "https://support.kontur.ru/talk/87427-oshibki_desktop_prilozheniya"
+  },
+  {
+    "name": "Lesta Game Center",
+    "executable": "lgc.exe",
+    "rule": "app:name=lgc.exe",
+    "sourceUrl": "https://lesta.ru/lgc"
+  },
+  {
+    "name": "Lesta Game Center",
+    "executable": "lgc_api.exe",
+    "rule": "app:name=lgc_api.exe",
+    "sourceUrl": "https://lesta.ru/lgc"
+  },
+  {
+    "name": "MAX",
+    "executable": "max-service.exe",
+    "rule": "app:name=max-service.exe",
+    "sourceUrl": "https://download.max.ru/"
+  },
+  {
+    "name": "MAX",
+    "executable": "MAX.exe",
+    "rule": "app:name=MAX.exe",
+    "sourceUrl": "https://download.max.ru/"
+  },
+  {
+    "name": "MAX",
+    "executable": "max_updater.exe",
+    "rule": "app:name=max_updater.exe",
+    "sourceUrl": "https://download.max.ru/"
+  },
+  {
+    "name": "МТС Линк",
+    "executable": "MTS Link.exe",
+    "rule": "app:name=MTS Link.exe",
+    "sourceUrl": "https://mts-link.ru/"
+  },
+  {
+    "name": "Пачка",
+    "executable": "pachca.exe",
+    "rule": "app:name=pachca.exe",
+    "sourceUrl": "https://pachca.com/help-center/start/vsyo-pro-prilozheniya-pachki"
+  },
+  {
+    "name": "Saby (СБИС)",
+    "executable": "saby.exe",
+    "rule": "app:name=saby.exe",
+    "sourceUrl": "https://saby.ru/"
+  },
+  {
+    "name": "Saby (СБИС)",
+    "executable": "sbis.exe",
+    "rule": "app:name=sbis.exe",
+    "sourceUrl": "https://saby.ru/"
+  },
+  {
+    "name": "Dr.Web",
+    "executable": "spideragent.exe",
+    "rule": "app:name=spideragent.exe",
+    "sourceUrl": "https://products.drweb.ru/"
+  },
+  {
+    "name": "Dr.Web",
+    "executable": "spidergate.exe",
+    "rule": "app:name=spidergate.exe",
+    "sourceUrl": "https://products.drweb.ru/"
+  },
+  {
+    "name": "Dr.Web",
+    "executable": "spidernt.exe",
+    "rule": "app:name=spidernt.exe",
+    "sourceUrl": "https://products.drweb.ru/"
+  },
+  {
+    "name": "TRANSAQ",
+    "executable": "transaq.exe",
+    "rule": "app:name=transaq.exe",
+    "sourceUrl": "https://www.transaq.ru/"
+  },
+  {
+    "name": "TrueConf",
+    "executable": "TrueConf.exe",
+    "rule": "app:name=TrueConf.exe",
+    "sourceUrl": "https://trueconf.ru/downloads.html"
+  },
+  {
+    "name": "TrueConf Room",
+    "executable": "TrueConfRoom.exe",
+    "rule": "app:name=TrueConfRoom.exe",
+    "sourceUrl": "https://trueconf.ru/products/room.html"
+  },
+  {
+    "name": "VK Мессенджер",
+    "executable": "VK Messenger.exe",
+    "rule": "app:name=VK Messenger.exe",
+    "sourceUrl": "https://corp.vkcdn.ru/media/files/VK_Annual_Report_2023_ENG_8Uoc1S9.pdf"
+  },
+  {
+    "name": "VK Мессенджер",
+    "executable": "VK Мессенджер.exe",
+    "rule": "app:name=VK Мессенджер.exe",
+    "sourceUrl": "https://corp.vkcdn.ru/media/files/VK_Annual_Report_2023_ENG_8Uoc1S9.pdf"
+  },
+  {
+    "name": "VK Teams",
+    "executable": "vkteams.exe",
+    "rule": "app:name=vkteams.exe",
+    "sourceUrl": "https://workspace.vk.ru/superapp/"
+  },
+  {
+    "name": "WinYandex",
+    "executable": "WinYandex.exe",
+    "rule": "app:name=WinYandex.exe",
+    "sourceUrl": "https://github.com/pixiemays/WinYandex"
+  },
+  {
+    "name": "yamusic-rs",
+    "executable": "yamusic-rs.exe",
+    "rule": "app:name=yamusic-rs.exe",
+    "sourceUrl": "https://github.com/SpolzerMod/yamusic-rs"
+  },
+  {
+    "name": "Яндекс Диск",
+    "executable": "YandexDisk.exe",
+    "rule": "app:name=YandexDisk.exe",
+    "sourceUrl": "https://360.yandex.ru/disk/download/"
+  },
+  {
+    "name": "Яндекс Телемост",
+    "executable": "YandexTelemost.exe",
+    "rule": "app:name=YandexTelemost.exe",
+    "sourceUrl": "https://360.yandex.ru/telemost/"
+  },
+  {
+    "name": "Контур.Толк",
+    "executable": "Толк.exe",
+    "rule": "app:name=Толк.exe",
+    "sourceUrl": "https://support.kontur.ru/talk/87427-oshibki_desktop_prilozheniya"
+  },
+  {
+    "name": "Яндекс Музыка",
+    "executable": "Яндекс Музыка.exe",
+    "rule": "app:name=Яндекс Музыка.exe",
+    "sourceUrl": "https://music.yandex.ru/download/"
+  }
+]
