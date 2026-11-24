@@ -1,0 +1,86 @@
+[
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cestart",
+    "rule": "app:name=1cestart",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cv8",
+    "rule": "app:name=1cv8",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "1С:Предприятие 8",
+    "executable": "1cv8c",
+    "rule": "app:name=1cv8c",
+    "sourceUrl": "https://v8.1c.ru/platforma/"
+  },
+  {
+    "name": "Битрикс24",
+    "executable": "bitrix24",
+    "rule": "app:name=bitrix24",
+    "sourceUrl": "https://helpdesk.bitrix24.ru/open/16171806/"
+  },
+  {
+    "name": "Контур.Толк",
+    "executable": "ktalk",
+    "rule": "app:name=ktalk",
+    "sourceUrl": "https://support.kontur.ru/talk/87427-oshibki_desktop_prilozheniya"
+  },
+  {
+    "name": "MAX",
+    "executable": "max",
+    "rule": "app:name=max",
+    "sourceUrl": "https://download.max.ru/linux-repos"
+  },
+  {
+    "name": "Saby (СБИС)",
+    "executable": "saby",
+    "rule": "app:name=saby",
+    "sourceUrl": "https://saby.ru/download"
+  },
+  {
+    "name": "TrueConf",
+    "executable": "trueconf",
+    "rule": "app:name=trueconf",
+    "sourceUrl": "https://trueconf.ru/downloads/linux.html"
+  },
+  {
+    "name": "VK Мессенджер",
+    "executable": "vk-messenger",
+    "rule": "app:name=vk-messenger",
+    "sourceUrl": "https://corp.vkcdn.ru/media/files/VK_Annual_Report_2023_ENG_8Uoc1S9.pdf"
+  },
+  {
+    "name": "VK Teams",
+    "executable": "vkteams",
+    "rule": "app:name=vkteams",
+    "sourceUrl": "https://workspace.vk.ru/superapp/"
+  },
+  {
+    "name": "yamusic-rs",
+    "executable": "yamusic-rs",
+    "rule": "app:name=yamusic-rs",
+    "sourceUrl": "https://github.com/SpolzerMod/yamusic-rs"
+  },
+  {
+    "name": "Яндекс Диск",
+    "executable": "yandex-disk",
+    "rule": "app:name=yandex-disk",
+    "sourceUrl": "https://yandex.ru/support/yandex-360/customers/disk/desktop/linux/ru/cli-commands.html"
+  },
+  {
+    "name": "Яндекс Музыка",
+    "executable": "yandex-music",
+    "rule": "app:name=yandex-music",
+    "sourceUrl": "https://music.yandex.ru/download/"
+  },
+  {
+    "name": "Яндекс Музыка",
+    "executable": "yandexmusic",
+    "rule": "app:name=yandexmusic",
+    "sourceUrl": "https://music.yandex.ru/download/"
+  }
+]

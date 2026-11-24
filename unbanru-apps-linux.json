@@ -1,0 +1,506 @@
+[
+  {
+    "name": "AyuGram Desktop",
+    "executable": "AyuGram",
+    "rule": "app:name=AyuGram",
+    "sourceUrl": "https://github.com/AyuGram/AyuGramDesktop"
+  },
+  {
+    "name": "AyuGram Desktop",
+    "executable": "ayugram-desktop",
+    "rule": "app:name=ayugram-desktop",
+    "sourceUrl": "https://github.com/AyuGram/AyuGramDesktop"
+  },
+  {
+    "name": "Caprine",
+    "executable": "caprine",
+    "rule": "app:name=caprine",
+    "sourceUrl": "https://github.com/sindresorhus/caprine"
+  },
+  {
+    "name": "Chatterino",
+    "executable": "chatterino",
+    "rule": "app:name=chatterino",
+    "sourceUrl": "https://chatterino.com/"
+  },
+  {
+    "name": "Cider",
+    "executable": "cider",
+    "rule": "app:name=cider",
+    "sourceUrl": "https://cider.sh/"
+  },
+  {
+    "name": "Claude Code",
+    "executable": "claude",
+    "rule": "app:name=claude",
+    "sourceUrl": "https://code.claude.com/docs/en/quickstart"
+  },
+  {
+    "name": "CLion",
+    "executable": "clion",
+    "rule": "app:name=clion",
+    "sourceUrl": "https://www.jetbrains.com/clion/"
+  },
+  {
+    "name": "OpenAI Codex",
+    "executable": "codex",
+    "rule": "app:name=codex",
+    "sourceUrl": "https://github.com/openai/codex"
+  },
+  {
+    "name": "Docker Desktop",
+    "executable": "com.docker.backend",
+    "rule": "app:name=com.docker.backend",
+    "sourceUrl": "https://docs.docker.com/desktop/features/networking/"
+  },
+  {
+    "name": "Cursor",
+    "executable": "cursor",
+    "rule": "app:name=cursor",
+    "sourceUrl": "https://cursor.com/download"
+  },
+  {
+    "name": "Cursor Agent CLI",
+    "executable": "cursor-agent",
+    "rule": "app:name=cursor-agent",
+    "sourceUrl": "https://cursor.com/docs/cli/installation"
+  },
+  {
+    "name": "DataGrip",
+    "executable": "datagrip",
+    "rule": "app:name=datagrip",
+    "sourceUrl": "https://www.jetbrains.com/datagrip/"
+  },
+  {
+    "name": "Deezer for Linux",
+    "executable": "deezer",
+    "rule": "app:name=deezer",
+    "sourceUrl": "https://github.com/aunetx/deezer-linux"
+  },
+  {
+    "name": "Discord",
+    "executable": "Discord",
+    "rule": "app:name=Discord",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord",
+    "executable": "discord",
+    "rule": "app:name=discord",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord Canary",
+    "executable": "discord-canary",
+    "rule": "app:name=discord-canary",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord Public Test Build",
+    "executable": "discord-ptb",
+    "rule": "app:name=discord-ptb",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord Canary",
+    "executable": "DiscordCanary",
+    "rule": "app:name=DiscordCanary",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Discord Public Test Build",
+    "executable": "DiscordPTB",
+    "rule": "app:name=DiscordPTB",
+    "sourceUrl": "https://discord.com/download"
+  },
+  {
+    "name": "Dissent",
+    "executable": "dissent",
+    "rule": "app:name=dissent",
+    "sourceUrl": "https://github.com/diamondburned/dissent"
+  },
+  {
+    "name": "Docker Desktop",
+    "executable": "docker-desktop",
+    "rule": "app:name=docker-desktop",
+    "sourceUrl": "https://docs.docker.com/desktop/features/networking/"
+  },
+  {
+    "name": "Dropbox",
+    "executable": "dropbox",
+    "rule": "app:name=dropbox",
+    "sourceUrl": "https://www.dropbox.com/install-linux"
+  },
+  {
+    "name": "Equibop",
+    "executable": "equibop",
+    "rule": "app:name=equibop",
+    "sourceUrl": "https://github.com/Equicord/Equibop/releases"
+  },
+  {
+    "name": "Figma Agent",
+    "executable": "figma-agent",
+    "rule": "app:name=figma-agent",
+    "sourceUrl": "https://www.figma.com/downloads/"
+  },
+  {
+    "name": "Figma Linux",
+    "executable": "figma-linux",
+    "rule": "app:name=figma-linux",
+    "sourceUrl": "https://github.com/Figma-Linux/figma-linux"
+  },
+  {
+    "name": "Forkgram Desktop",
+    "executable": "Forkgram",
+    "rule": "app:name=Forkgram",
+    "sourceUrl": "https://forkgram.github.io/tdesktop/"
+  },
+  {
+    "name": "Forkgram Desktop",
+    "executable": "forkgram",
+    "rule": "app:name=forkgram",
+    "sourceUrl": "https://forkgram.github.io/tdesktop/"
+  },
+  {
+    "name": "FreeTube",
+    "executable": "freetube",
+    "rule": "app:name=freetube",
+    "sourceUrl": "https://freetubeapp.io/"
+  },
+  {
+    "name": "Gemini CLI",
+    "executable": "gemini-cli",
+    "rule": "app:name=gemini-cli",
+    "sourceUrl": "https://github.com/google-gemini/gemini-cli"
+  },
+  {
+    "name": "GitHub Copilot",
+    "executable": "github-copilot",
+    "rule": "app:name=github-copilot",
+    "sourceUrl": "https://github.com/features/copilot"
+  },
+  {
+    "name": "GitHub Desktop for Linux",
+    "executable": "github-desktop",
+    "rule": "app:name=github-desktop",
+    "sourceUrl": "https://github.com/shiftkey/desktop"
+  },
+  {
+    "name": "GitKraken Desktop",
+    "executable": "gitkraken",
+    "rule": "app:name=gitkraken",
+    "sourceUrl": "https://www.gitkraken.com/download/linux"
+  },
+  {
+    "name": "GoLand",
+    "executable": "goland",
+    "rule": "app:name=goland",
+    "sourceUrl": "https://www.jetbrains.com/go/"
+  },
+  {
+    "name": "GoofCord",
+    "executable": "goofcord",
+    "rule": "app:name=goofcord",
+    "sourceUrl": "https://github.com/Milkshiift/GoofCord"
+  },
+  {
+    "name": "Heroic Games Launcher",
+    "executable": "heroic",
+    "rule": "app:name=heroic",
+    "sourceUrl": "https://heroicgameslauncher.com/"
+  },
+  {
+    "name": "IntelliJ IDEA",
+    "executable": "idea",
+    "rule": "app:name=idea",
+    "sourceUrl": "https://www.jetbrains.com/idea/"
+  },
+  {
+    "name": "Insomnia",
+    "executable": "insomnia",
+    "rule": "app:name=insomnia",
+    "sourceUrl": "https://insomnia.rest/download"
+  },
+  {
+    "name": "JetBrains Toolbox App",
+    "executable": "jetbrains-toolbox",
+    "rule": "app:name=jetbrains-toolbox",
+    "sourceUrl": "https://www.jetbrains.com/toolbox-app/"
+  },
+  {
+    "name": "Karere",
+    "executable": "karere",
+    "rule": "app:name=karere",
+    "sourceUrl": "https://flathub.org/en/apps/io.github.tobagin.karere"
+  },
+  {
+    "name": "Kotatogram Desktop",
+    "executable": "Kotatogram",
+    "rule": "app:name=Kotatogram",
+    "sourceUrl": "https://github.com/kotatogram/kotatogram-desktop/releases"
+  },
+  {
+    "name": "Kotatogram Desktop",
+    "executable": "kotatogram-desktop",
+    "rule": "app:name=kotatogram-desktop",
+    "sourceUrl": "https://github.com/kotatogram/kotatogram-desktop/releases"
+  },
+  {
+    "name": "Legcord",
+    "executable": "legcord",
+    "rule": "app:name=legcord",
+    "sourceUrl": "https://github.com/Legcord/Legcord"
+  },
+  {
+    "name": "materialgram",
+    "executable": "materialgram",
+    "rule": "app:name=materialgram",
+    "sourceUrl": "https://github.com/materialgram/materialgram"
+  },
+  {
+    "name": "Mercurygram Desktop",
+    "executable": "Mercurygram",
+    "rule": "app:name=Mercurygram",
+    "sourceUrl": "https://github.com/Mercurygram/mdesktop"
+  },
+  {
+    "name": "Mercurygram Desktop",
+    "executable": "mercurygram",
+    "rule": "app:name=mercurygram",
+    "sourceUrl": "https://github.com/Mercurygram/mdesktop"
+  },
+  {
+    "name": "ncspot",
+    "executable": "ncspot",
+    "rule": "app:name=ncspot",
+    "sourceUrl": "https://github.com/hrkfdn/ncspot"
+  },
+  {
+    "name": "Notion (Linux port)",
+    "executable": "notion-app",
+    "rule": "app:name=notion-app",
+    "sourceUrl": "https://github.com/notion-enhancer/notion-repackaged"
+  },
+  {
+    "name": "Notion Enhanced",
+    "executable": "notion-enhanced",
+    "rule": "app:name=notion-enhanced",
+    "sourceUrl": "https://notion-enhancer.github.io/getting-started/installation/"
+  },
+  {
+    "name": "PhpStorm",
+    "executable": "phpstorm",
+    "rule": "app:name=phpstorm",
+    "sourceUrl": "https://www.jetbrains.com/phpstorm/"
+  },
+  {
+    "name": "PlasmaTube",
+    "executable": "plasmatube",
+    "rule": "app:name=plasmatube",
+    "sourceUrl": "https://apps.kde.org/plasmatube/"
+  },
+  {
+    "name": "Postman",
+    "executable": "postman",
+    "rule": "app:name=postman",
+    "sourceUrl": "https://www.postman.com/downloads/"
+  },
+  {
+    "name": "Proton Mail",
+    "executable": "proton-mail",
+    "rule": "app:name=proton-mail",
+    "sourceUrl": "https://proton.me/mail/download"
+  },
+  {
+    "name": "Proton Pass",
+    "executable": "proton-pass",
+    "rule": "app:name=proton-pass",
+    "sourceUrl": "https://proton.me/pass/download"
+  },
+  {
+    "name": "Proton Mail Bridge",
+    "executable": "protonmail-bridge",
+    "rule": "app:name=protonmail-bridge",
+    "sourceUrl": "https://proton.me/mail/bridge"
+  },
+  {
+    "name": "PyCharm",
+    "executable": "pycharm",
+    "rule": "app:name=pycharm",
+    "sourceUrl": "https://www.jetbrains.com/pycharm/"
+  },
+  {
+    "name": "Qtcord",
+    "executable": "qtcord",
+    "rule": "app:name=qtcord",
+    "sourceUrl": "https://flathub.org/en/apps/io.github.mak448a.QTCord"
+  },
+  {
+    "name": "JetBrains Rider",
+    "executable": "rider",
+    "rule": "app:name=rider",
+    "sourceUrl": "https://www.jetbrains.com/rider/"
+  },
+  {
+    "name": "RubyMine",
+    "executable": "rubymine",
+    "rule": "app:name=rubymine",
+    "sourceUrl": "https://www.jetbrains.com/ruby/"
+  },
+  {
+    "name": "Signal Desktop",
+    "executable": "signal-desktop",
+    "rule": "app:name=signal-desktop",
+    "sourceUrl": "https://signal.org/download/"
+  },
+  {
+    "name": "Slack",
+    "executable": "slack",
+    "rule": "app:name=slack",
+    "sourceUrl": "https://slack.com/downloads/linux"
+  },
+  {
+    "name": "Spotify",
+    "executable": "spotify",
+    "rule": "app:name=spotify",
+    "sourceUrl": "https://www.spotify.com/download/linux/"
+  },
+  {
+    "name": "spotify-player",
+    "executable": "spotify_player",
+    "rule": "app:name=spotify_player",
+    "sourceUrl": "https://github.com/aome510/spotify-player"
+  },
+  {
+    "name": "Spotifyd",
+    "executable": "spotifyd",
+    "rule": "app:name=spotifyd",
+    "sourceUrl": "https://github.com/Spotifyd/spotifyd"
+  },
+  {
+    "name": "Spotube",
+    "executable": "spotube",
+    "rule": "app:name=spotube",
+    "sourceUrl": "https://github.com/team-spotube/spotube"
+  },
+  {
+    "name": "Microsoft Teams",
+    "executable": "teams",
+    "rule": "app:name=teams",
+    "sourceUrl": "https://learn.microsoft.com/en-us/microsoftteams/get-clients"
+  },
+  {
+    "name": "Teams for Linux",
+    "executable": "teams-for-linux",
+    "rule": "app:name=teams-for-linux",
+    "sourceUrl": "https://github.com/IsmaelMartinez/teams-for-linux"
+  },
+  {
+    "name": "TeamViewer",
+    "executable": "teamviewer",
+    "rule": "app:name=teamviewer",
+    "sourceUrl": "https://www.teamviewer.com/en/download/linux/"
+  },
+  {
+    "name": "Telegram Desktop",
+    "executable": "Telegram",
+    "rule": "app:name=Telegram",
+    "sourceUrl": "https://desktop.telegram.org/"
+  },
+  {
+    "name": "Telegram Desktop",
+    "executable": "telegram-desktop",
+    "rule": "app:name=telegram-desktop",
+    "sourceUrl": "https://desktop.telegram.org/"
+  },
+  {
+    "name": "TIDAL Hi-Fi",
+    "executable": "tidal-hifi",
+    "rule": "app:name=tidal-hifi",
+    "sourceUrl": "https://flathub.org/en/apps/com.mastermindzh.tidal-hifi"
+  },
+  {
+    "name": "Tuta Desktop",
+    "executable": "tuta-desktop",
+    "rule": "app:name=tuta-desktop",
+    "sourceUrl": "https://tuta.com/support/howto"
+  },
+  {
+    "name": "Unity Hub",
+    "executable": "unityhub",
+    "rule": "app:name=unityhub",
+    "sourceUrl": "https://unity.com/download"
+  },
+  {
+    "name": "Vesktop",
+    "executable": "vesktop",
+    "rule": "app:name=vesktop",
+    "sourceUrl": "https://github.com/Vencord/Vesktop"
+  },
+  {
+    "name": "Rakuten Viber",
+    "executable": "Viber",
+    "rule": "app:name=Viber",
+    "sourceUrl": "https://www.viber.com/en/download/"
+  },
+  {
+    "name": "Rakuten Viber",
+    "executable": "viber",
+    "rule": "app:name=viber",
+    "sourceUrl": "https://www.viber.com/en/download/"
+  },
+  {
+    "name": "Warp",
+    "executable": "warp-terminal",
+    "rule": "app:name=warp-terminal",
+    "sourceUrl": "https://www.warp.dev/linux-terminal"
+  },
+  {
+    "name": "WebCord",
+    "executable": "webcord",
+    "rule": "app:name=webcord",
+    "sourceUrl": "https://github.com/SpacingBat3/WebCord"
+  },
+  {
+    "name": "WebStorm",
+    "executable": "webstorm",
+    "rule": "app:name=webstorm",
+    "sourceUrl": "https://www.jetbrains.com/webstorm/"
+  },
+  {
+    "name": "WhatsApp for Linux",
+    "executable": "whatsapp-for-linux",
+    "rule": "app:name=whatsapp-for-linux",
+    "sourceUrl": "https://github.com/eneshecan/whatsapp-for-linux"
+  },
+  {
+    "name": "Whatsie",
+    "executable": "whatsie",
+    "rule": "app:name=whatsie",
+    "sourceUrl": "https://github.com/keshavbhatt/whatsie"
+  },
+  {
+    "name": "Windsurf",
+    "executable": "windsurf",
+    "rule": "app:name=windsurf",
+    "sourceUrl": "https://windsurf.com/download"
+  },
+  {
+    "name": "YouTube Music",
+    "executable": "youtube-music",
+    "rule": "app:name=youtube-music",
+    "sourceUrl": "https://github.com/pear-devs/pear-desktop"
+  },
+  {
+    "name": "ZapZap",
+    "executable": "zapzap",
+    "rule": "app:name=zapzap",
+    "sourceUrl": "https://flathub.org/en/apps/com.rtosta.zapzap"
+  },
+  {
+    "name": "Zoom Workplace",
+    "executable": "zoom",
+    "rule": "app:name=zoom",
+    "sourceUrl": "https://zoom.us/download?os=linux"
+  }
+]

@@ -1,0 +1,1 @@
+app:name=1cestart, app:name=1cv8, app:name=1cv8c, app:name=bitrix24, app:name=ktalk, app:name=max, app:name=saby, app:name=trueconf, app:name=vk-messenger, app:name=vkteams, app:name=yamusic-rs, app:name=yandex-disk, app:name=yandex-music, app:name=yandexmusic
